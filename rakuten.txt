@@ -200,8 +200,14 @@ search.rakuten.co.jp##div[class="dui-card searchresultitem"]:has(div>a[href^="ht
 search.rakuten.co.jp##div[class="dui-card searchresultitem"]:has(div>a[href^="https://www.rakuten.co.jp/victoryslife/"])
 search.rakuten.co.jp##div[class="dui-card searchresultitem"]:has(div>a[href^="https://www.rakuten.co.jp/wantanarshop/"])
 search.rakuten.co.jp##div[class="dui-card searchresultitem"]:has(div>a[href^="https://www.rakuten.co.jp/ytk-shop/"])
-search.rakuten.co.jp##div[class="dui-card searchresultitem"]:has(div>a[href^="https://www.rakuten.co.jpkaimonoking/"])
-search.rakuten.co.jp##div[class="dui-card searchresultitem"]:has(div>a[href^="https://www.rakuten.co.jpkyoshin-m/"])
+search.rakuten.co.jp##div[class="dui-card searchresultitem"]:has(div>a[href^="https://www.rakuten.co.jp/kaimonoking/"])
+search.rakuten.co.jp##div[class="dui-card searchresultitem"]:has(div>a[href^="https://www.rakuten.co.jp/kyoshin-m/"])
+
+
+! https://search.rakuten.co.jp/search/mall/ニンテンドースイッチ+本体+リングフィットアドベンチャー/?min=45000&used=0
+search.rakuten.co.jp##div[class="dui-card searchresultitem"]:has(div>a[href^="https://www.rakuten.co.jp/en-enda/"])
+search.rakuten.co.jp##div[class="dui-card searchresultitem"]:has(div>a[href^="https://www.rakuten.co.jp/percusssive/"])
+search.rakuten.co.jp##div[class="dui-card searchresultitem"]:has(div>a[href^="https://www.rakuten.co.jp/sikokuiryo/"])
 
 
 ! PlayStation 5 が 50,000 を超えていた
