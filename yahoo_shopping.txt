@@ -1,13 +1,13 @@
 [Adblock Plus 2.0]
-! Title: –Å‚Ñ‚ëƒeƒ“ƒoƒCƒ„[iƒ„ƒt[ƒVƒ‡ƒbƒsƒ“ƒOj
+! Title: æ»…ã³ã‚ãƒ†ãƒ³ãƒã‚¤ãƒ¤ãƒ¼ï¼ˆãƒ¤ãƒ•ãƒ¼ã‚·ãƒ§ãƒƒãƒ”ãƒ³ã‚°ï¼‰
 
-! ƒeƒ“ƒoƒCƒ„[‰B•ÁƒtƒBƒ‹ƒ^ ˆêsÅ‘å4000•¶Žš‚­‚ç‚¢‚ð–ÚˆÀ‚É
+! ãƒ†ãƒ³ãƒã‚¤ãƒ¤ãƒ¼éš è”½ãƒ•ã‚£ãƒ«ã‚¿ ä¸€è¡Œæœ€å¤§4000æ–‡å­—ãã‚‰ã„ã‚’ç›®å®‰ã«
 ! (?<=https://store\.shopping\.yahoo\.co\.jp\/[a-z0-9\-]*\/).*$
 ! (?<=https://paypaymall\.yahoo\.co\.jp\/store/[a-z0-9\-]*\/).*$
 !shopping.yahoo.co.jp##li[class="LoopList__item"]:has(div>a[href^="https://store.shopping.yahoo.co.jp/example/"])
 !shopping.yahoo.co.jp##li[class="LoopList__item"]:has(div>a[href^="https://store.shopping.yahoo.co.jp/"][href*="/example/"])
 
-! yamaha ag03 ‚ª 30,000 ‚ð’´‚¦‚Ä‚¢‚½
+! yamaha ag03 ãŒ 30,000 ã‚’è¶…ãˆã¦ã„ãŸ
 ! https://shopping.yahoo.co.jp/search?p=yamaha+ag03&first=1&pf=30000&used=2&uIv=off
 shopping.yahoo.co.jp##li[class="LoopList__item"]:has(div>a[href^="https://store.shopping.yahoo.co.jp/29mart/"])
 shopping.yahoo.co.jp##li[class="LoopList__item"]:has(div>a[href^="https://store.shopping.yahoo.co.jp/4smile/"])
@@ -157,7 +157,7 @@ shopping.yahoo.co.jp##li[class="LoopList__item"]:has(div>a[href^="https://store.
 shopping.yahoo.co.jp##li[class="LoopList__item"]:has(div>a[href^="https://store.shopping.yahoo.co.jp/zakko/"])
 
 
-! https://shopping.yahoo.co.jp/search?p=yamaha+ag03+ƒ~ƒN&first=1&pf=30000&used=2&uIv=off
+! https://shopping.yahoo.co.jp/search?p=yamaha+ag03+ãƒŸã‚¯&first=1&pf=30000&used=2&uIv=off
 shopping.yahoo.co.jp##li[class="LoopList__item"]:has(div>a[href^="https://store.shopping.yahoo.co.jp/ajplaza/"])
 shopping.yahoo.co.jp##li[class="LoopList__item"]:has(div>a[href^="https://store.shopping.yahoo.co.jp/anniversary-prime/"])
 shopping.yahoo.co.jp##li[class="LoopList__item"]:has(div>a[href^="https://store.shopping.yahoo.co.jp/bfe/"])
@@ -177,8 +177,8 @@ shopping.yahoo.co.jp##li[class="LoopList__item"]:has(div>a[href^="https://store.
 shopping.yahoo.co.jp##li[class="LoopList__item"]:has(div>a[href^="https://store.shopping.yahoo.co.jp/yumecocoro/"])
 
 
-! yamaha ag03 ˜^‰¹ƒZƒbƒg‚ª 40,000 ‚ð’´‚¦‚Ä‚¢‚½
-! https://shopping.yahoo.co.jp/search?p=yamaha+ag03+˜^‰¹ƒZƒbƒg&first=1&pf=40000&used=2&uIv=off
+! yamaha ag03 éŒ²éŸ³ã‚»ãƒƒãƒˆãŒ 40,000 ã‚’è¶…ãˆã¦ã„ãŸ
+! https://shopping.yahoo.co.jp/search?p=yamaha+ag03+éŒ²éŸ³ã‚»ãƒƒãƒˆ&first=1&pf=40000&used=2&uIv=off
 shopping.yahoo.co.jp##li[class="LoopList__item"]:has(div>a[href^="https://store.shopping.yahoo.co.jp/azskillz/"])
 shopping.yahoo.co.jp##li[class="LoopList__item"]:has(div>a[href^="https://store.shopping.yahoo.co.jp/bishop47online/"])
 shopping.yahoo.co.jp##li[class="LoopList__item"]:has(div>a[href^="https://store.shopping.yahoo.co.jp/citrus-tie/"])
@@ -214,8 +214,8 @@ shopping.yahoo.co.jp##li[class="LoopList__item"]:has(div>a[href^="https://store.
 shopping.yahoo.co.jp##li[class="LoopList__item"]:has(div>a[href^="https://store.shopping.yahoo.co.jp/zuzeado-store/"])
 
 
-! https://shopping.yahoo.co.jp/search?p=ƒ}ƒCƒNƒAƒ“ƒv+NT-5&first=1&pf=1000&used=2&uIv=off
-! ƒ}ƒCƒNƒAƒ“ƒv NT-5 ‚ª 1,000 ‚ð’´‚¦‚Ä‚¢‚½
+! https://shopping.yahoo.co.jp/search?p=ãƒžã‚¤ã‚¯ã‚¢ãƒ³ãƒ—+NT-5&first=1&pf=1000&used=2&uIv=off
+! ãƒžã‚¤ã‚¯ã‚¢ãƒ³ãƒ— NT-5 ãŒ 1,000 ã‚’è¶…ãˆã¦ã„ãŸ
 shopping.yahoo.co.jp##li[class="LoopList__item"]:has(div>a[href^="https://store.shopping.yahoo.co.jp/analamama/"])
 shopping.yahoo.co.jp##li[class="LoopList__item"]:has(div>a[href^="https://store.shopping.yahoo.co.jp/b-s/"])
 shopping.yahoo.co.jp##li[class="LoopList__item"]:has(div>a[href^="https://store.shopping.yahoo.co.jp/big-future-n/"])
@@ -266,8 +266,8 @@ shopping.yahoo.co.jp##li[class="LoopList__item"]:has(div>a[href^="https://store.
 shopping.yahoo.co.jp##li[class="LoopList__item"]:has(div>a[href^="https://store.shopping.yahoo.co.jp/zakkanoyamato/"])
 
 
-! ƒjƒ“ƒeƒ“ƒh[ƒXƒCƒbƒ` ‚ª 35,000 ‚ð’´‚¦‚Ä‚¢‚½
-! https://shopping.yahoo.co.jp/search?p=ƒjƒ“ƒeƒ“ƒh[ƒXƒCƒbƒ`+–{‘Ì&first=1&pf=35000&used=2&uIv=off
+! ãƒ‹ãƒ³ãƒ†ãƒ³ãƒ‰ãƒ¼ã‚¹ã‚¤ãƒƒãƒ ãŒ 35,000 ã‚’è¶…ãˆã¦ã„ãŸ
+! https://shopping.yahoo.co.jp/search?p=ãƒ‹ãƒ³ãƒ†ãƒ³ãƒ‰ãƒ¼ã‚¹ã‚¤ãƒƒãƒ+æœ¬ä½“&first=1&pf=35000&used=2&uIv=off
 shopping.yahoo.co.jp##li[class="LoopList__item"]:has(div>a[href^="https://ck.storematch.jpdensidonya_"])
 shopping.yahoo.co.jp##li[class="LoopList__item"]:has(div>a[href^="https://paypaymall.yahoo.co.jp/store/bestone1/"])
 shopping.yahoo.co.jp##li[class="LoopList__item"]:has(div>a[href^="https://store.shopping.yahoo.co.jp/292mart/"])
@@ -380,7 +380,7 @@ shopping.yahoo.co.jp##li[class="LoopList__item"]:has(div>a[href^="https://store.
 shopping.yahoo.co.jp##li[class="LoopList__item"]:has(div>a[href^="https://store.shopping.yahoo.co.jp/yukidaruma-store/"])
 
 
-! https://shopping.yahoo.co.jp/search?p=ƒjƒ“ƒeƒ“ƒh[ƒXƒCƒbƒ`+–{‘Ì+‚Ç‚¤‚Ô‚Â‚ÌX&first=1&pf=45000&used=2&uIv=off
+! https://shopping.yahoo.co.jp/search?p=ãƒ‹ãƒ³ãƒ†ãƒ³ãƒ‰ãƒ¼ã‚¹ã‚¤ãƒƒãƒ+æœ¬ä½“+ã©ã†ã¶ã¤ã®æ£®&first=1&pf=45000&used=2&uIv=off
 shopping.yahoo.co.jp##li[class="LoopList__item"]:has(div>a[href^="https://paypaymall.yahoo.co.jp/store/crux-store/"])
 shopping.yahoo.co.jp##li[class="LoopList__item"]:has(div>a[href^="https://store.shopping.yahoo.co.jp/1pro-foods/"])
 shopping.yahoo.co.jp##li[class="LoopList__item"]:has(div>a[href^="https://store.shopping.yahoo.co.jp/58company/"])
@@ -541,9 +541,9 @@ shopping.yahoo.co.jp##li[class="LoopList__item"]:has(div>a[href^="https://store.
 shopping.yahoo.co.jp##li[class="LoopList__item"]:has(div>a[href^="https://store.shopping.yahoo.co.jp/yutaka-s/"])
 
 
-! PlayStation 4 ‚ª 35,000 ‚ð’´‚¦‚Ä‚¢‚½
-! https://shopping.yahoo.co.jp/search?p=PlayStation+4+–{‘Ì&first=1&pf=35000&used=2&uIv=off
-! https://shopping.yahoo.co.jp/search?p=PlayStation+4+–{‘Ì+ƒ‚ƒ“ƒXƒ^[ƒnƒ“ƒ^[&first=1&pf=35000&used=2&uIv=off
+! PlayStation 4 ãŒ 35,000 ã‚’è¶…ãˆã¦ã„ãŸ
+! https://shopping.yahoo.co.jp/search?p=PlayStation+4+æœ¬ä½“&first=1&pf=35000&used=2&uIv=off
+! https://shopping.yahoo.co.jp/search?p=PlayStation+4+æœ¬ä½“+ãƒ¢ãƒ³ã‚¹ã‚¿ãƒ¼ãƒãƒ³ã‚¿ãƒ¼&first=1&pf=35000&used=2&uIv=off
 shopping.yahoo.co.jp##li[class="LoopList__item"]:has(div>a[href^="https://paypaymall.yahoo.co.jp/store/e-zoa/"])
 shopping.yahoo.co.jp##li[class="LoopList__item"]:has(div>a[href^="https://store.shopping.yahoo.co.jp/alice-toys/"])
 shopping.yahoo.co.jp##li[class="LoopList__item"]:has(div>a[href^="https://store.shopping.yahoo.co.jp/aruba/"])
@@ -567,9 +567,9 @@ shopping.yahoo.co.jp##li[class="LoopList__item"]:has(div>a[href^="https://store.
 shopping.yahoo.co.jp##li[class="LoopList__item"]:has(div>a[href^="https://store.shopping.yahoo.co.jp/webselect/"])
 
 
-! PlayStation 4 Pro ‚ª 45,000 ‚ð’´‚¦‚Ä‚¢‚½
-! https://shopping.yahoo.co.jp/search?p=PlayStation+4+Pro+–{‘Ì&first=1&pf=45000&used=2&uIv=off
-! https://shopping.yahoo.co.jp/search?p=PlayStation+4+Pro+–{‘Ì+ƒ‚ƒ“ƒXƒ^[ƒnƒ“ƒ^[&first=1&pf=45000&used=2&uIv=off
+! PlayStation 4 Pro ãŒ 45,000 ã‚’è¶…ãˆã¦ã„ãŸ
+! https://shopping.yahoo.co.jp/search?p=PlayStation+4+Pro+æœ¬ä½“&first=1&pf=45000&used=2&uIv=off
+! https://shopping.yahoo.co.jp/search?p=PlayStation+4+Pro+æœ¬ä½“+ãƒ¢ãƒ³ã‚¹ã‚¿ãƒ¼ãƒãƒ³ã‚¿ãƒ¼&first=1&pf=45000&used=2&uIv=off
 shopping.yahoo.co.jp##li[class="LoopList__item"]:has(div>a[href^="https://store.shopping.yahoo.co.jp/1932/"])
 shopping.yahoo.co.jp##li[class="LoopList__item"]:has(div>a[href^="https://store.shopping.yahoo.co.jp/americapro/"])
 shopping.yahoo.co.jp##li[class="LoopList__item"]:has(div>a[href^="https://store.shopping.yahoo.co.jp/at-next/"])
@@ -648,8 +648,8 @@ shopping.yahoo.co.jp##li[class="LoopList__item"]:has(div>a[href^="https://store.
 shopping.yahoo.co.jp##li[class="LoopList__item"]:has(div>a[href^="https://store.shopping.yahoo.co.jp/zz-shop/"])
 
 
-! PlayStation 5 ‚ª 50,000 ‚ð’´‚¦‚Ä‚¢‚½
-! https://shopping.yahoo.co.jp/search?p=PlayStation+5+–{‘Ì&first=1&pf=50000&used=2&uIv=off
+! PlayStation 5 ãŒ 50,000 ã‚’è¶…ãˆã¦ã„ãŸ
+! https://shopping.yahoo.co.jp/search?p=PlayStation+5+æœ¬ä½“&first=1&pf=50000&used=2&uIv=off
 shopping.yahoo.co.jp##li[class="LoopList__item"]:has(div>a[href^="https://paypaymall.yahoo.co.jp/store/b-o-d2/"])
 shopping.yahoo.co.jp##li[class="LoopList__item"]:has(div>a[href^="https://store.shopping.yahoo.co.jp/aisyoku/"])
 shopping.yahoo.co.jp##li[class="LoopList__item"]:has(div>a[href^="https://store.shopping.yahoo.co.jp/aohama-y/"])

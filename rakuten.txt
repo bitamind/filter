@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Title: –Å‚Ñ‚ëƒeƒ“ƒoƒCƒ„[iŠy“VŽsêj
+! Title: æ»…ã³ã‚ãƒ†ãƒ³ãƒã‚¤ãƒ¤ãƒ¼ï¼ˆæ¥½å¤©å¸‚å ´ï¼‰
 
-! ƒeƒ“ƒoƒCƒ„[‰B•ÁƒtƒBƒ‹ƒ^ ˆêsÅ‘å4000•¶Žš‚­‚ç‚¢‚ð–ÚˆÀ‚É
+! ãƒ†ãƒ³ãƒã‚¤ãƒ¤ãƒ¼éš è”½ãƒ•ã‚£ãƒ«ã‚¿ ä¸€è¡Œæœ€å¤§4000æ–‡å­—ãã‚‰ã„ã‚’ç›®å®‰ã«
 ! (?<=https://item\.rakuten\.co\.jp\/[a-z0-9\-]*\/).*$
 !search.rakuten.co.jp##div[class="dui-card searchresultitem"]:has(div>a[href^="https://www.rakuten.co.jp/example/"])
 !search.rakuten.co.jp##div[class="dui-card searchresultitem"]:has(div>a[href^="https://www.rakuten.co.jp/"][href*="/example/"])
