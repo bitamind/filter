@@ -436,6 +436,9 @@ shopping.yahoo.co.jp##li[class="LoopList__item"]:has(div>a[href^="https://store.
 
 ! https://shopping.yahoo.co.jp/search?p=ニンテンドースイッチ+本体+どうぶつの森&first=1&pf=45000&used=2&uIv=off
 shopping.yahoo.co.jp##li[class="LoopList__item"]:has(div>a[href^="https://paypaymall.yahoo.co.jp/store/crux-store/"])
+shopping.yahoo.co.jp##li[class="LoopList__item"]:has(div>a[href^="https://paypaymall.yahoo.co.jp/store/eightloop/"])
+shopping.yahoo.co.jp##li[class="LoopList__item"]:has(div>a[href^="https://paypaymall.yahoo.co.jp/store/giftman/"])
+shopping.yahoo.co.jp##li[class="LoopList__item"]:has(div>a[href^="https://paypaymall.yahoo.co.jp/store/kaden-sakura/"])
 shopping.yahoo.co.jp##li[class="LoopList__item"]:has(div>a[href^="https://store.shopping.yahoo.co.jp/1pro-foods/"])
 shopping.yahoo.co.jp##li[class="LoopList__item"]:has(div>a[href^="https://store.shopping.yahoo.co.jp/58company/"])
 shopping.yahoo.co.jp##li[class="LoopList__item"]:has(div>a[href^="https://store.shopping.yahoo.co.jp/88mobile/"])
@@ -470,6 +473,7 @@ shopping.yahoo.co.jp##li[class="LoopList__item"]:has(div>a[href^="https://store.
 shopping.yahoo.co.jp##li[class="LoopList__item"]:has(div>a[href^="https://store.shopping.yahoo.co.jp/crux2/"])
 shopping.yahoo.co.jp##li[class="LoopList__item"]:has(div>a[href^="https://store.shopping.yahoo.co.jp/curisutaru/"])
 shopping.yahoo.co.jp##li[class="LoopList__item"]:has(div>a[href^="https://store.shopping.yahoo.co.jp/cuticle/"])
+shopping.yahoo.co.jp##li[class="LoopList__item"]:has(div>a[href^="https://store.shopping.yahoo.co.jp/deraegallc/"])
 shopping.yahoo.co.jp##li[class="LoopList__item"]:has(div>a[href^="https://store.shopping.yahoo.co.jp/divingya/"])
 shopping.yahoo.co.jp##li[class="LoopList__item"]:has(div>a[href^="https://store.shopping.yahoo.co.jp/dra2/"])
 shopping.yahoo.co.jp##li[class="LoopList__item"]:has(div>a[href^="https://store.shopping.yahoo.co.jp/e-shop-nishijima/"])
@@ -514,9 +518,11 @@ shopping.yahoo.co.jp##li[class="LoopList__item"]:has(div>a[href^="https://store.
 shopping.yahoo.co.jp##li[class="LoopList__item"]:has(div>a[href^="https://store.shopping.yahoo.co.jp/lifecreate-kc/"])
 shopping.yahoo.co.jp##li[class="LoopList__item"]:has(div>a[href^="https://store.shopping.yahoo.co.jp/lightyear/"])
 shopping.yahoo.co.jp##li[class="LoopList__item"]:has(div>a[href^="https://store.shopping.yahoo.co.jp/lutty-store/"])
+shopping.yahoo.co.jp##li[class="LoopList__item"]:has(div>a[href^="https://store.shopping.yahoo.co.jp/mandkl/"])
 shopping.yahoo.co.jp##li[class="LoopList__item"]:has(div>a[href^="https://store.shopping.yahoo.co.jp/manjiro/"])
 shopping.yahoo.co.jp##li[class="LoopList__item"]:has(div>a[href^="https://store.shopping.yahoo.co.jp/manten-smile/"])
 shopping.yahoo.co.jp##li[class="LoopList__item"]:has(div>a[href^="https://store.shopping.yahoo.co.jp/marunaka-shop/"])
+shopping.yahoo.co.jp##li[class="LoopList__item"]:has(div>a[href^="https://store.shopping.yahoo.co.jp/maxtower/"])
 shopping.yahoo.co.jp##li[class="LoopList__item"]:has(div>a[href^="https://store.shopping.yahoo.co.jp/miraisouzouzakka/"])
 shopping.yahoo.co.jp##li[class="LoopList__item"]:has(div>a[href^="https://store.shopping.yahoo.co.jp/mitinokugood/"])
 shopping.yahoo.co.jp##li[class="LoopList__item"]:has(div>a[href^="https://store.shopping.yahoo.co.jp/mlf/"])
@@ -571,6 +577,7 @@ shopping.yahoo.co.jp##li[class="LoopList__item"]:has(div>a[href^="https://store.
 shopping.yahoo.co.jp##li[class="LoopList__item"]:has(div>a[href^="https://store.shopping.yahoo.co.jp/sogostoreluluku/"])
 shopping.yahoo.co.jp##li[class="LoopList__item"]:has(div>a[href^="https://store.shopping.yahoo.co.jp/square-house/"])
 shopping.yahoo.co.jp##li[class="LoopList__item"]:has(div>a[href^="https://store.shopping.yahoo.co.jp/star-m/"])
+shopping.yahoo.co.jp##li[class="LoopList__item"]:has(div>a[href^="https://store.shopping.yahoo.co.jp/sugar121218/"])
 shopping.yahoo.co.jp##li[class="LoopList__item"]:has(div>a[href^="https://store.shopping.yahoo.co.jp/sumahoselect/"])
 shopping.yahoo.co.jp##li[class="LoopList__item"]:has(div>a[href^="https://store.shopping.yahoo.co.jp/suteki2020/"])
 shopping.yahoo.co.jp##li[class="LoopList__item"]:has(div>a[href^="https://store.shopping.yahoo.co.jp/syshop/"])
@@ -593,6 +600,7 @@ shopping.yahoo.co.jp##li[class="LoopList__item"]:has(div>a[href^="https://store.
 shopping.yahoo.co.jp##li[class="LoopList__item"]:has(div>a[href^="https://store.shopping.yahoo.co.jp/yot/"])
 shopping.yahoo.co.jp##li[class="LoopList__item"]:has(div>a[href^="https://store.shopping.yahoo.co.jp/youkai/"])
 shopping.yahoo.co.jp##li[class="LoopList__item"]:has(div>a[href^="https://store.shopping.yahoo.co.jp/yutaka-s/"])
+shopping.yahoo.co.jp##li[class="LoopList__item"]:has(div>a[href^="https://store.shopping.yahoo.co.jp/zun-store/"])
 
 
 ! PlayStation 4 が 35,000 を超えていた
@@ -633,6 +641,7 @@ shopping.yahoo.co.jp##li[class="LoopList__item"]:has(div>a[href^="https://store.
 shopping.yahoo.co.jp##li[class="LoopList__item"]:has(div>a[href^="https://store.shopping.yahoo.co.jp/cocotto/"])
 shopping.yahoo.co.jp##li[class="LoopList__item"]:has(div>a[href^="https://store.shopping.yahoo.co.jp/cosmoporitan/"])
 shopping.yahoo.co.jp##li[class="LoopList__item"]:has(div>a[href^="https://store.shopping.yahoo.co.jp/daily-star/"])
+shopping.yahoo.co.jp##li[class="LoopList__item"]:has(div>a[href^="https://store.shopping.yahoo.co.jp/delicious-shop/"])
 shopping.yahoo.co.jp##li[class="LoopList__item"]:has(div>a[href^="https://store.shopping.yahoo.co.jp/dorimo-store/"])
 shopping.yahoo.co.jp##li[class="LoopList__item"]:has(div>a[href^="https://store.shopping.yahoo.co.jp/endless/"])
 shopping.yahoo.co.jp##li[class="LoopList__item"]:has(div>a[href^="https://store.shopping.yahoo.co.jp/entameoukoku/"])
