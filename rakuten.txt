@@ -1,0 +1,8 @@
+[Adblock Plus 2.0]
+! Title: 滅びろテンバイヤー（楽天市場）
+
+! テンバイヤー隠蔽フィルタ 一行最大4000文字くらいを目安に
+! (?<=https://item\.rakuten\.co\.jp\/[a-z0-9\-]*\/).*$
+!search.rakuten.co.jp##div[class="dui-card searchresultitem"]:has(div>a[href^="https://www.rakuten.co.jp/example/"])
+!search.rakuten.co.jp##div[class="dui-card searchresultitem"]:has(div>a[href^="https://www.rakuten.co.jp/"][href*="/example/"])
+

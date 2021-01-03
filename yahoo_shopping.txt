@@ -1,0 +1,9 @@
+[Adblock Plus 2.0]
+! Title: 滅びろテンバイヤー（ヤフーショッピング）
+
+! テンバイヤー隠蔽フィルタ 一行最大4000文字くらいを目安に
+! (?<=https://store\.shopping\.yahoo\.co\.jp\/[a-z0-9\-]*\/).*$
+! (?<=https://paypaymall\.yahoo\.co\.jp\/store/[a-z0-9\-]*\/).*$
+!shopping.yahoo.co.jp##li[class="LoopList__item"]:has(div>a[href^="https://store.shopping.yahoo.co.jp/example/"])
+!shopping.yahoo.co.jp##li[class="LoopList__item"]:has(div>a[href^="https://store.shopping.yahoo.co.jp/"][href*="/example/"])
+
