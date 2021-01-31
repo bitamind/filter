@@ -644,13 +644,10 @@ shopping.yahoo.co.jp##li[class="LoopList__item"]:has(div>a[href^="https://store.
 
 ! https://shopping.yahoo.co.jp/search?p=ニンテンドースイッチ+本体+ロトエディション&first=1&pf=45000&used=2&uIv=off
 shopping.yahoo.co.jp##li[class="LoopList__item"]:has(div>a[href^="https://paypaymall.yahoo.co.jp/store/lifestyle-007/"])
-shopping.yahoo.co.jp##li[class="LoopList__item"]:has(div>a[href^="https://store.shopping.yahoo.co.jp/health-beauty-cosme/"])
-shopping.yahoo.co.jp##li[class="LoopList__item"]:has(div>a[href^="https://store.shopping.yahoo.co.jp/jyun-store/"])
-shopping.yahoo.co.jp##li[class="LoopList__item"]:has(div>a[href^="https://store.shopping.yahoo.co.jp/kanzaemon/"])
-shopping.yahoo.co.jp##li[class="LoopList__item"]:has(div>a[href^="https://store.shopping.yahoo.co.jp/leafstore/"])
-shopping.yahoo.co.jp##li[class="LoopList__item"]:has(div>a[href^="https://store.shopping.yahoo.co.jp/megagiftshop1/"])
-shopping.yahoo.co.jp##li[class="LoopList__item"]:has(div>a[href^="https://store.shopping.yahoo.co.jp/sinlife/"])
-shopping.yahoo.co.jp##li[class="LoopList__item"]:has(div>a[href^="https://store.shopping.yahoo.co.jp/sunage/"])
+shopping.yahoo.co.jp##li[class="LoopList__item"]:has(div>a[href^="https://store.shopping.yahoo.co.jp/"][href*="/health-beauty-cosme/"],[href*="/jyun-store/"],[href*="/kanzaemon/"],[href*="/leafstore/"],[href*="/megagiftshop1/"],[href*="/sinlife/"],[href*="/sunage/"])
+! https://shopping.yahoo.co.jp/search?p=ニンテンドースイッチ+本体+マリオレッド&first=1&pf=35000&used=2&uIv=off
+shopping.yahoo.co.jp##li[class="LoopList__item"]:has(div>a[href^="https://store.shopping.yahoo.co.jp/"][href*="/elskashop/"],[href*="/hoperoad/"],[href*="/push07/"],[href*="/smltrading-y/"],[href*="/tamauneishop/"])
+! https://shopping.yahoo.co.jp/search?p=ニンテンドースイッチ+本体+モンスターハンター&first=1&pf=45000&used=2&uIv=off
 
 
 ! PlayStation 4 が 35,000 を超えていた
