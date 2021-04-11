@@ -1,5 +1,6 @@
 [Adblock Plus 2.0]
 ! Title: 滅びろテンバイヤー（楽天市場）
+! Homepage: https://github.com/bitamind/filter
 
 ! テンバイヤー隠蔽フィルタ 一行最大4000文字くらいを目安に
 ! (?<=https://item\.rakuten\.co\.jp\/[a-z0-9\-]*\/).*$
