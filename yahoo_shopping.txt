@@ -16,7 +16,7 @@ shopping.yahoo.co.jp##li[class="LoopList__item"]:has(div>a[href^="https://store.
 
 
 ! https://shopping.yahoo.co.jp/search?p=yamaha+ag03+ミク&first=1&pf=30000&used=2&uIv=off
-shopping.yahoo.co.jp##li[class="LoopList__item"]:has(div>a[href^="https://store.shopping.yahoo.co.jp/"][href*="/ajplaza//"],[href*="/anniversary-prime//"],[href*="/bfe//"],[href*="/fku-trade//"],[href*="/funny-garage//"],[href*="/jungleporter//"],[href*="/kazahana-store//"],[href*="/m-0403//"],[href*="/oneone1111//"],[href*="/pour-moi//"],[href*="/rastore//"],[href*="/rightreasure//"],[href*="/shimizushoji//"],[href*="/shimoyana//"],[href*="/slow-lifes//"],[href*="/store-usk//"],[href*="/yumecocoro//"])
+shopping.yahoo.co.jp##li[class="LoopList__item"]:has(div>a[href^="https://store.shopping.yahoo.co.jp/"][href*="/ajplaza/"],[href*="/anniversary-prime/"],[href*="/bfe/"],[href*="/fku-trade/"],[href*="/funny-garage/"],[href*="/jungleporter/"],[href*="/kazahana-store/"],[href*="/m-0403/"],[href*="/oneone1111/"],[href*="/pour-moi/"],[href*="/rastore/"],[href*="/rightreasure/"],[href*="/shimizushoji/"],[href*="/shimoyana/"],[href*="/slow-lifes/"],[href*="/store-usk/"],[href*="/yumecocoro/"])
 
 
 ! yamaha ag03 録音セットが 40,000 を超えていた
