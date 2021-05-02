@@ -7,6 +7,9 @@
 ! (?<=https://paypaymall\.yahoo\.co\.jp\/store/[a-z0-9\-]*\/).*$
 !shopping.yahoo.co.jp##li[class="LoopList__item"]:has(div>a[href^="https://store.shopping.yahoo.co.jp/example/"])
 !shopping.yahoo.co.jp##li[class="LoopList__item"]:has(div>a[href^="https://store.shopping.yahoo.co.jp/"][href*="/example/"])
+!shopping.yahoo.co.jp##li[class="LoopList__item"]:has(div>a[href^="https://ck.storematch.jp/"][href*="densidonya_"])
+!shopping.yahoo.co.jp##li[class="LoopList__item"]:has(div>a[href^="https://paypaymall.yahoo.co.jp/store/"][href*="/sample/"])
+
 
 ! yamaha ag03 が 30,000 を超えていた
 ! https://shopping.yahoo.co.jp/search?p=yamaha+ag03&first=1&pf=30000&used=2&uIv=off
@@ -58,6 +61,8 @@ shopping.yahoo.co.jp##li[class="LoopList__item"]:has(div>a[href^="https://store.
 ! https://shopping.yahoo.co.jp/search?p=ニンテンドースイッチ+本体+マリオレッド&first=1&pf=35000&used=2&uIv=off
 shopping.yahoo.co.jp##li[class="LoopList__item"]:has(div>a[href^="https://store.shopping.yahoo.co.jp/"][href*="/elskashop/"],[href*="/hoperoad/"],[href*="/push07/"],[href*="/smltrading-y/"],[href*="/tamauneishop/"])
 ! https://shopping.yahoo.co.jp/search?p=ニンテンドースイッチ+本体+モンスターハンター&first=1&pf=45000&used=2&uIv=off
+shopping.yahoo.co.jp##li[class="LoopList__item"]:has(div>a[href^="https://paypaymall.yahoo.co.jp/store/"][href*="/arch2nd/"])
+shopping.yahoo.co.jp##li[class="LoopList__item"]:has(div>a[href^="https://store.shopping.yahoo.co.jp/"][href*="a-mateonlinestore/"],[href*="aito-store/"],[href*="ama-ecshop/"],[href*="amazinginnovation/"],[href*="amicouleur/"],[href*="archholesale/"],[href*="assist-shichi/"],[href*="best-plice-online/"],[href*="blueponbox/"],[href*="dearshoes/"],[href*="eagle-net/"],[href*="express-market/"],[href*="goto-netshop/"],[href*="gtshopstore/"],[href*="happymountain-store/"],[href*="higashikariki877/"],[href*="infinity2017/"],[href*="ipo/"],[href*="japanstores/"],[href*="kaikyou/"],[href*="kjcompany/"],[href*="kofc/"],[href*="la-confidential/"],[href*="m-grooveonlineshop/"],[href*="medeicaru/"],[href*="mochanet/"],[href*="montereyfashion/"],[href*="morefree/"],[href*="myhot411/"],[href*="nandemoturf/"],[href*="osakahonpo/"],[href*="preuv/"],[href*="price-com-osaka/"],[href*="qooby-store/"],[href*="re-l-p-store/"],[href*="res-fac/"],[href*="risingsunstore/"],[href*="sccstore/"],[href*="seiwa-online/"],[href*="sentral/"],[href*="sharemarket/"],[href*="shiemi-store/"],[href*="shop-high-r/"],[href*="silverraystore/"],[href*="tariisshop/"],[href*="theforce508/"],[href*="tokyostore/"],[href*="tortue-de-mer/"],[href*="u2-online-shop/"],[href*="updra/"],[href*="ykmms/"],[href*="ystore-nextone2/"])
 
 
 ! PlayStation 4 が 35,000 を超えていた
