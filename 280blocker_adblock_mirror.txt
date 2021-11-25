@@ -6,8 +6,42 @@
 ! This file is only permitted for personal use under copyright law.
 ! Commercial use or  redistribution are prohibited except as permitted by copyright law.
 !
-! Last updated: 2021-11-11
-##.blocker280-20211111
+! Last updated: 2021-11-25
+##.blocker280-20211125
+
+!2021/11/25
+minecraftjapan.miraheze.org##div.cn-FundraiserOct2021
+zired.net##div.lp01-modal-wrap
+s.wowkorea.jp##a[href*="https://3rdspring.jp/fs/thirdspring/c/wow"]
+h1g.jp##a[href*="https://hb.afl.rakuten.co.jp/hsc"]
+ima55.biz##div#push
+ima55.biz##div#popup
+ja.mirror-communications.com##div._ciw-widget
+ja.mirror-communications.com##div._46303bvisible
+ja.mirror-communications.com##div.__nat_item
+digima-japan.com##div#satori__creative_container
+soratoburin.com##a[href*="https://soratoburin.com/koukoku-sabanna/"]
+gaccom.jp##ul.bukken-list
+gaccom.jp##ul.realestate-list
+gaccom.jp##div[class*="recipe-"]
+ouminews.net##a[href*="https://ouminews.net/mediapolicy/adblock/"]
+ouminews.net##div.oumi-abl-top
+sb.seikatsu-otomo.com##div#popup-root
+pokemon.alexonsager.net##div#nn_player
+excite.co.jp##div[class*="media-shopping"]
+ja.omatomeloanhikaku.com##a[href*="http://vip.siziryqy.com/"]
+coolpan.net##div.eye-catch-wrap
+coolpan.net##div[class*="pager-links pager-prev-next"]
+full-count.jp##div#piano_offer_popup
+leaked.jp##div.ipprtcnt
+leaked.jp##div._ciw-wrap
+leaked.jp##div#akw1neklpds
+leaked.jp##div[class*="_ciw-widget"]
+mindhack-media.jp##a[href*="https://k.zucks.net/rd/"]
+gamewith.jp##div[class*="walkthrough-recruit-banner"]
+cityheaven.net##div.tiktok_banner_box
+cityheaven.net##div.girlsInfo
+cityheaven.net##a[class*="d-markets_link_ajax"]
 
 !2021/11/11
 economical.co.jp###footer-ad
