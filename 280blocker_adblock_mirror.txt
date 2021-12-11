@@ -6,8 +6,31 @@
 ! This file is only permitted for personal use under copyright law.
 ! Commercial use or  redistribution are prohibited except as permitted by copyright law.
 !
-! Last updated: 2021-11-25
-##.blocker280-20211125
+! Last updated: 2021-12-09
+##.blocker280-20211209
+
+!2021/12/09
+matome-plus.net##div.amazontotalboxtest
+pdf.wondershare.jp##a#icon-anchor-right
+ero-gazou.jp##div[id*="ppsPopup"]
+epark.jp##div[class*="code-mc"]
+frozen.analyst.jp##div[class*="code-block-2"]
+frozen.analyst.jp##div[id*="swell_ad"]
+yahoo.com##div[class*="caas-da"]
+yahoo.com##.native-ad-item
+city.kitanagoya.lg.jp##div.ad_area
+yahoo.co.jp##div.yads_ad_video
+yahoo.co.jp##div#TBP
+yahoo.co.jp##div#TCBX
+amrowebdesigners.com##div[id*="atContainer"]
+amrowebdesigners.com##[src*="encrypted-tbn0.gstatic.com"]
+smartlog.jp##div#app-head-pr
+smartlog.jp##div#smlg_footer_ad
+ufret.jp##div#cf_flex_mb
+ufret.jp##div#cf_overlay
+idolsblog.tv##div[class*="_ciw-widget"]
+idolsblog.tv##div[class*="__nat_box"]
+idolsblog.tv##aside[class*="widget_custom_html"]
 
 !2021/11/25
 minecraftjapan.miraheze.org##div.cn-FundraiserOct2021
@@ -5534,3 +5557,4 @@ nakasoku.blog18.fc2.com##.rss_box
 ~google.com,~google.co.jp,~yahoo.co.jp,~bing.com,~news-edge.com##a[href*=".news-edge.com"] 
 ~google.com,~google.co.jp,~yahoo.co.jp,~bing.com,~world-best-news.doorblog.jp##a[href*="//world-best-news.doorblog.jp/"]
 ~google.com,~google.co.jp,~yahoo.co.jp,~bing.com,~matometatta-news.net##a[href*="//matometatta-news.net/"]
+
