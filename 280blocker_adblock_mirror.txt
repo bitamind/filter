@@ -6,8 +6,33 @@
 ! This file is only permitted for personal use under copyright law.
 ! Commercial use or  redistribution are prohibited except as permitted by copyright law.
 !
-! Last updated: 2021-12-09
-##.blocker280-20211209
+! Last updated: 2021-12-23
+##.blocker280-20211223
+
+!2021/12/23
+tech-camp.in##div#js-popup
+xn--mlm-s18d104y.seesaa.net##a[href*="xn--98jt54hq6iehc.com/spill01/"]
+blog.goo.ne.jp###msg-box-app-recommend
+amazon.co.jp##.aw-campaigns
+gakufu.gakki.me##a[href*="hookup.co.jp/ad/"]
+comic.pixiv.net##div[data-testid="container"]
+doga.hikakujoho.com##div[class*="c-overlay-cv-btn"]
+doga.hikakujoho.com##div[class*="p-pr-service-btn-box"]
+doga.hikakujoho.com##div[class*="p-vod-cv-btn-list"]
+wiki2th.com##.mgbox
+yahoo.co.jp##div[class*="ArticleBox Comic"]
+kintore.link##a[href*="https://00m.in/"]
+jp.ntunhs.net##div#sidebar2
+navi.narakotsu.co.jp##div.banner1
+navi.narakotsu.co.jp##div.banner2
+blog.esuteru.com##div.amazlet-box
+
+||ruggownsawlog.cam^
+||codedexchange.com^
+||gofenews.com^
+||solemik.com^
+||fadverdirect.com^
+||click.expmediadirect1.com^
 
 !2021/12/09
 matome-plus.net##div.amazontotalboxtest
@@ -5510,6 +5535,7 @@ nakasoku.blog18.fc2.com##.rss_box
 ~facebook.com##.fb-send
 ~facebook.com##.fb-share-button
 ~facebook.com##[title^="fb:like"]
+##i.heateorSssSharing
 
 
 
