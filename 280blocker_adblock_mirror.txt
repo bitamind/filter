@@ -6,8 +6,32 @@
 ! This file is only permitted for personal use under copyright law.
 ! Commercial use or  redistribution are prohibited except as permitted by copyright law.
 !
-! Last updated: 2021-12-23
-##.blocker280-20211223
+! Last updated: 2022-01-14
+##.blocker280-20220114
+
+!2022/01/14
+1geki.jp##.ad_sp_top_banner
+google.co.jp###stUuGf
+akane-gazo.com##a[href^="https://partner.canva.com"]
+campify.jp##div[class*="cv-fixed"]
+infinity-agent.co.jp##div[id^="FreesSpark_"]
+infinity-agent.co.jp##fsdiv[id^="_fs_close_"]
+mitsuraku.jp##a[href^="/lpe/rae_hw18/?internal_referral=eprae_modal"]
+cosmopolitan.com###recommended-modal
+aliexpress.com##div[class*="-poplayer-modal"]
+yahoo.co.jp###yadssph
+kurieisha.com##div[id^="kurie-"]
+kurieisha.com##.widget_swell_ad_widget
+bruntiis.blogspot.com##[id*="atLink"]
+||boffero.com^
+||club-premium.net^
+||premiumbros.com^
+||businesspayments.org^
+||newtontanrec.casa^
+||ak.hetaruwg.com^
+||ak.hetaruvg.com^
+||salutationcheerlessdemote.com^
+||marout.bloodteethrub.top^
 
 !2021/12/23
 tech-camp.in##div#js-popup
@@ -26,6 +50,7 @@ jp.ntunhs.net##div#sidebar2
 navi.narakotsu.co.jp##div.banner1
 navi.narakotsu.co.jp##div.banner2
 blog.esuteru.com##div.amazlet-box
+lolninja.net###mobile-ad
 
 ||ruggownsawlog.cam^
 ||codedexchange.com^
@@ -1051,7 +1076,6 @@ casinoconcierge.cc###bottom
 ##.ad-pr
 
 
-
 ~mydocomo.com,~smt.docomo.ne.jp##[class^="ad_0"]
 ##[class^="ad_1"]
 ##[class^="ad_serv"]
@@ -1061,7 +1085,7 @@ casinoconcierge.cc###bottom
 ##[class^="ad_banner"]
 ##[class^="ad_bnr"]
 ##[class^="ad_bottom"]
-##[class^="ad_box"]
+~iphone-d.jp##[class^="ad_box"]
 ##[class^="ad_center"]
 ##[class^="ad_click"]
 ##[class^="ad_close"]

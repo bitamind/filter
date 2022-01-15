@@ -10,7 +10,7 @@
 # Please use it in a system that can block subdomains.
 #
 #
-# Lastupdate: 2021-12-23
+# Lastupdate: 2022-01-14
 #
 
 domain.dummy280280.net
@@ -1287,6 +1287,15 @@ gofenews.com
 solemik.com
 fadverdirect.com
 click.expmediadirect1.com
+boffero.com
+club-premium.net
+premiumbros.com
+businesspayments.org
+newtontanrec.casa
+ak.hetaruwg.com
+ak.hetaruvg.com
+salutationcheerlessdemote.com
+marout.bloodteethrub.top
 
 
 
