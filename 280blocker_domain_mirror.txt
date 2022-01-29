@@ -10,7 +10,7 @@
 # Please use it in a system that can block subdomains.
 #
 #
-# Lastupdate: 2022-01-14
+# Lastupdate: 2022-01-27
 #
 
 domain.dummy280280.net
@@ -1296,6 +1296,11 @@ ak.hetaruwg.com
 ak.hetaruvg.com
 salutationcheerlessdemote.com
 marout.bloodteethrub.top
+hairoak.com
+cdn.sb4you1.com
+profitabledisplaycontent.com
+nfggfgyujfgdfgfh.com
+googleailesi.com
 
 
 

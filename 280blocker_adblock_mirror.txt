@@ -6,8 +6,27 @@
 ! This file is only permitted for personal use under copyright law.
 ! Commercial use or  redistribution are prohibited except as permitted by copyright law.
 !
-! Last updated: 2022-01-14
-##.blocker280-20220114
+! Last updated: 2022-01-27
+##.blocker280-20220127
+
+!2022/01/27
+sellmarke.jp##.spu-bg
+sellmarke.jp##div[class^="spu-box"]
+biz.moneyforward.com##div[class*="money-popup-sp"]
+biz.moneyforward.com##.advads-background
+eikaiwa.dmm.com###sponsored
+ff14.gamers-labo.com###AdOverlayBanner
+gamespark.jp##[src^="https://media.smaad.net/"]
+ichi.pro###notify-adblock
+h-ken.net##.ta_footerfix
+h-ken.net###commentPostMove
+pikaichi.co.jp###sgpb-popup-dialog-main-div-wrapper
+pikaichi.co.jp##[class^="sgpb-theme-1-overlay"]
+||hairoak.com^
+||cdn.sb4you1.com^
+||profitabledisplaycontent.com^
+||nfggfgyujfgdfgfh.com^
+||googleailesi.com^
 
 !2022/01/14
 1geki.jp##.ad_sp_top_banner
@@ -23,6 +42,7 @@ yahoo.co.jp###yadssph
 kurieisha.com##div[id^="kurie-"]
 kurieisha.com##.widget_swell_ad_widget
 bruntiis.blogspot.com##[id*="atLink"]
+gekkan-fukugyou.jp###custom_html-8
 ||boffero.com^
 ||club-premium.net^
 ||premiumbros.com^
@@ -5465,7 +5485,7 @@ nakasoku.blog18.fc2.com##.rss_box
 ##.nhk-snsbtn
 ##.nhksns-icon-m
 ##.nhksocialbtn_style
-##.ninja_onebutton
+~kabasawa3.com##.ninja_onebutton
 ##.pocket-button
 ##.post-share
 ##.post-sns
@@ -5560,7 +5580,11 @@ nakasoku.blog18.fc2.com##.rss_box
 ~facebook.com##.fb-share-button
 ~facebook.com##[title^="fb:like"]
 ##i.heateorSssSharing
-
+##.snsbtn_facebook
+##.snsbtn_twitter
+##.snsbtn_instagram
+##.snsbtn_line
+##.m-snsList
 
 
 ! ------------antenna link
