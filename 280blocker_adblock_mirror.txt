@@ -6,8 +6,29 @@
 ! This file is only permitted for personal use under copyright law.
 ! Commercial use or  redistribution are prohibited except as permitted by copyright law.
 !
-! Last updated: 2022-01-27
-##.blocker280-20220127
+! Last updated: 2022-02-14
+##.blocker280-20220214
+
+!2022/02/14
+gekkan-fukugyou.jp###modal-content
+gekkan-fukugyou.jp###modal-overlay
+hosyusokuhou.jp##div[class^="rankbox"]
+equl.jp##div[class^="boxzilla-container"]
+nme-jp.com##.sp
+news.mynavi.jp##.btm_ad
+snews.pro###notify-adblock
+how-to-inc.com##.adblocks
+how-to-inc.com###sp-cta
+hokende.com###flipdesk
+monocow.jp###youtube_slide
+matome-tarou.ldblog.jp##[src^="https://richlink.blogsys.jp/embed/"]
+matome-tarou.ldblog.jp##a[href^="https://www.bybit.com/ja-JP/invite/"]
+video.fc2.com##div[class*="c-overlay-sp1"]
+agoda.com##div[data-component="OverlayBanner"]
+##a[href^="https://js.mangapro.top/api/click"]
+||js.wpushsdk.com^
+appmedia.jp##.ad_sp_header
+appmedia.jp###vrizead-iframe-appmedia_footer
 
 !2022/01/27
 sellmarke.jp##.spu-bg
@@ -1884,8 +1905,8 @@ hobby.dengeki.com###bottom_banner
 
 ~www.affiliate-b.com,~www.afi-b.com,~www.for-it.co.jp##a[href*="//t.afi-b.com/"] img
 ~www.affiliate-b.com,~www.afi-b.com,~www.for-it.co.jp##a[href*="track.affiliate-b.com"] img
-||cdn.treasuredata.com^$domain=~gizmodo.jp|~svy.ooo
-||in.treasuredata.com^$domain=~gizmodo.jp|~svy.ooo
+||cdn.treasuredata.com^$domain=~gizmodo.jp|~svy.ooo|~onsen.nifty.com
+||in.treasuredata.com^$domain=~gizmodo.jp|~svy.ooo|~onsen.nifty.com
 
 
 
@@ -3377,7 +3398,7 @@ phil-portal.com##.sp_footer_bana
 !2017/07/13
 ~google.com,~google.co.jp,~yahoo.co.jp,~bing.com,~matomegane.com##a[href*="//matomegane.com/"]
 amazon.co.jp###div-gpt-ad
-##a[href*="//affiliate."]
+~google.com,~amazon.co.jp##a[href*="//affiliate."]
 
 !2018/12/12
 ||ads280dummy2.com

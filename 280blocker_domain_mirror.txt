@@ -10,7 +10,7 @@
 # Please use it in a system that can block subdomains.
 #
 #
-# Lastupdate: 2022-01-27
+# Lastupdate: 2022-02-14
 #
 
 domain.dummy280280.net
@@ -1301,6 +1301,7 @@ cdn.sb4you1.com
 profitabledisplaycontent.com
 nfggfgyujfgdfgfh.com
 googleailesi.com
+js.wpushsdk.com
 
 
 
