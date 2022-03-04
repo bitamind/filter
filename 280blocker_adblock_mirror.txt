@@ -6,8 +6,36 @@
 ! This file is only permitted for personal use under copyright law.
 ! Commercial use or  redistribution are prohibited except as permitted by copyright law.
 !
-! Last updated: 2022-02-14
-##.blocker280-20220214
+! Last updated: 2022-02-24
+##.blocker280-20220224
+
+!2022/02/24
+songsterr.com###showroom
+songsterr.com###promo
+mikaraw.com##.notranslate
+highhighlow.xyz##[class*="fixed-register"]
+goo.ne.jp###gpu
+thefastcode.com###adsolut_video
+thefastcode.com##div[id*="placeholder_"]
+mamga1000.com##[src^="//static.manga10000.com/popup1000.js"]
+manga1001.com##html>iframe
+||a.exosrv.com
+madoguchi.jp-g.co.jp##a[href^="https://gmo-aozora.com/promotion/"]
+madoguchi.jp-g.co.jp##a[href^="https://www.tokyu-resort.co.jp/"]
+madoguchi.jp-g.co.jp##a[href^="https://realestate-owner.com/"]
+nerima.goguynet.jp##div[class^="div-gpt-ad"]
+nerima.goguynet.jp###async-ad_line2
+funtre-blog.com##.pupup_sp
+brandkagu-outlet.net##.flo_ban
+brandkagu-outlet.net##.flo_head
+live-publishing.jp##a[href^="https://japan-i-school.jp/akita/easywebinar/opt/?id="]
+lmaga.jp##[class^="udm-ad"]
+lipine.jp###im_panel
+diamond.jp###reworded-info
+##iframe[src^="https://go.xxxjmp.com/smartpop/"]
+||amazon.hayjws.com^
+||sinewedretore.casa^
+||seedcoms.site^
 
 !2022/02/14
 gekkan-fukugyou.jp###modal-content
@@ -3761,7 +3789,7 @@ gamewith.jp##.c-btm-ad
 ||appnext.hs.llnwd.net
 ~kakaku.com##a[href*="ck.jp.ap.valuecommerce.com"] img
 iphone-mania.jp##.pr_single_txt
-##.plugin-follow_buttons
+~hiraganashinsedai2020.blog.jp##.plugin-follow_buttons
 ~auone.jp,~rakuten.co.jp##a[href*="ac.ebis.ne.jp/tr_set.php"]
 burusoku-vip.com##div[style*="background:#fff8dc;"]
 ginmoe.com##[class*="add_space_"]
@@ -4751,7 +4779,7 @@ BannerLoader$domain=wikipedia.org
 ##a[href*="//goo.gl/RDDaLH"]
 ##a[href*="//hyadain.com/"]
 ##a[href*="//line.naver.jp/R/msg/text"]
-##a[href*="//link-a.net/"]
+~omoshiromedia.com##a[href*="//link-a.net/"]
 ##a[href*="//masturbate.io/ads/"]
 ##a[href*="//matomebakuro.com"]
 ##a[href*="//monbran.net"]
@@ -5606,7 +5634,8 @@ nakasoku.blog18.fc2.com##.rss_box
 ##.snsbtn_instagram
 ##.snsbtn_line
 ##.m-snsList
-
+pornhub.com##[class^="socialIconsWrapper"]
+withonline.jp##.footer-sns-menu-box
 
 ! ------------antenna link
 ~google.com,~google.co.jp,~yahoo.co.jp,~bing.com,~favsite.jp##a[href*=".favsite.jp"] 

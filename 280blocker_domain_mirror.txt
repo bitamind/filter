@@ -10,7 +10,7 @@
 # Please use it in a system that can block subdomains.
 #
 #
-# Lastupdate: 2022-02-14
+# Lastupdate: 2022-02-24
 #
 
 domain.dummy280280.net
@@ -1302,6 +1302,10 @@ profitabledisplaycontent.com
 nfggfgyujfgdfgfh.com
 googleailesi.com
 js.wpushsdk.com
+amazon.hayjws.com
+sinewedretore.casa
+seedcoms.site
+a.exosrv.com
 
 
 
