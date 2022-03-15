@@ -10,7 +10,7 @@
 # Please use it in a system that can block subdomains.
 #
 #
-# Lastupdate: 2022-02-24
+# Lastupdate: 2022-03-11
 #
 
 domain.dummy280280.net
@@ -1306,6 +1306,19 @@ amazon.hayjws.com
 sinewedretore.casa
 seedcoms.site
 a.exosrv.com
+fadingamendable.com
+u-12222.onetouch9.com
+cdn-free-news.info
+snappedimpressive.com
+addresseepaper.com
+facilitatevoluntarily.com
+ber2g8e3keley.com
+izingbalaic.casa
+condolecourtesywry.com
+js.mangapro.top
+d1clmik8la8v65.cloudfront.net
+sentineldiscordmm.com
+botanyjustify.com
 
 
 
