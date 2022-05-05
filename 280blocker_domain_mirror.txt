@@ -10,7 +10,7 @@
 # Please use it in a system that can block subdomains.
 #
 #
-# Lastupdate: 2022-04-28
+# Lastupdate: 2022-05-02
 #
 
 domain.dummy280280.net
@@ -1430,7 +1430,6 @@ chooxaur.com
 dateon.link
 porn-images-xxx.com
 affiliate.conibet.com
-gstatic.com
 effectivedisplaycontent.com
 best-acupuncture-info.com
 horizons-marketing.com
