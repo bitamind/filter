@@ -6,12 +6,72 @@
 ! This file is only permitted for personal use under copyright law.
 ! Commercial use or  redistribution are prohibited except as permitted by copyright law.
 !
-! Last updated: 2022-04-28
-##.blocker280-20220428
+! Last updated: 2022-05-16
+##.blocker280-20220516
+
+!2022-05-16
+m.youtube.com##.itemGoogleActiveViewElement
+m.youtube.com###YtSparklesVisibilityIdentifier
+xn--bck3aza1a2if6kra4ee0hf.gamewith.jp##.walkthrough-hikari
+google.co.jp##[data-cid^="TOP_PLA"]
+ddd-smart.net##[href^="https://kpia.shop"]
+ddd-smart.net##[href^="http://doujinnomori.com/"]
+ddd-smart.net###link-overlay
+ddd-smart.net##.sidebar-rss
+disneyreal.asumirai.info###raffi
+gqjapan.jp##.LinkBannerMarquee-hNEHz
+technologyreview.jp###karte-c
+klmag.net##.float-ck
+100nuki.com##[src^="/ad/img/"]
+100nuki.com##[src^="https://pcmax.jp/"]
+100nuki.com##[href^="https://pcmax.jp/"]
+100nuki.com##[href^="http://happymail.co.jp/"]
+100nuki.com##[href^="http://mintj.com/"]
+100nuki.com##[href^="http://meru-para.com/"]
+klmanga.net##[src^="/app/manga/themes/default/assets/js/backtotop.js"]
+cryptodaily.co.uk##.leaderboard-top-ad
+cryptodaily.co.uk##.mobile-top-ad
+hikak.com##.a81
+game8.jp##.ad-skyflag-wrapper
+nyaasokuvip.net##.imglink-box
+greensnap.jp##.l-headerInstall
+eromanga-umagoya.com##[href^="https://kusuriyasan.org"]
+hdzog.com##.footer-banners
+togetter.com###appdl_header
+cartoon18.com###top-ads
+cartoon18.com###bottom-ads
+ign.com##[data-mix-name^="mediumAd"]
+my-best.com##.p-press_ad
+my-best.com##[srcset*="https://img.my-best.com/advertisements"]
+belcy.jp##.p-widget
+kmansin03.com##[src^="//befirstcdn.com/script/atg.js"]
+||cdnondemand.org^$domain=kmansin03.com
+||loreps.com^$domain=kmansin03.com
+||glochatuji.com^$domain=kmansin03.com
+||doptr.pw^$domain=kazanesh.ru
+||60b8fe6ea3.com^
+||a2cfb6f626.com^
+||kl.trombegoitcho.com^$domain=klmanga.net
+||wzejk.seriesry.xyz^
+||js.xemkqxs.com^$domain=manga1001.top
+||126bbdd6df.com^$domain=hdzog.com
+||js.wpshsdk.com^$domain=hdzog.com
+||hdzog.com/qmbqqxxyvj^$domain=hdzog.com
+||ruffstemmer.casa^
+||korgiejoinyou.com^
+||adncdnend.azureedge.net^$domain=weloma.art
+||platform.pubfuture.com^$domain=weloma.art
+||oversowcholam.com^$domain=weloma.art
+||nasrolaugers.com^$domain=welovemanga.one
+||geniusdexchange.com^$domain=kmansin03.com
+||befirstcdn.com^$domain=kmansin03.com
+||laulup.com^$domain=kmansin03.com
+||st.chatango.com^$domain=rawkuma.com
+||hugfromoctopus.com^$domain=javsaga.ninja
 
 !2022-04-28
 animebee.to##.anis-cover-wrap
-xxvidsx.com##body>iframe
+manga1001.top,xxvidsx.com##body>iframe
 xxvidsx.com##.videoAd
 pinkpanfan.com##[href^="https://market25.com/"]
 pinkpanfan.com##[href^="https://findminna.org/"]
@@ -109,7 +169,6 @@ tonxton.com##.os_spot_sp_area
 ||dateon.link^
 ||porn-images-xxx.com^
 ||affiliate.conibet.com^
-||gstatic.com^$domain=85tube.com
 ||effectivedisplaycontent.com^$domain=85tube.com
 ||best-acupuncture-info.com^
 ||horizons-marketing.com^
@@ -177,7 +236,6 @@ jp.pampers.com##.__ADORIC__
 ||babyniceshark.com^
 ||escthermae.com^
 ||hyloistmithan.com^
-||rtbbnr.com^
 ||g.ns-zhy.com^
 ||ui.cleverwebserver.com^$domain=2689web.com
 ||ja2n2u30a6rgyd.com^
@@ -226,7 +284,7 @@ supjav.com##.movv-ad
 ##[src^="https://go.xxxjmp.com/"]
 ##[href^="https://casitabifree.com"]
 ##[href^="https://chat-lab.tokyo/"]
-##[class^="_4KjPzfFqnPyBgIgiXkX"]
+!##[class^="_4KjPzfFqnPyBgIgiXkX"]
 ||puturebraving.com^$domain=mikaraw.com
 ||maret.live^
 ||pyropenunmould.com^
@@ -251,8 +309,8 @@ supjav.com##.movv-ad
 ||fdelphaswcealifornica.com^
 
 !2022/03/11
-gokumanga.com,rawkuma.com,enjoytokyo.jp,mangaraw.co,magic-object.mydns.jp,kisscos.net,klmanga.net,mikaraw.com,asiangaysex.net,javhub.net,mangarockteam.online##div>iframe
-animebee.to,mangameta.com,hentaispark.com,rawkuma.com,mangaraw.co,klmanga.net,mangapro.top,mikaraw.com,manga1001.com,manga1000.com##html>iframe
+ign.com,welovemanga.one,weloma.art,mangagohan.me,gokumanga.com,rawkuma.com,enjoytokyo.jp,mangaraw.co,magic-object.mydns.jp,kisscos.net,klmanga.net,mikaraw.com,asiangaysex.net,javhub.net,mangarockteam.online##div>iframe
+welovemanga.one,weloma.art,animebee.to,mangameta.com,hentaispark.com,rawkuma.com,mangaraw.co,klmanga.net,mangapro.top,mikaraw.com,manga1001.com,manga1000.com##html>iframe
 mangapro.top##._ae-container
 mangapro.top##[class*="adsBox"]
 smbc-card.com##div[class^="floatbnrInner"]

@@ -10,7 +10,7 @@
 # Please use it in a system that can block subdomains.
 #
 #
-# Lastupdate: 2022-05-02
+# Lastupdate: 2022-05-16
 #
 
 domain.dummy280280.net
@@ -1444,6 +1444,11 @@ elfinsande.website
 f5f84f4d83.com
 c265f8e1e3.com
 gt.dulosislimmata.com
+60b8fe6ea3.com
+a2cfb6f626.com
+wzejk.seriesry.xyz
+ruffstemmer.casa
+korgiejoinyou.com
 
 
 
