@@ -10,7 +10,7 @@
 # Please use it in a system that can block subdomains.
 #
 #
-# Lastupdate: 2022-05-16
+# Lastupdate: 2022-05-30
 #
 
 domain.dummy280280.net
@@ -1449,6 +1449,9 @@ a2cfb6f626.com
 wzejk.seriesry.xyz
 ruffstemmer.casa
 korgiejoinyou.com
+galopelikeantelope.com
+syndication.realsrv.com
+agacelebir.com
 
 
 
