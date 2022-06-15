@@ -10,7 +10,7 @@
 # Please use it in a system that can block subdomains.
 #
 #
-# Lastupdate: 2022-05-30
+# Lastupdate: 2022-06-15
 #
 
 domain.dummy280280.net
@@ -1452,6 +1452,25 @@ korgiejoinyou.com
 galopelikeantelope.com
 syndication.realsrv.com
 agacelebir.com
+begasuthy.com
+adfpoint.com
+acrvclk.com
+agmermer.pro
+zsinek.com
+uptimecdn.com
+waisheph.com
+cuddlethehyena.com
+hitchrational.com
+xapi.juicyads.com
+qualitydestructionhouse.com
+specialistcorrelation.com
+exchangediscreditmast.com
+visiblejoseph.com
+hawsuffer.com
+supersedeforbes.com
+hatbenchmajestic.com
+happy-egg.net
+untimburra.com
 
 
 

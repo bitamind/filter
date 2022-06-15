@@ -6,8 +6,75 @@
 ! This file is only permitted for personal use under copyright law.
 ! Commercial use or  redistribution are prohibited except as permitted by copyright law.
 !
-! Last updated: 2022-05-30
-##.blocker280-20220530
+! Last updated: 2022-06-15
+##.blocker280-20220615
+
+earthyworld.com##.adsbygoogle
+sbvideo.net##[src^="https://wimg.golden-gateway.com/ad/"]
+asg.to##.advert__iframe
+wav.tv##.adframe-container
+wav.tv###active_overlay
+wav.tv##.mobile-filter__content
+mangacross.jp##.box-inner--banner
+helloprojects.seesaa.net##[id^="blz_lock_"]
+helloprojects.seesaa.net##[src^="https://helloprojects.up.seesaa.net"]
+video.fc2.com##[src^="https://video.fc2.com/api/v3/advertise/"]
+dr-recella.com##.floating_banner
+untenmenkyo-center.com##.atmagbanner
+sonoda-himeji.jp###bottom_banner
+e-words.jp###forvisitors
+azlyrics.com###cf_mb_ov_holder
+unsplash.com##[data-ad^="true"]
+e-aidem.com##.relation_entry
+jp.samurai-gamers.com##.gmossp_con
+j-town.net##[data-cx-clickarea^="jtownwith"]
+j-town.net##.advertisement-list
+nordot.app##.adFooterDFPMobile
+tktube.com##[src^="//a.realsrv.com/iframe.php"]
+e-words.jp###forvisitors
+genius.com##[class*="InreadContainer__Container"]
+##[src^="//uptimecdn.com/script/"]
+###new_ad_html
+###ad_html
+||addresseepaper.com^$domain=vidstream.pro
+||abc.comick.top/api^$domain=comick.top
+||zeromanga.net/api/ad^$domain=mikaraw.com
+||go6shde9nj2itle.com^$domain=tktube.com
+||maillovelove.net^$domain=tktube.com
+||rrmon.adsbtrk.com^$domain=tktube.com
+||fiercedental.com^$domain=master124.ru|sun-spain.ru
+||interstitial-08.com^$domain=wiki.ja-jp.nina.az
+||propu.sh^$domain=wiki.ja-jp.nina.az
+||dba9ytko5p72r.cloudfront.net^$domain=wiki.ja-jp.nina.az
+||upzerons.com^$domain=wiki.ja-jp.nina.az
+||zikroarg.com^$domain=mangaraw.lol
+||yvnhdrmstbty.com^$domain=mangaraw.lol
+||pseekree.com^$domain=mangaraw.lol
+||ads.senmanga.com^$domain=raw.senmanga.com
+||clerrrep.com^$domain=raw.senmanga.com
+||brazenwholly.com^$domain=raw.senmanga.com
+||static.fc2.com/video/js_smartphone_new/out^$domain=video.fc2.com
+||oaphoace.net^$domain=mangaraw.lol
+||aranuf.com^$domain=kmansin03.com
+||begasuthy.com^
+||adfpoint.com^
+||acrvclk.com^
+||agmermer.pro^
+||zsinek.com^
+||uptimecdn.com^
+||waisheph.com^
+||cuddlethehyena.com^
+||hitchrational.com^
+||xapi.juicyads.com^
+||qualitydestructionhouse.com^
+||specialistcorrelation.com^
+||exchangediscreditmast.com^
+||visiblejoseph.com^
+||hawsuffer.com^
+||supersedeforbes.com^
+||hatbenchmajestic.com^
+||happy-egg.net^
+||untimburra.com^
 
 !2022-05-30
 
@@ -44,17 +111,17 @@ wetten.com##.sticky-footerbar--show
 ||9f3f61c6a1.com^$domain=klmanga.net
 ||dn.turacousequent.com^$domain=klmag.net
 ||quokkacheeks.com^$domain=mangagohan.me
-||youngsterbusinessman.com^$domain=javmix.tv
-||ticketswinning.com^$domain=javmix.tv
-||belickitungchan.com^$domain=javmix.tv
-||poshhateful.com^$domain=javmix.tv
-||inrhyhorntor.com^$domain=javmix.tv
-||e335udnv6drg78b7.com^$domain=javmix.tv
-||outsliggooa.com^$domain=javmix.tv
-||cdn.uponelectabuzzor.club^$domain=javmix.tv
-||upgulpinon.com^$domain=javmix.tv
-||wu.deckerexuvium.com^$domain=javmix.tv
-||awigglespouter.cam^$domain=javmix.tv
+||youngsterbusinessman.com^$domain=javmix.tv|asianclub.tv
+||ticketswinning.com^$domain=javmix.tv|asianclub.tv
+||belickitungchan.com^$domain=javmix.tv|asianclub.tv
+||poshhateful.com^$domain=javmix.tv|asianclub.tv
+||inrhyhorntor.com^$domain=javmix.tv|asianclub.tv
+||e335udnv6drg78b7.com^$domain=javmix.tv|asianclub.tv
+||outsliggooa.com^$domain=javmix.tv|sbvideo.net|asianclub.tv
+||cdn.uponelectabuzzor.club^$domain=javmix.tv|asianclub.tv
+||upgulpinon.com^$domain=javmix.tv|asianclub.tv
+||wu.deckerexuvium.com^$domain=javmix.tv|sbvideo.net|asianclub.tv
+||awigglespouter.cam^$domain=javmix.tv|asianclub.tv
 ||residenceseeingstanding.com^$domain=avgle.net
 ||obnoxiousstackderide.com^$domain=avgle.net
 ||captivatepestilentstormy.com^$domain=avgle.net
@@ -127,7 +194,7 @@ kmansin03.com##[src^="//befirstcdn.com/script/atg.js"]
 ||befirstcdn.com^$domain=kmansin03.com
 ||laulup.com^$domain=kmansin03.com
 ||st.chatango.com^$domain=rawkuma.com
-||hugfromoctopus.com^$domain=javsaga.ninja
+||hugfromoctopus.com^$domain=javsaga.ninja|raw.senmanga.com
 
 !2022-04-28
 animebee.to##.anis-cover-wrap
@@ -151,8 +218,8 @@ txxx.com##.video-videos-slider
 txxx.com##.poper_show
 txxx.com##._ciw-show__zoom
 txxx.com##[src^="/oxvmgkroqa/"]
-embed.share-videos.se###new_ad_html
-embed.share-videos.se###ad_html
+!embed.share-videos.se###new_ad_html
+!embed.share-videos.se###ad_html
 85tube.com##.sponsor
 japan.cnet.com###tieup_control_sp
 japan.cnet.com##.ad_container
@@ -368,8 +435,8 @@ supjav.com##.movv-ad
 ||fdelphaswcealifornica.com^
 
 !2022/03/11
-video.fc2.com,ign.com,welovemanga.one,weloma.art,mangagohan.me,gokumanga.com,rawkuma.com,enjoytokyo.jp,mangaraw.co,magic-object.mydns.jp,kisscos.net,klmanga.net,mikaraw.com,asiangaysex.net,javhub.net,mangarockteam.online##div>iframe
-mangas-raw.com,welovemanga.one,weloma.art,animebee.to,mangameta.com,hentaispark.com,rawkuma.com,mangaraw.co,klmanga.net,mangapro.top,mikaraw.com,manga1001.com,manga1000.com##html>iframe
+helloprojects.seesaa.net,video.fc2.com,ign.com,welovemanga.one,weloma.art,mangagohan.me,gokumanga.com,rawkuma.com,enjoytokyo.jp,mangaraw.co,magic-object.mydns.jp,kisscos.net,klmanga.net,mikaraw.com,asiangaysex.net,javhub.net,mangarockteam.online##div>iframe
+mangaraw.lol,wiki.ja-jp.nina.az,mangas-raw.com,welovemanga.one,weloma.art,animebee.to,mangameta.com,hentaispark.com,rawkuma.com,mangaraw.co,klmanga.net,mangapro.top,mikaraw.com,manga1001.com,manga1000.com##html>iframe
 mangapro.top##._ae-container
 mangapro.top##[class*="adsBox"]
 smbc-card.com##div[class^="floatbnrInner"]
@@ -393,7 +460,6 @@ manga1000.com##[src^="https://manga1001.com/wp-content/themes/pt-magazine/assets
 ||u-12222.onetouch9.com^
 ||cdn-free-news.info^
 !||snappedimpressive.com^
-!||addresseepaper.com^
 !||facilitatevoluntarily.com^
 ||ber2g8e3keley.com^
 ||izingbalaic.casa^
@@ -531,7 +597,7 @@ frozen.analyst.jp##div[class*="code-block-2"]
 frozen.analyst.jp##div[id*="swell_ad"]
 yahoo.com##div[class*="caas-da"]
 yahoo.com##.native-ad-item
-city.kitanagoya.lg.jp##div.ad_area
+video.fc2.com,city.kitanagoya.lg.jp##div.ad_area
 yahoo.co.jp##div.yads_ad_video
 yahoo.co.jp##div#TBP
 yahoo.co.jp##div#TCBX
@@ -2453,7 +2519,7 @@ pixiv.net##.premium-lead-new-t-info-home-top
 ||nogizaka-46bunno1.blog.jp/pic14.html$domain=nogizaka-46bunno1.blog.jp
 play-life.jp##.fixed-footer__margin
 nhk.or.jp###stickyBanner
-earthyworld.com##.adsg
+!earthyworld.com##.adsg
 earthyworld.com##a[href^="https://blog.earthyworld.com/archives/aki-nukege/"]
 1000mg.jp###post-116623
 ##a[href^="http://ad-clutch.jp/gate"]
