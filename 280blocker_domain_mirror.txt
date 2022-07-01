@@ -10,7 +10,7 @@
 # Please use it in a system that can block subdomains.
 #
 #
-# Lastupdate: 2022-06-15
+# Lastupdate: 2022-06-30
 #
 
 domain.dummy280280.net
@@ -1403,7 +1403,6 @@ blamedbuckie.fun
 dontbeabadboy.javboys.com
 s.yjtag.jp
 analytics.tiktok.com
-tr.line.me
 clenchedyouthmatching.com
 39bace7344.com
 freehostedscripts.net
@@ -1471,6 +1470,51 @@ supersedeforbes.com
 hatbenchmajestic.com
 happy-egg.net
 untimburra.com
+oaphoace.net
+snoreempire.com
+ak.hetapus.com
+predictivadnetwork.com
+snugglethesheep.com
+kts.vasstycom.com
+chikiporn.com
+83c4a75c80.2c9bc8255a.com
+soogandrooped.cam
+dooloust.net
+rboidwgwnj.com
+pokaroad.net
+crglqvnn.com
+dlaatjllingd.com
+bookmrqafuftc.com
+upgulpinon.com
+oolteomdbgwtxdq.com
+teccahoyllqlwg.com
+agacelebir.com
+kfyffxeilchdv.com
+fjmxwdjopekpa.com
+slxenpncpot.com
+tzegilo.com
+rscvoxgydn.com
+utebrvspujprf.com
+disappointmentoutcrymexican.com
+delayeddisembroildisembroil.com
+broomacknowledgedpinch.com
+tiesmaritalkidnap.com
+temporarilyruinconsistent.com
+understoodreceivermisunderstand.com
+scriptvealpatronage.com
+steakeffort.com
+spotlighthemp.com
+e335udnv6drg78b7.com
+twazzyoidwlfe.com
+velocitycdn.com
+utfied.com
+alas4kanmfa6a4mubte.com
+eki-net.wj80pb6b.com.cn
+passtechusa.com
+highprofitnetwork.com
+13c5a60b6b.fca4e27bb3.com
+captivatepestilentstormy.com
+youradexchange.com
 
 
 
