@@ -10,7 +10,7 @@
 # Please use it in a system that can block subdomains.
 #
 #
-# Lastupdate: 2022-07-29
+# Lastupdate: 2022-08-16
 #
 
 domain.dummy280280.net
@@ -1574,6 +1574,32 @@ gettine.com
 getkel.com
 getibo.com
 cabbagehomme.casa
+blastcahs.com
+fostereminent.com
+adstopc.com
+barleylatestinches.com
+effectivecpmcontent.com
+balneasoucars.website
+srv.mndsrv.com
+cyclismpeddled.cam
+whugesto.net
+showawuphi.com
+padp5arja8dgsd9cha.com
+abc.manga9.co
+batmenmessily.website
+redirectto.fun
+tovanillitechan.com
+outoctillerytor.com
+dozubatan.com
+thaudray.com
+ozobsaib.com
+delivery.taroads.com
+api.movcloud.net
+cache.anicdn.stream
+unseenreport.com
+phajusjungled.website
+123.manga1001.top
+psomywhyni.com
 
 
 
