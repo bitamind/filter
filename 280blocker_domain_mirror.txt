@@ -10,7 +10,7 @@
 # Please use it in a system that can block subdomains.
 #
 #
-# Lastupdate: 2022-08-16
+# Lastupdate: 2022-08-31
 #
 
 domain.dummy280280.net
@@ -1600,6 +1600,25 @@ unseenreport.com
 phajusjungled.website
 123.manga1001.top
 psomywhyni.com
+offer.advotionhot.com
+cardiidae.com
+go.hentaigold.net
+oximsrhibia.casa
+eu.got-to-be.me
+bordsnewsjule.com
+jaavnacsdw.com
+anicli.click
+kebyartopsman.website
+igarabealing.website
+entamedeprave.casa
+us.pushnow.net
+foldenbrahmic.website
+camarondo.com
+ptonuhoku.com
+thathechoxe.com
+byambipoman.com
+kougloar.com
+chatheez.net
 
 
 
