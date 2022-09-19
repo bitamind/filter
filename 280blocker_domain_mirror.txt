@@ -10,7 +10,7 @@
 # Please use it in a system that can block subdomains.
 #
 #
-# Lastupdate: 2022-08-31
+# Lastupdate: 2022-09-15
 #
 
 domain.dummy280280.net
@@ -1619,6 +1619,31 @@ thathechoxe.com
 byambipoman.com
 kougloar.com
 chatheez.net
+adforyounews.com
+adblockplustape.com
+v6rxv5coo5.com
+ejcet5y9ag.com
+doruffletr.com
+athyimmesa.shop
+gelclinchfranz.com
+forgerylimit.com
+gasemosho.com
+aihoasso.net
+news.customapi.top
+piwhecyfo.pro
+quakingcalix.com
+ktobedirectu.autos
+vz.7vid.net
+perryvolleyball.com
+unwillingsnick.com
+ewoutosh.com
+psapsiph.net
+goomaphy.com
+sya9yncn3q.com
+clerrrep.com
+strakerecombs.website
+taembed.com
+bemachopor.com
 
 
 
