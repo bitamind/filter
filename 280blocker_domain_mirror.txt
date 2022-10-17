@@ -10,7 +10,7 @@
 # Please use it in a system that can block subdomains.
 #
 #
-# Lastupdate: 2022-09-30
+# Lastupdate: 2022-10-14
 #
 
 domain.dummy280280.net
@@ -1667,6 +1667,18 @@ tractekytyh.xyz
 c29bbe639d.517a6efd5d.com
 18dd092f0f.19805d2bcb.com
 ef7ca99696.1731d04ba1.com
+mscoldness.com
+bg4nxu2u5t.com
+ezyenrwcmo.com
+bg4nxu2u5t.com
+oblongseller.com
+ludicroussignify.com
+ksehinkitw.hair
+maxonclick.com
+kwtnhdrmbx.com
+louchees.net
+lephaush.net
+doninjaskr.com
 
 
 
