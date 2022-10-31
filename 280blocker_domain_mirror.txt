@@ -10,7 +10,7 @@
 # Please use it in a system that can block subdomains.
 #
 #
-# Lastupdate: 2022-10-14
+# Lastupdate: 2022-10-31
 #
 
 domain.dummy280280.net
@@ -1679,6 +1679,19 @@ kwtnhdrmbx.com
 louchees.net
 lephaush.net
 doninjaskr.com
+hmafhczsos.com
+ofthecathedral.xyz
+omclyzyapf.com
+locksmithachievehostility.com
+ihzuephjxb.com
+terciogouge.com
+eautifuleed.xyz
+dsoodbye.xyz
+enodiarahnthedon.com
+entriflingw.xyz
+getherefwu.xyz
+interstitial-08.com
+onclickperformance.com
 
 
 
