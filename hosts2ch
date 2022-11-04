@@ -2,8 +2,8 @@
 # List of mobile advertising domains in Japan
 # Homepage: note.com/hosts2ch
 # File size: 30 KB
-# Domain count: 1076
-# =========== Last modified: 2021-11-09 ===========
+# Domain count: 1084
+# =========== Last modified: 2022-11-04 ===========
 
 127.0.0.1  localhost
 ::1  localhost
@@ -19,6 +19,7 @@
 127.0.0.1 2.chmato.me
 127.0.0.1 29730396.ranking.fc2.com
 127.0.0.1 2mdn.info
+127.0.0.1 34654990.ranking.fc2.com
 127.0.0.1 4107269.ranking.fc2.com
 127.0.0.1 a-mobile.genieesspv.jp
 127.0.0.1 a.adnium.com
@@ -289,9 +290,13 @@
 127.0.0.1 ashot.txxx.com
 127.0.0.1 asp.m-live.jp
 127.0.0.1 aspm.jp
+127.0.0.1 asset.adserver.vrizead.com
 127.0.0.1 asset.fwcdn2.com
+127.0.0.1 asset.fwcdn3.com
+127.0.0.1 asset.fwpub1.com
 127.0.0.1 asset.torimochi-ad.net
 127.0.0.1 assets.gunosy.com
+127.0.0.1 asumi.shinobi.jp
 127.0.0.1 auc.ca-conv.jp
 127.0.0.1 av-mov.com
 127.0.0.1 avplayer.com
@@ -422,6 +427,7 @@
 127.0.0.1 cs.adingo.jp
 127.0.0.1 cs.adxpansion.com
 127.0.0.1 cs.r-ad.ne.jp
+127.0.0.1 csync.loopme.me
 127.0.0.1 ct1.ojaru.jp
 127.0.0.1 ct1.xrea.com
 127.0.0.1 ct2.aikotoba.jp
@@ -620,6 +626,7 @@
 127.0.0.1 js.wpushsdk.com
 127.0.0.1 js1.nend.net
 127.0.0.1 js1.ziyu.net
+127.0.0.1 jsc.adskeeper.com
 127.0.0.1 jsc.mgid.com
 127.0.0.1 k.zucks.net
 127.0.0.1 kaiu-marketing.com
@@ -641,7 +648,6 @@
 127.0.0.1 lodeo-adnw.adtdp.com
 127.0.0.1 lois.nend.net
 127.0.0.1 lona.nend.net
-127.0.0.1 loopme.me
 127.0.0.1 lp.mp.mydas.mobi
 127.0.0.1 lp.mydas.mobi
 127.0.0.1 lp.vasta.co.jp
@@ -920,9 +926,11 @@
 127.0.0.1 sync.ad-stir.com
 127.0.0.1 sync.adap.tv
 127.0.0.1 sync.fout.jp
+127.0.0.1 sync.shinobi.jp
 127.0.0.1 syndication.exdynsrv.com
 127.0.0.1 syndication.exoclick.com
 127.0.0.1 syndication.exosrv.com
+127.0.0.1 syndication.realsrv.com
 127.0.0.1 system.litaheart.com
 127.0.0.1 t.82comb.net
 127.0.0.1 t.afi-b.com
