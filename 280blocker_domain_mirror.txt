@@ -10,7 +10,7 @@
 # Please use it in a system that can block subdomains.
 #
 #
-# Lastupdate: 2022-10-31
+# Lastupdate: 2022-11-15
 #
 
 domain.dummy280280.net
@@ -1692,6 +1692,9 @@ entriflingw.xyz
 getherefwu.xyz
 interstitial-08.com
 onclickperformance.com
+cipledecline.buzz
+strangesweet.com
+d3v3bqdndm4erx.cloudfront.net
 
 
 
