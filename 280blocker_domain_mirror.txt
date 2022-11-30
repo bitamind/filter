@@ -10,7 +10,7 @@
 # Please use it in a system that can block subdomains.
 #
 #
-# Lastupdate: 2022-11-15
+# Lastupdate: 2022-11-30
 #
 
 domain.dummy280280.net
@@ -1695,6 +1695,19 @@ onclickperformance.com
 cipledecline.buzz
 strangesweet.com
 d3v3bqdndm4erx.cloudfront.net
+secrecysatisfy.com
+inrhyhorntor.com
+monkeysloveyou.com
+mathcountryside.com
+gravityessencephiladelphia.com
+webprivacyapp.com
+highperformancedisplayformat.com
+profitablegatetocontent.com
+lcfooiqhro.com
+dita6jhhqwoiz.cloudfront.net
+majorityevaluatewiped.com
+afcnuchxgo.com
+krjxhvyyzp.com
 
 
 
