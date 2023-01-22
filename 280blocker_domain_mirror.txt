@@ -10,7 +10,7 @@
 # Please use it in a system that can block subdomains.
 #
 #
-# Lastupdate: 2022-12-26
+# Lastupdate: 2023-01-16
 #
 
 domain.dummy280280.net
@@ -1762,6 +1762,61 @@ widgets.amung.us
 grunoaph.net
 grirtouy.com
 betzapdoson.com
+rsc.cdn77.org
+truthful-quote.pro
+aghffniwjd.ywufsjhc4.jp
+xkqpwpxovmf.com
+psausuck.net
+pxglreolb.com
+liaisondegreedaughters.com
+imprintmake.com
+hundredscultureenjoyed.com
+imp-adedge.i-mobile.co.jp
+spnativeapi-tls.i-mobile.co.jp
+plausiblecdn.co
+woafoame.net
+gloaphoo.net
+dzienkudrow.com
+flixdot.com
+c.disquscdn.com
+go.live.tktube.com
+js.ad-optima.com
+pioneerhardshipfarewell.com
+alleviatepracticableaddicted.com
+temperrunnersdale.com
+cadlsyndicate.com
+effectivecreativeformat.com
+highcpmrevenuenetwork.com
+speakspurink.com
+unpredictablehateagent.com
+blacknesskeepplan.com
+subjectsextended.com
+diclotrans.com
+styrianauf.com
+cheerfullycling.com
+ginpithed.live
+hippostravois.store
+marlpitbucku.com
+outrageousmeet.pro
+2d04fd8d84.a10e98bd92.com
+prehistoriceast.com
+strungglancedrunning.com
+ba0182aa75.com
+initiallycoffee.com
+chiroouterly.com
+brasthingut.com
+highperformancecpmgate.com
+grossedoicks.com
+jqcache.ml
+sapoaix.com
+qs.nodouslover.com
+anahitagirted.uno
+fixespreoccupation.com
+facilitycompetition.com
+c6aa5de331.e6eae88795.com
+qgxbluhsgad.com
+bc9d84584e.194ac5b0e3.com
+
 
 
 
