@@ -6,15 +6,71 @@
 ! This file is only permitted for personal use under copyright law.
 ! Commercial use or  redistribution are prohibited except as permitted by copyright law.
 !
-! Last updated: 2023-02-14
-##.blocker280-20230214
+! Last updated: 2023-02-27
+##.blocker280-20230227
 
+! 2023-02-27
+
+~highcpmrevenuenetwork.com##a[href^="https://www.highcpmrevenuenetwork.com/"]
+~bobabillydirect.org##a[href^="https://bobabillydirect.org"]
+try-it.jp##.overlay__bg
+pet-info.event.rakuten.net###floating-banner
+detective-conan-blog.com##.w-singleTop
+detective-conan-blog.com##.w-beforeToc
+nyahentai.re,momon-ga.com,doujinantena.top##.asmr18
+pixivision.net##._floated-bottom-bar
+sitebk.com##.product
+kinmaweb.jp##.book-tiles
+b9good.com##[src*="/ad_js/"]
+mj-news.net###TypeH1-1_mb
+mj-news.net###TypeH2-1_mb
+idokaba.net##a[href^="https://www.clebook.net/"]
+idokaba.net##a[href^="https://www.lacuri.jp/"]
+figsoku.net##[href^="https://coco-store.jp/"]
+figsoku.net##.sum
+figsoku.net##.gad
+mashupreporter.com##.border-wrapper
+recotripp.com##.header-app
+recotripp.com##.btn-sticky-area
+nknews.jp###overlay
+nknews.jp###slide_wrap
+nknews.jp###im_panel_b
+||bobabillydirect.org^
+||highcpmrevenuenetwork.com^
+||violencegloss.com^
+||creative.live.missav.com^
+||oxbbzxqfnv.com^
+||seapolo.com^
+||c.adsco.re^
+||gewbafkw.com^
+||stipelyaya.live^
+||maniconclavis.com^
+||renomeeguze.com^
+||dyj8pbcnat4xv.cloudfront.net^
+||entailresponded.com^
+||addssupport.com^
+||illuminatedharrowpartnership.com^
+||hampersolarwings.com^
+||whairtoa.com^
+||wheftouw.xyz^
+||ads.contents.fc2.com^
+||harfuzawmk.com^
+||oqfoczdfyag.com^
+||ribpijhmihar.com^
+||js.j8jp.com^
+||ogrltiahldr.com^
+||whairtoa.com^
+||staiwiru.xyz^
+||adblocktape.online/ad.js^
+||streamtape.com/ad.js^
+||player.gliacloud.com^$domain=kinmaweb.jp
+
+! 2023-02-14
 
 ##[id^="advertisement_"]
 ~javfeed.me##[href="https://javfeed.me/"]
 ~twivideo.net##[href="https://twivideo.net/?realtime"]
 /api/senddata$domain=manga-mate.org|kmansin09.com|javhdmost.com
-emturbovid.com##+js(window.open-defuser)
 ?scontext_r=$domain=mn4u.net
 5chan.jp###oppaimall_pagelist
 live.kufu.co.jp##.getters-banner
@@ -69,7 +125,6 @@ farfetch.com##[id^="App banner"]
 ||ak.lanopoon.net^
 ||spo76rt28r.com^
 ||c1.smartclick.net^
-||cloudfront.net^$domain=supjav.com
 ||videosprofitnetwork.com^$domain=supjav.com
 ||lcdn.rivertraffic.com^$domain=ivfree.me
 ||cdntocdn.com^$domain=ivfree.me
@@ -447,7 +502,6 @@ gamepedia.jp##.ad-carousel
 ||agraffesalps.com^
 ||stannyltatusia.com^
 ||anmedm.com/themes/v3/js/kissanime.min.js^
-||uptownrecycle.com^
 ||charmshoist.com^
 ||unrulymorning.pro^
 ||fnbauniukvi.com^
@@ -750,7 +804,7 @@ ctier=L$domain=youtube.com|googlevideo.com
 ||louchees.net^
 ||lephaush.net^
 ||doninjaskr.com^
-||cloudfront.net^$domain=stapewithadblock.monster|streamtape.com|javfan.one|xfantazy.com
+||cloudfront.net^$domain=stapewithadblock.monster|streamtape.com|javfan.one|xfantazy.com|supjav.com|b9good.com
 ||cdn.cloudvideosa.com^$domain=stapewithadblock.monster|supjav.com|mangalove.top
 ||arithmeticshovel.com^$domain=zippyshare.com
 ||browser.sentry-cdn.com^$domain=videeza.com
@@ -805,7 +859,7 @@ world-fusigi.net##.twitter-tweet
 moviesjoy.to###gift-top
 streamtape.com##[src^="/ad.js"]
 streamtape.com###adb
-##[class*="▭"]
+##[class*="笆ｭ"]
 elcorreogallego.es##.template-24
 shingakunet.com##.footer-banner
 kidsna.com##.line-share-button
@@ -1726,7 +1780,7 @@ supjav.com##.movv-ad
 ||fdelphaswcealifornica.com^
 
 !2022/03/11
-b9good.com,manga1001.in,manga9.co,shinmai.co.jp,mangarawjp.io,ap-siken.com,jp.spankbang.com,kmansin09.com,elcorreogallego.es,anycodings.com,img.jpg4.pw,ero-mangalife.com,manga1001.club,vidoza.net,jav321.com,rule34.xxx,imhentai.xxx,lockercodes.io,sokorace.blog.shinobi.jp,mangarawjp.com,tktube.com,uraaka-joshi.com,barscaffolding.co.uk,linkuptoyopnlan.web.app,mangakala.me,mangakala.com,hitomi.la,nikaraw.com,helloprojects.seesaa.net,video.fc2.com,ign.com,welovemanga.one,weloma.art,mangagohan.me,gokumanga.com,rawkuma.com,enjoytokyo.jp,mangaraw.co,magic-object.mydns.jp,kisscos.net,klmanga.net,mikaraw.com,asiangaysex.net,javhub.net,mangarockteam.online##div>iframe
+yakuzasden.org,b9good.com,manga1001.in,manga9.co,shinmai.co.jp,mangarawjp.io,ap-siken.com,jp.spankbang.com,kmansin09.com,elcorreogallego.es,anycodings.com,img.jpg4.pw,ero-mangalife.com,manga1001.club,vidoza.net,jav321.com,rule34.xxx,imhentai.xxx,lockercodes.io,sokorace.blog.shinobi.jp,mangarawjp.com,tktube.com,uraaka-joshi.com,barscaffolding.co.uk,linkuptoyopnlan.web.app,mangakala.me,mangakala.com,hitomi.la,nikaraw.com,helloprojects.seesaa.net,video.fc2.com,ign.com,welovemanga.one,weloma.art,mangagohan.me,gokumanga.com,rawkuma.com,enjoytokyo.jp,mangaraw.co,magic-object.mydns.jp,kisscos.net,klmanga.net,mikaraw.com,asiangaysex.net,javhub.net,mangarockteam.online##div>iframe
 mn4u.net,missav.com,anitube.biz,klmanga.com,manga-mate.org,manga1001.vip,klmanga.su,kissmanga.org,j8jp.com,kissanime.com.ru,bestjavporn.com,manga1001.club,avgle.com,javmost.com,tktube.com,mangaraw.io,mangarawjp.io,mm9842.com,vidoza.net,goload.io,imhentai.xxx,jav321.com,moviesjoy.to,lockercodes.io,mangarawjp.com,uraaka-joshi.com,barscaffolding.co.uk,mangakala.me,mangakala.com,hitomi.la,nikaraw.com,mangaraw.lol,wiki.ja-jp.nina.az,mangas-raw.com,welovemanga.one,weloma.art,animebee.to,mangameta.com,hentaispark.com,rawkuma.com,mangaraw.co,klmanga.net,mangapro.top,mikaraw.com,manga1001.com,manga1000.com##html>iframe
 mangapro.top##._ae-container
 mangapro.top##[class*="adsBox"]
@@ -2812,7 +2866,7 @@ news.goo.ne.jp###overlay_app_dl
 
 ~nekotabiblog.com,~gigaho.com,~fp2-siken.com,~knshow.com,~kakomonn.com,~jp-horse-breaking.blogspot.com,~mirm.jp,~gadgetdamage.blog.fc2.com,~alicex.jp,~server-setting.info,~server-domain.info,~monst.today,~publicdomainq.net,~8wayrun.com,~battlecats-db.com,~9ketsuki.info,~nazolog.com,~z0i.net,~ff14angler.com,~db-siken.com,~pm-siken.com,~sg-siken.com,~sc-siken.com,~nw-siken.com,~mushinavi.com,~k05.biz,~itpassportsiken.com,~fe-siken.com,~douga-getter.com,~ap-siken.com,~off-soft.net,~earthyworld.com,~coron.tech##.adsbygoogle:not(body)
 
-~nekotabiblog.com,~javboys.com,~bi-girl.net,~nknews.jp,~9ketsuki.info,~rbs.ta36.com,~toramemoblog.com,~odekake-spots.com,~telephone-soudan.com,~chpadblock.com,~tenbaiquest.com,~tabkul.com,~blogk.com,~n-organic.com,~pedi.in,~knshow.com,~asahi.com,~newsweekjapan.jp,~iza.ne.jp,~allabout.co.jp,~book.hostlove.com,~find-method.com,~accounts.yahoo.co.jp,~gadgetdamage.blog.fc2.com,~thisav.com,~savevideo.me,~pixiv.net,~gmail.com,~mail.google.com,~inbox.google.com##.ads:not(body)
+~bild.de,~nekotabiblog.com,~javboys.com,~bi-girl.net,~nknews.jp,~9ketsuki.info,~rbs.ta36.com,~toramemoblog.com,~odekake-spots.com,~telephone-soudan.com,~chpadblock.com,~tenbaiquest.com,~tabkul.com,~blogk.com,~n-organic.com,~pedi.in,~knshow.com,~asahi.com,~newsweekjapan.jp,~iza.ne.jp,~allabout.co.jp,~book.hostlove.com,~find-method.com,~accounts.yahoo.co.jp,~gadgetdamage.blog.fc2.com,~thisav.com,~savevideo.me,~pixiv.net,~gmail.com,~mail.google.com,~inbox.google.com##.ads:not(body)
 ~nekotabiblog.com,~minkabu.jp,~javboys.com,~bi-girl.net,~nknews.jp,~9ketsuki.info,~rocketnews24.com,~odekake-spots.com,~rbs.ta36.com,~toramemoblog.com,~telephone-soudan.com,~chpadblock.com,~tenbaiquest.com,~tabkul.com,~blogk.com,~gnt24365.net,~yakkun.com,~gadgetdamage.blog.fc2.com,~go.jp,~lg.jp,~db-siken.com,~pm-siken.com,~sg-siken.com,~sc-siken.com,~nw-siken.com,~itpassportsiken.com,~fe-siken.com,~ap-siken.com,~nazolog.com,~mobagate.net,~mushinavi.com,~impress.co.jp,~houdoukyoku.jp,~1000mg.jp,~mapion.co.jp,~gmail.com,~doujin-free.com,~mydocomo.com,~smt.docomo.ne.jp,~inbox.google.com,~mail.google.com,~www.afpbb.com##.ad:not(body):not(nav):not(dl):not(dt):not(dd)
 
 
@@ -2849,7 +2903,7 @@ casinoconcierge.cc###bottom
 ##[class^="ad-square"]
 ##[class^="ad-after"]
 ##[class^="ad-back"]
-~rakuten.co.jp,~phileweb.com##[class^="ad-banner"]
+~bild.de,~rakuten.co.jp,~phileweb.com##[class^="ad-banner"]
 ##[class^="ad-bnr"]
 ##[class^="ad-bottom"]
 ##[class^="ad-box"]
@@ -6476,6 +6530,8 @@ BannerLoader$domain=wikipedia.org
 ||zemanta.com^
 ||ziyu.net^
 ||zucks.net^
+
+!||rranking[0-9]{1,}.ziyu.net^
 
 ##a[href*=".ad-analyze.jp"]
 ##a[href*=".adpon.net"]

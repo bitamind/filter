@@ -10,7 +10,7 @@
 # Please use it in a system that can block subdomains.
 #
 #
-# Lastupdate: 2023-02-14
+# Lastupdate: 2023-02-27
 #
 
 domain.dummy280280.net
@@ -1877,6 +1877,32 @@ stilaikr.com
 ak.lanopoon.net
 spo76rt28r.com
 c1.smartclick.net
+bobabillydirect.org
+highcpmrevenuenetwork.com
+violencegloss.com
+creative.live.missav.com
+oxbbzxqfnv.com
+seapolo.com
+c.adsco.re
+gewbafkw.com
+stipelyaya.live
+maniconclavis.com
+renomeeguze.com
+dyj8pbcnat4xv.cloudfront.net
+entailresponded.com
+addssupport.com
+illuminatedharrowpartnership.com
+hampersolarwings.com
+whairtoa.com
+wheftouw.xyz
+ads.contents.fc2.com
+harfuzawmk.com
+oqfoczdfyag.com
+ribpijhmihar.com
+js.j8jp.com
+ogrltiahldr.com
+whairtoa.com
+staiwiru.xyz
 
 
 
