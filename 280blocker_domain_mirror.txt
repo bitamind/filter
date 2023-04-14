@@ -10,7 +10,7 @@
 # Please use it in a system that can block subdomains.
 #
 #
-# Lastupdate: 2023-03-30
+# Lastupdate: 2023-04-14
 #
 
 domain.dummy280280.net
@@ -1992,6 +1992,29 @@ htyzpilijhki.com
 jaqodlaxpm.com
 niqzusrumzuf.com
 limurol.com
+tpc.googlesyndication.com
+wfuxwegisqhe.com
+xtasattazv.com
+tutsterblanche.com
+inklinkor.com
+stinkyrepetition.com
+bedrapiona.com
+ibrapush.com
+defiancebelow.com
+cdn.itskiddien.club
+unwoobater.com
+dood.sh
+anidianskirts.com
+syenitetatler.tech
+dhuimjkivb.com
+catvmuvkibud.com
+libcdnjs.com
+dpyabvkadg.com
+cdn-gliacloud.urekamedia.co
+kiksajex.com
+itespurrom.com
+glottalsolutions.com
+r3.o.lencr.org
 
 
 
