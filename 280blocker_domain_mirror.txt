@@ -10,7 +10,7 @@
 # Please use it in a system that can block subdomains.
 #
 #
-# Lastupdate: 2023-04-14
+# Lastupdate: 2023-04-27
 #
 
 domain.dummy280280.net
@@ -2015,6 +2015,15 @@ kiksajex.com
 itespurrom.com
 glottalsolutions.com
 r3.o.lencr.org
+hfmarkets001.com
+b30da4e330.com
+activelysmileintimate.com
+track.dalysh.com
+jicypigra.com
+doppiocdn.org
+ubbfpm.com
+palakahone.com
+profitabledisplaynetwork.com
 
 
 
