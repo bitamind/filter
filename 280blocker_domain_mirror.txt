@@ -10,7 +10,7 @@
 # Please use it in a system that can block subdomains.
 #
 #
-# Lastupdate: 2023-04-27
+# Lastupdate: 2023-05-16
 #
 
 domain.dummy280280.net
@@ -2024,6 +2024,20 @@ doppiocdn.org
 ubbfpm.com
 palakahone.com
 profitabledisplaynetwork.com
+fbf1dd651b.com
+aphagiafiking.com
+gs.profrebecca.com
+l1yjsn8.zrrnqq.com
+ly3whx8.mxknqq.com
+1208818836.rsc.cdn77.org
+js.manga1000.top
+stickerchapelsailing.com
+oralistnations.com
+hq49.chickenkiller.com
+forlumineontor.com
+appzery.com
+againboundless.com
+aswgwyrmyoh.com
 
 
 
