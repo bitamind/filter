@@ -10,7 +10,7 @@
 # Please use it in a system that can block subdomains.
 #
 #
-# Lastupdate: 2023-07-13
+# Lastupdate: 2023-07-27
 #
 
 domain.dummy280280.net
@@ -1755,7 +1755,6 @@ pjsefaqzyjv.com
 tractlife.com
 prolatecyclus.com
 shukriya90.com
-disqus.com
 fewhowsit.live
 urimnugocfr.com
 widgets.amung.us
@@ -1778,7 +1777,6 @@ woafoame.net
 gloaphoo.net
 dzienkudrow.com
 flixdot.com
-c.disquscdn.com
 go.live.tktube.com
 js.ad-optima.com
 pioneerhardshipfarewell.com
@@ -2180,6 +2178,55 @@ allcommonstories.com
 c7d263f5d8.com
 1b264a0ca0.com
 axufcs.space
+nazolncubha.com
+phyfzaothmfy.com
+stihruojvag.com
+onnotcbwyz.com
+71ec0646e6.com
+keewoach.net
+6810f7dd2b.com
+a5ff528ff9.com
+adtrace.online
+xmegaxvideox.com
+abwattfrutex.com
+82308721ac.com
+metricswpsh.com
+wpadmngr.com
+natsdk.com
+wpushsdk.com
+nereserv.com
+neverthelessdamagingmakes.com
+fitting-population.com
+jnkstff.com
+awpya.com
+wrathful-alternative.com
+auditioningantidoteconnections.com
+unigroupstudio.com
+kennethemergedishearten.com
+rfiocbbidnu.com
+osfkfaacqx.com
+sumpingaksic.com
+go.stripchat.com
+creative.stripchat.com
+starvegingerwaist.com
+obduratecommence.com
+barnaclecocoonjest.com
+hissoverout.com
+neofield.click
+vlvbyqgjqj.com
+wbilvnmool.com
+ezcgojaamg.com
+adxadtracker.com
+partwithner.com
+hartattenuate.com
+lookinews.com
+errorpalpatesake.com
+tzugumojfm.com
+fdorxsat.com
+amntx1.net
+xlivrdr.com
+phyfzaothmfy.com
+apzdfakiso.com
 
 
 
