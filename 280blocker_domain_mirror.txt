@@ -10,7 +10,7 @@
 # Please use it in a system that can block subdomains.
 #
 #
-# Lastupdate: 2023-07-27
+# Lastupdate: 2023-08-17
 #
 
 domain.dummy280280.net
@@ -2227,6 +2227,27 @@ amntx1.net
 xlivrdr.com
 phyfzaothmfy.com
 apzdfakiso.com
+xxxvjmp.com
+xliirdr.com
+clock-ok.com
+doppiocdn.com
+desgolurkom.com
+qenrbylyjbzza.top
+toddernovas.digital
+enkvmrkwrnleb.top
+myliveforyoudreder.com
+zv.7vid.net
+westats.dev
+esrpkd.com
+myliveforyoudreder.com
+ahyghotmptj.com
+x7r3mk6ldr.com
+bmbmwiadmvx.com
+almstda.tv
+hesoorda.com
+rausougo.net
+zuphaims.com
+voonogoa.net
 
 
 
