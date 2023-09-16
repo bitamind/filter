@@ -10,7 +10,7 @@
 # Please use it in a system that can block subdomains.
 #
 #
-# Lastupdate: 2023-08-30
+# Lastupdate: 2023-09-14
 #
 
 domain.dummy280280.net
@@ -2283,6 +2283,33 @@ tignuget.net
 vasteeds.net
 e2ertt.com
 perf.cdnads.com
+refreshingtold.com
+allowflannelmob.com
+impulsiveenabled.com
+wmpset.com
+strjuylfrjyk.site
+bxqq.xyz
+kgdtoba.com
+dghhot.com
+klzs.xyz
+js.canstrm.com
+js.wpnsrv.com
+js.capndr.com
+c01d3ac9cb.com
+veepteero.com
+adskeeper.com
+cardbluetone.live
+fewmaypick.live
+circle7-bd.com
+qxycdoexyj.com
+zzialtlewmzqki.com
+childrenweavestun.com
+sorrowgeneric.com
+vhrdwayksjrls.com
+kdpnmlygyagyx.com
+jealouschallenge.pro
+fvcwqkkqmuv.com
+52ee3dc5fe.com
 
 
 
