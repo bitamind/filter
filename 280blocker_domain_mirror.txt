@@ -10,7 +10,7 @@
 # Please use it in a system that can block subdomains.
 #
 #
-# Lastupdate: 2023-10-12
+# Lastupdate: 2023-10-30
 #
 
 domain.dummy280280.net
@@ -2397,6 +2397,34 @@ secondquaver.com
 forfeitsubscribe.com
 gleaminsist.com
 hunkbother.com
+dataownyep.live
+rixvwazhc.com
+vadikqhge.com
+saffianxenian.com
+smervyfenks.com
+goesdeedinsensitive.com
+mgyccfrshz.com
+badujaub.xyz
+tdmrfw.com
+nwwais.com
+iqfmvj.com
+2684e4fd7f.com
+6257028645.com
+ec1e2c92b3.com
+serv-selectmedia.com
+adipolo.com
+adipolosolutions.com
+webpushs.com
+evzhzppj5kel.com
+eb9d0cb548.com
+tanksfright.com
+spheredkapas.com
+elegant-feedback.com
+okkzimcaxw.com
+otwxafgajg.com
+hantlesberith.com
+neatsafety.com
+concernedwhichever.com
 
 
 
