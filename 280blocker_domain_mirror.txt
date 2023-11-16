@@ -10,7 +10,7 @@
 # Please use it in a system that can block subdomains.
 #
 #
-# Lastupdate: 2023-10-30
+# Lastupdate: 2023-11-16
 #
 
 domain.dummy280280.net
@@ -2425,6 +2425,19 @@ otwxafgajg.com
 hantlesberith.com
 neatsafety.com
 concernedwhichever.com
+baconytapemen.com
+contentlimitless.com
+awashemeers.com
+manoirshrine.com
+fspark-ap.com
+js.mangakl.su
+cultergoy.com
+kaascypher.com
+dinomicrummies.com
+coreevolutionadulatory.com
+lassampy.com
+inpage-push.com
+divscripty.net
 
 
 
