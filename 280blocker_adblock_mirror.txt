@@ -6,8 +6,36 @@
 ! This file is only permitted for personal use under copyright law.
 ! Commercial use or  redistribution are prohibited except as permitted by copyright law.
 !
-! Last updated: 2023-11-16
-##.blocker280-20231116
+! Last updated: 2023-11-29
+##.blocker280-20231129
+
+! 2023-11-29
+
+bakusai.com##div[class^="adSection"]
+mensnonno.jp##div[class^="inarticle-ad"]
+palmie.jp##div[class*="fix-sp-banner"]
+fukulog.jp##div[id^="floating-buttons"]
+twitter.com##div[data-testid="cellInnerDiv"]>div>div>div[data-testid="placementTracking"]
+h178.com,bm.best-hit.tv##.substitute-show-area-on
+animephilia.net##div[class^="adcontrol-container"]
+kamikouryaku.com##.sticky-ads
+watch.impress.co.jp##div[class^="contents-section"]>div[style^="min-height:"]
+my-best.com##img[src*="img.my-best.com/anchor_banners"]
+||best-seat.pro^
+||pmfxqjlplipbpv.com^
+||jlvdzngbadupvy.com^
+||trvdp.com^
+||player.gliacloud.com^
+||creativeformatsnetwork.com^
+||pseeghud.com^
+||worstideatum.com^
+||green-lightsky.com^
+||veronalhaf.com^
+||waust.at^
+||leesecobourg.com^
+||vampersyacal.com^
+||assets.privy.com^$domain=gugu.jp
+||googletagmanager.com/gtm.js?id=$domain=gizmodo.jp|fukulog.jp
 
 ! 2023-11-16
 
@@ -19,7 +47,6 @@ wav.tv,85tube.com,anyporn.com,sexcelebrity.net,afumi-stage.jp,syokutaku-annai.co
 h1g.jp##div[align="center"][style^="margin"] 
 h1g.jp##div[class="main-body"]>div[style^="margin"]
 carenet.com###wrap-modal-fancybox
-watch.impress.co.jp##div[class^="contents-section"]>div[style]
 nogizaka-46bunno1.blog.jp##div[id="article-contents"]>div[style*="border-style:"][style*="solid;"]
 nogizaka-46bunno1.blog.jp##div[id="article-contents"]>table
 nogizaka-46bunno1.blog.jp##div[id="article-contents"]>br
@@ -116,7 +143,6 @@ kurosuen.live##.kattene
 kurosuen.live##div[class*="ad-label"]
 app.js$domain=xxx18.uno
 jetblock-scripts.js$domain=chmatome.club
-go.trvdp.com$domain=sn-jp.com
 articlePopup.js$domain=zexy.net
 app_guidance_modal-$domain=oishi-kenko.com
 ||dataownyep.live^
@@ -387,7 +413,6 @@ granim.min.js$domain=hitomi.la
 ||m.diyibanzhu.buzz/17mb/script
 ||xasiat.com/static/js/app.js
 ||stpatonastaticdev.blob.core.windows.net^$domain=magazine.techacademy.jp
-||go.trvdp.com^$domain=t-mall.kantangame.com
 
 ! 2023-08-30
 
@@ -950,7 +975,7 @@ meeco.mistore.jp###js-gtm-top-cpPoint
 meeco.mistore.jp##div[class^="karte-widget__"]
 bizmates.jp##div[class^="c-online-bnr"]
 bizmates.jp###pg-modal-content
-twitter.com##[class$="css-1dbjc4n"][data-testid="placementTracking"]
+!twitter.com##[class$="css-1dbjc4n"][data-testid="placementTracking"]
 teyvatsokuho.com##.st-sns-top
 bizmates.jp##div[class^="p-post__sns js-pagetop"]
 ||sozjv.exexpand.top^
@@ -1370,7 +1395,6 @@ nknews.jp###im_panel_b
 ||staiwiru.xyz^
 ||adblocktape.online/ad.js^
 ||streamtape.com/ad.js^
-||player.gliacloud.com^$domain=kinmaweb.jp|apptopi.jp|efight.jp|baseballking.jp|akanbo-media.jp|dorama9.com
 
 ! 2023-02-14
 
@@ -1434,7 +1458,7 @@ farfetch.com##[id^="App banner"]
 ||lcdn.rivertraffic.com^$domain=ivfree.me
 ||cdntocdn.com^$domain=ivfree.me
 ||onesignal.com^$domain=anitube.site
-||buy-ap.piano.io^$domain=tokyo-sports.co.jp
+||buy-ap.piano.io^$domain=tokyo-sports.co.jp|minorasu.basf.co.jp
 ||adblocktape.wiki/ad.js
 ||adblocktape.store/ad.js
 ||ivfree.me/wp-content/plugins^
@@ -2091,7 +2115,7 @@ ctier=L$domain=youtube.com|googlevideo.com
 ||louchees.net^
 ||lephaush.net^
 ||doninjaskr.com^
-||cloudfront.net^$domain=stapewithadblock.monster|streamtape.com|javfan.one|xfantazy.com|supjav.com|b9good.com|adblocktape.online|everia.club|rk2bukz.cf|kissasian.pe|dooood.com|mixdrop.co|scvpmixi.org|hitomi.la|antiadtape.com|doods.pro|mp4upload.com|luluvdo.com|tapeblocker.com|xxx18.uno|tapewithadblock.org|streamnoads.com
+||cloudfront.net^$domain=stapewithadblock.monster|streamtape.com|javfan.one|xfantazy.com|supjav.com|b9good.com|adblocktape.online|everia.club|rk2bukz.cf|kissasian.pe|dooood.com|mixdrop.co|scvpmixi.org|hitomi.la|antiadtape.com|doods.pro|mp4upload.com|luluvdo.com|tapeblocker.com|xxx18.uno|tapewithadblock.org|streamnoads.com|jpnews-video.com|dood.to
 ||cdn.cloudvideosa.com^$domain=stapewithadblock.monster|supjav.com|mangalove.top
 ||arithmeticshovel.com^$domain=zippyshare.com
 ||browser.sentry-cdn.com^$domain=videeza.com
@@ -4610,7 +4634,7 @@ epochtimes.jp##.margin-Ad-B20
 ##a[href^="https://jisedai.me/alpsp"]
 webcartop.jp##.sidebar-banner
 smartnews.com##.footer-wrapper
-okinilove.com###fixed_footer
+gooschool.jp,okinilove.com###fixed_footer
 find-method.com##.cont_sis
 ||demand.supply^
 ||xgrwjbui.top^
