@@ -10,7 +10,7 @@
 # Please use it in a system that can block subdomains.
 #
 #
-# Lastupdate: 2023-12-14
+# Lastupdate: 2023-12-26
 #
 
 domain.dummy280280.net
@@ -2478,6 +2478,23 @@ disshipbikinis.com
 lootexhausted.com
 ammannests.com
 groomtoo.com
+cdn.tubecorp.com
+tubecorporate.com
+psegreew.net
+rodrergi.com
+6001628d3d.com
+18788fdb24.com
+smasheswamefou.com
+stealcurtainsdeeprooted.com
+coggertyning.com
+firewoodpeerlessuphill.com
+adsfcdn.com
+overpetleersia.com
+12ezo5v60.com
+bwuodqziql.com
+homeycommemorate.com
+ku42hjr2e.com
+fatotdaqsb.com
 
 
 
