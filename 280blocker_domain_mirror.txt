@@ -10,7 +10,7 @@
 # Please use it in a system that can block subdomains.
 #
 #
-# Lastupdate: 2023-12-26
+# Lastupdate: 2024-01-15
 #
 
 domain.dummy280280.net
@@ -2495,6 +2495,23 @@ bwuodqziql.com
 homeycommemorate.com
 ku42hjr2e.com
 fatotdaqsb.com
+boloptrex.com
+imdn.pics
+cdn.tubecorp.com
+vpnrice.com
+strungcourthouse.com
+pinkssmytrie.com
+mniumlapsers.com
+ahjomrgamsfo.com
+pavfazbwiap.com
+firsthandtie.com
+mintybug.com 
+orbsrv.com
+sadjklq.com
+du0pud0sdlmzf.cloudfront.net
+d3eub2e21dc6h0.cloudfront.net
+bvyblnenz.com
+sanityflash.mom
 
 
 
