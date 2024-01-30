@@ -10,7 +10,7 @@
 # Please use it in a system that can block subdomains.
 #
 #
-# Lastupdate: 2024-01-15
+# Lastupdate: 2024-01-30
 #
 
 domain.dummy280280.net
@@ -2512,6 +2512,16 @@ du0pud0sdlmzf.cloudfront.net
 d3eub2e21dc6h0.cloudfront.net
 bvyblnenz.com
 sanityflash.mom
+go.myavlive.com
+tjipseng.com
+js.mangalove.top
+thirtycabook.com
+cheekysleepyreproof.com
+anymorehopper.com
+ciliarycetus.com
+saintselfish.com
+safprotection.com
+opoxv.com
 
 
 
