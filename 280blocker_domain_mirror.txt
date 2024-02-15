@@ -10,7 +10,7 @@
 # Please use it in a system that can block subdomains.
 #
 #
-# Lastupdate: 2024-01-30
+# Lastupdate: 2024-02-15
 #
 
 domain.dummy280280.net
@@ -2522,6 +2522,25 @@ ciliarycetus.com
 saintselfish.com
 safprotection.com
 opoxv.com
+loliumpruigo.com
+begracetindery.com
+lousefodgel.com
+scalpelvengeance.com
+topcreativeformat.com
+kiaughsviner.com
+fadraiph.xyz
+d11hjbdxxtogg5.cloudfront.net
+mutcheng.net
+convertedhorace.com
+buteostrowane.com
+h74v6kerf.com
+boptegre.com
+capletstyldia.com
+modulecooper.com
+comitalmows.com
+asacdn.com
+cordclck.cc
+metallcorrupt.com
 
 
 
