@@ -10,7 +10,7 @@
 # Please use it in a system that can block subdomains.
 #
 #
-# Lastupdate: 2024-04-25
+# Lastupdate: 2024-05-15
 #
 
 domain.dummy280280.net
@@ -2631,6 +2631,24 @@ ak.naxadrug.com
 ak.itponytaa.com
 ak.uncastnork.com
 ak.stoorgel.com
+worldlyyouth.com
+psomtenga.net
+arvigorothan.com
+oulsools.com
+destinysfavored.xyz
+lmadps.jp
+bestadsforyou.com
+du.abeighkenches.com
+professorrevealingoctopus.com
+faulterdeplume.com
+static.cloudflareinsights.com
+puffingtiffs.com
+5ivy3ikkt.com
+creative.myavlive.com
+sprlztyyh.com
+yqtvnbfndxolsj.com
+lylufhuxqwi.com
+nexus.ensighten.com
 
 
 
