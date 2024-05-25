@@ -6,8 +6,35 @@
 ! This file is only permitted for personal use under copyright law.
 ! Commercial use or  redistribution are prohibited except as permitted by copyright law.
 !
-! Last updated: 2024-05-15
-##.blocker280-20240515
+! Last updated: 2024-05-23
+##.blocker280-20240523
+
+! 2024-05-23
+
+||magbup.com^
+||mcpuwpush.com^
+||mbidinp.com^
+||wpushorg.com^
+||wpush.org^
+||wpshsdk.com^
+||canstrm.com^
+||zlinkd.com^
+||adsession.com^
+||a3ion.com^
+||ma3ion.com^
+||optzsrv.com^
+||aztool.org^
+||blogparts.dgpot.com^
+||blogparts.gcolle.net^
+||themediaplanets.com^
+||junmediadirect1.com^
+||ezmob.com^
+||digiteci.com^
+||expoclknw.com^
+||webmedrtb.com^
+||kunvertads.com^
+||newbluetrue.xyz^
+||edayo.miyuki-web.net^
 
 ! 2024-05-15
 
@@ -553,8 +580,8 @@ yanmaga.jp##div[class*="cv-banner"]
 asj-net.com,nihon-alibi-kyokai.jp,hikkoshi-line.com,rokemoba.com###sp-fixed-menu
 famitsu.com##[class^="banner-window"]
 studychain.jp##div[id^="bfb_content_"]
-twitter.com##div[data-testid="eventHero"]:has(path[d*="10H8.996V8h7v7z"])
-twitter.com##div[data-testid="trend"]:has(path[d*="10H8.996V8h7v7z"])
+x.com,twitter.com##div[data-testid="eventHero"]:has(path[d*="10H8.996V8h7v7z"])
+x.com,twitter.com##div[data-testid="trend"]:has(path[d*="10H8.996V8h7v7z"])
 ~eigarape.com##[id^="div_fam_async"]
 default.pp.static.js$domain=xvideos.com
 .life$domain=mangarawplus.org
@@ -765,7 +792,7 @@ bakusai.com##div[class^="adSection"]
 mensnonno.jp##div[class^="inarticle-ad"]
 palmie.jp##div[class*="fix-sp-banner"]
 fukulog.jp##div[id^="floating-buttons"]
-twitter.com##div[data-testid="cellInnerDiv"]>div>div>div[data-testid="placementTracking"]
+x.com,twitter.com##div[data-testid="cellInnerDiv"]>div>div>div[data-testid="placementTracking"]
 h178.com,bm.best-hit.tv##.substitute-show-area-on
 animephilia.net##div[class^="adcontrol-container"]
 watch.impress.co.jp##div[class^="contents-section"]>div[style^="min-height:"]
@@ -9438,4 +9465,3 @@ withonline.jp##.footer-sns-menu-box
 ~google.com,~google.co.jp,~yahoo.co.jp,~bing.com,~news-edge.com##a[href*=".news-edge.com"] 
 ~google.com,~google.co.jp,~yahoo.co.jp,~bing.com,~world-best-news.doorblog.jp##a[href*="//world-best-news.doorblog.jp/"]
 ~google.com,~google.co.jp,~yahoo.co.jp,~bing.com,~matometatta-news.net##a[href*="//matometatta-news.net/"]
-

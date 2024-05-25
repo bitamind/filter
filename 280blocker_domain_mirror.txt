@@ -10,7 +10,7 @@
 # Please use it in a system that can block subdomains.
 #
 #
-# Lastupdate: 2024-05-15
+# Lastupdate: 2024-05-23
 #
 
 domain.dummy280280.net
@@ -2649,6 +2649,30 @@ sprlztyyh.com
 yqtvnbfndxolsj.com
 lylufhuxqwi.com
 nexus.ensighten.com
+magbup.com
+mcpuwpush.com
+mbidinp.com
+wpushorg.com
+wpush.org
+wpshsdk.com
+canstrm.com
+zlinkd.com
+adsession.com
+a3ion.com
+ma3ion.com
+optzsrv.com
+aztool.org
+blogparts.dgpot.com
+blogparts.gcolle.net
+themediaplanets.com
+junmediadirect1.com
+ezmob.com
+digiteci.com
+expoclknw.com
+webmedrtb.com
+kunvertads.com
+newbluetrue.xyz
+edayo.miyuki-web.net
 
 
 
