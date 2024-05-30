@@ -10,7 +10,7 @@
 # Please use it in a system that can block subdomains.
 #
 #
-# Lastupdate: 2024-05-23
+# Lastupdate: 2024-05-30
 #
 
 domain.dummy280280.net
@@ -2673,6 +2673,33 @@ webmedrtb.com
 kunvertads.com
 newbluetrue.xyz
 edayo.miyuki-web.net
+omappapi.com
+orlandowaggons.com
+acscdn.com
+mhcfsjbqw.com
+summer-notifications.com
+affstreck.com
+gwggiroo.com
+fwcdn3.com
+fwpub1.com
+gloogruk.com
+absorbedscholarsvolatile.com
+capaciousdrewreligion.com
+coordinatereopen.com
+egalitysarking.com
+recordedthereby.com
+hotjar.com
+statistics.mailerlite.com
+static.mailerlite.com
+track.mailerlite.com
+forms.soundestlink.com
+cdnlibjs.com
+nrs6ffl9w.com
+ratel-ad.com
+echinusandaste.com
+footprintsfurnish.com
+enclosedswoopbarnacle.com
+discomantles.com
 
 
 
