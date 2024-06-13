@@ -10,7 +10,7 @@
 # Please use it in a system that can block subdomains.
 #
 #
-# Lastupdate: 2024-05-30
+# Lastupdate: 2024-06-13
 #
 
 domain.dummy280280.net
@@ -2700,6 +2700,24 @@ echinusandaste.com
 footprintsfurnish.com
 enclosedswoopbarnacle.com
 discomantles.com
+activity.smart-bdash.com
+promolayer.io
+osageafresh.com
+whaijoorgoo.com
+ofleafeona.com
+eedsaung.net
+whoumtefie.com
+ioynsxvrtsjgl.com
+ak.oobsaurt.net
+js.cmoa.pro
+ug.unplainodalman.com
+disdainsneeze.com
+ocn-tag.sienca.jp
+udzpel.com
+68aq8q352.com
+bullionglidingscuttle.com
+loginlockssignal.com
+holahupa.com
 
 
 

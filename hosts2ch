@@ -1,10 +1,10 @@
 # H2SS - Japanese ad blocklist
 # List of mobile advertising domains in Japan
 # Homepage: note.com/hosts2ch
-# File size: 30 KB
-# Domain count: 1084
-# =========== Last modified: 2022-11-04 ===========
-
+# File size: 31 KB
+# Domain count: 1101
+# =========== Last modified: 2024-06-13 ===========
+ 
 127.0.0.1  localhost
 ::1  localhost
 
@@ -110,6 +110,7 @@
 127.0.0.1 ad.smv.to
 127.0.0.1 ad.sp.mbga.jp
 127.0.0.1 ad.ssp.d2c.ne.jp
+127.0.0.1 ad.ust-ad.com
 127.0.0.1 ad.val.jp
 127.0.0.1 ad.webdice.jp
 127.0.0.1 ad.xdomain.ne.jp
@@ -141,6 +142,7 @@
 127.0.0.1 adimg.i2i.jp
 127.0.0.1 adimp.excite.co.jp
 127.0.0.1 adimpkwd.excite.co.jp
+127.0.0.1 adjs.ust-ad.com
 127.0.0.1 adlove.jp
 127.0.0.1 adm.fwmrm.net
 127.0.0.1 adm.shinobi.jp
@@ -172,6 +174,7 @@
 127.0.0.1 ads.shorte.st
 127.0.0.1 ads.speead.jp
 127.0.0.1 ads.sprout-ad.com
+127.0.0.1 ads.themoneytizer.com
 127.0.0.1 ads.trafficjunky.net
 127.0.0.1 ads.uuuu.link
 127.0.0.1 ads.yap.yahoo.com
@@ -213,6 +216,7 @@
 127.0.0.1 aid.send.microad.jp
 127.0.0.1 aimg.fc2.com
 127.0.0.1 aio.lp.mydas.mobi
+127.0.0.1 ak.whookroo.com
 127.0.0.1 ala.durasite.net
 127.0.0.1 aladdin.genieesspv.jp
 127.0.0.1 alist.unitedblades.co.jp
@@ -258,7 +262,6 @@
 127.0.0.1 api.unthem.com
 127.0.0.1 app-adforce.jp
 127.0.0.1 app.adjust.com
-127.0.0.1 appollo-plus.com
 127.0.0.1 appsdt.com
 127.0.0.1 apserver.net
 127.0.0.1 aqua.dmm.co.jp
@@ -346,6 +349,7 @@
 127.0.0.1 cas.criteo.com
 127.0.0.1 cc.i2i.jp
 127.0.0.1 cc2.i2i.jp
+127.0.0.1 cd.connatix.com
 127.0.0.1 cd.ladsp.com
 127.0.0.1 cdn-creatives-akamaistls-prd.unityads.unity3d.com
 127.0.0.1 cdn-fluct.sh.adingo.jp
@@ -421,6 +425,7 @@
 127.0.0.1 counter1.fc2.com
 127.0.0.1 counter2.blog.livedoor.com
 127.0.0.1 creative.prf.hn
+127.0.0.1 creative.xlivrdr.com
 127.0.0.1 creativecarrer.com
 127.0.0.1 creatives.gunosy.com
 127.0.0.1 crs.adapf.com
@@ -467,6 +472,9 @@
 127.0.0.1 dsg.hgigs.info
 127.0.0.1 dutorterraom.com
 127.0.0.1 e01.taggyad.jp
+127.0.0.1 edayo.boost-next.co.jp
+127.0.0.1 edayo.waqool.com
+127.0.0.1 effulgent-stroopwafel-efb9ce.netlify.app
 127.0.0.1 engine.spotscenered.info
 127.0.0.1 enhance.genieesspv.jp
 127.0.0.1 ero-advertising.com
@@ -477,6 +485,7 @@
 127.0.0.1 experience-ap.piano.io
 127.0.0.1 fam-8.net
 127.0.0.1 fam-ad.com
+127.0.0.1 familiarpyromaniasloping.com
 127.0.0.1 fancrew.jp
 127.0.0.1 feed.minpos.com
 127.0.0.1 feeda.info
@@ -506,10 +515,12 @@
 127.0.0.1 glssp.net
 127.0.0.1 go.hentaigold.net
 127.0.0.1 go.ktkjmp.com
+127.0.0.1 go.mnaspm.com
 127.0.0.1 go.oclasrv.com
 127.0.0.1 go.onclasrv.com
 127.0.0.1 go.pushnative.com
 127.0.0.1 go.tmrjmp.com
+127.0.0.1 go.trvdp.com
 127.0.0.1 golds.lp.mydas.mobi
 127.0.0.1 googleads.g.doubleclick.net
 127.0.0.1 gusion.space
@@ -545,7 +556,6 @@
 127.0.0.1 images.xmax.jp
 127.0.0.1 img-c.net
 127.0.0.1 img.4clvr.jp
-127.0.0.1 img.ad-nex.com
 127.0.0.1 img.ad-seek.jp
 127.0.0.1 img.ad2.maho.jp
 127.0.0.1 img.addeluxe.jp
@@ -589,6 +599,7 @@
 127.0.0.1 jpinject.comicless.com
 127.0.0.1 js-ssl.aaddcount.com
 127.0.0.1 js.aaddcount.com
+127.0.0.1 js.ad-optima.com
 127.0.0.1 js.ad-stir.com
 127.0.0.1 js.adflare.jp
 127.0.0.1 js.adnico.jp
@@ -620,9 +631,9 @@
 127.0.0.1 js.spacenine.biz
 127.0.0.1 js.speead.jp
 127.0.0.1 js.sprout-ad.com
+127.0.0.1 js.ssp.bance.jp
 127.0.0.1 js.toki-aiad.com
 127.0.0.1 js.w.inmobi.com
-127.0.0.1 js.waqool.com
 127.0.0.1 js.wpushsdk.com
 127.0.0.1 js1.nend.net
 127.0.0.1 js1.ziyu.net
@@ -666,6 +677,7 @@
 127.0.0.1 mdhub.work
 127.0.0.1 media-b.jp
 127.0.0.1 media.admob.com
+127.0.0.1 media.assistads.net
 127.0.0.1 media.fc2.com
 127.0.0.1 media.mydas.mobi
 127.0.0.1 media.og-affiliate.com
@@ -727,6 +739,7 @@
 127.0.0.1 play.nbryb.com
 127.0.0.1 play.topnewsfeeds.net
 127.0.0.1 player.daznservices.com
+127.0.0.1 player.gliacloud.com
 127.0.0.1 playtune.info
 127.0.0.1 pokoran.com
 127.0.0.1 polarisbit.com
@@ -953,6 +966,7 @@
 127.0.0.1 trends.revcontent.com
 127.0.0.1 trw12.com
 127.0.0.1 tsyndicate.com
+127.0.0.1 twinrdsyn.com
 127.0.0.1 uac.advertising.com
 127.0.0.1 umamistreet.analytics.qlook.net
 127.0.0.1 usrattr.ameba.jp
@@ -971,6 +985,7 @@
 127.0.0.1 webtrendslive.com
 127.0.0.1 whos.amung.us
 127.0.0.1 widget-view.dmm.co.jp
+127.0.0.1 widget-view.dmm.com
 127.0.0.1 widget.iid-network.jp
 127.0.0.1 widget.zenback.jp
 127.0.0.1 widgets.amung.us
@@ -981,6 +996,7 @@
 127.0.0.1 ws-fe.amazon-adsystem.com
 127.0.0.1 ws.amazon.co.jp
 127.0.0.1 ws.assoc-amazon.jp
+127.0.0.1 ww1097.smartadserver.com
 127.0.0.1 www.a-pagerank.net
 127.0.0.1 www.adcash.com
 127.0.0.1 www.adgger.jp
@@ -1085,6 +1101,7 @@
 127.0.0.1 x-storage-a1.cir.io
 127.0.0.1 x-storage.cir.io
 127.0.0.1 xa.shinobi.jp
+127.0.0.1 xapi.juicyads.com
 127.0.0.1 xml.affiliate.rakuten.co.jp
 127.0.0.1 xn--tckxa5c423yemxd.shop
 127.0.0.1 y.one.impact-ad.jp
