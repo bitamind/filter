@@ -1,9 +1,10 @@
-# H2SS - Japanese ad blocklist
-# List of mobile advertising domains in Japan
+# Title: hosts2h
+# Blocks Japanese regional advertisements
 # Homepage: note.com/hosts2ch
-# File size: 31 KB
-# Domain count: 1101
-# =========== Last modified: 2024-06-13 ===========
+# License: CC0 1.0 Universal (CC0 1.0) 
+# File size: 32 KB
+# Number of unique hosts: 1126
+# =========== Last modified: 2024-06-17 ===========
  
 127.0.0.1  localhost
 ::1  localhost
@@ -67,6 +68,7 @@
 127.0.0.1 ad.ad-arata.com
 127.0.0.1 ad.ad-arrow.com
 127.0.0.1 ad.ad-stir.com
+127.0.0.1 ad.adpon-affi.net
 127.0.0.1 ad.adpon.jp
 127.0.0.1 ad.adresult.jp
 127.0.0.1 ad.adsrvr.org
@@ -216,7 +218,10 @@
 127.0.0.1 aid.send.microad.jp
 127.0.0.1 aimg.fc2.com
 127.0.0.1 aio.lp.mydas.mobi
+127.0.0.1 ak.aungudie.com
+127.0.0.1 ak.wheceelt.net
 127.0.0.1 ak.whookroo.com
+127.0.0.1 ak.zougreek.com
 127.0.0.1 ala.durasite.net
 127.0.0.1 aladdin.genieesspv.jp
 127.0.0.1 alist.unitedblades.co.jp
@@ -299,7 +304,9 @@
 127.0.0.1 asset.fwpub1.com
 127.0.0.1 asset.torimochi-ad.net
 127.0.0.1 assets.gunosy.com
+127.0.0.1 assets.wfp.plugapp.jp
 127.0.0.1 asumi.shinobi.jp
+127.0.0.1 attenuatenovelty.com
 127.0.0.1 auc.ca-conv.jp
 127.0.0.1 av-mov.com
 127.0.0.1 avplayer.com
@@ -387,6 +394,7 @@
 127.0.0.1 cf.cdn.inmobi.com
 127.0.0.1 cf.smaad.net
 127.0.0.1 cgi.i-mobile.co.jp
+127.0.0.1 childhoodstudioconversation.com
 127.0.0.1 chk-site.com
 127.0.0.1 ck.jp.ap.valuecommerce.com
 127.0.0.1 ck.storematch.jp
@@ -424,6 +432,8 @@
 127.0.0.1 cosmeticsgenerosity.com
 127.0.0.1 counter1.fc2.com
 127.0.0.1 counter2.blog.livedoor.com
+127.0.0.1 cpt.geniee.jp
+127.0.0.1 creative.myavlive.com
 127.0.0.1 creative.prf.hn
 127.0.0.1 creative.xlivrdr.com
 127.0.0.1 creativecarrer.com
@@ -456,6 +466,7 @@
 127.0.0.1 damaya.shop
 127.0.0.1 deliver.ads2.iid.jp
 127.0.0.1 deliver.ads3.iid.jp
+127.0.0.1 deliver.ptgncdn.com
 127.0.0.1 delivery.moviedrip.jp
 127.0.0.1 dgpot.com
 127.0.0.1 directlink.jp
@@ -502,6 +513,7 @@
 127.0.0.1 gacraft.jp
 127.0.0.1 garss.tv
 127.0.0.1 gcmast-cdn.goldspotmedia.com
+127.0.0.1 generic.winner-ch.com
 127.0.0.1 geo.crtracklink.com
 127.0.0.1 geo.ertya.com
 127.0.0.1 get.mobu.jp
@@ -511,8 +523,10 @@
 127.0.0.1 gigazine.asia
 127.0.0.1 ginf.adfurikun.jp
 127.0.0.1 girls-chat.tv
+127.0.0.1 glersakr.com
 127.0.0.1 glssp.jp
 127.0.0.1 glssp.net
+127.0.0.1 glutenmuttsensuous.com
 127.0.0.1 go.hentaigold.net
 127.0.0.1 go.ktkjmp.com
 127.0.0.1 go.mnaspm.com
@@ -528,8 +542,10 @@
 127.0.0.1 h.accesstrade.net
 127.0.0.1 hananokai.tv
 127.0.0.1 happy-egg.net
+127.0.0.1 hb.afl.rakuten.co.jp
 127.0.0.1 hbb.afl.rakuten.co.jp
 127.0.0.1 hitsite.crazy-bee.com
+127.0.0.1 holahupa.com
 127.0.0.1 hypapa.com
 127.0.0.1 i.adfurikun.jp
 127.0.0.1 i.adingo.jp
@@ -556,6 +572,7 @@
 127.0.0.1 images.xmax.jp
 127.0.0.1 img-c.net
 127.0.0.1 img.4clvr.jp
+127.0.0.1 img.ad-nex.com
 127.0.0.1 img.ad-seek.jp
 127.0.0.1 img.ad2.maho.jp
 127.0.0.1 img.addeluxe.jp
@@ -591,6 +608,7 @@
 127.0.0.1 j.microad.net
 127.0.0.1 j.sprout-ad.com
 127.0.0.1 j.zucks.net.zimg.jp
+127.0.0.1 ja.myavlive.com
 127.0.0.1 jill.fc.yahoo.com
 127.0.0.1 jinjin-tv.net
 127.0.0.1 jp.admob.com
@@ -729,6 +747,7 @@
 127.0.0.1 pagead2.googlesyndication.com
 127.0.0.1 partner.become.co.jp
 127.0.0.1 partner.googleadservices.com
+127.0.0.1 partwithner.com
 127.0.0.1 pc.clickmedias.info
 127.0.0.1 pc.tunnel-vision.info
 127.0.0.1 pcmax.jp
@@ -772,10 +791,13 @@
 127.0.0.1 public.astrsk.net
 127.0.0.1 public.fam-8.com
 127.0.0.1 punyu01.shard.jp
+127.0.0.1 puppyderisiverear.com
 127.0.0.1 pv4u.com
 127.0.0.1 px.a8.net
+127.0.0.1 r-eu.tsyndicate.com
 127.0.0.1 r.edge.inmobicdn.com
 127.0.0.1 r.profilepassport.jp
+127.0.0.1 r.trackwilltrk.com
 127.0.0.1 r.trwl1.com
 127.0.0.1 r.w.inmobi.com
 127.0.0.1 rakuprop.net
@@ -835,6 +857,7 @@
 127.0.0.1 rranking9.ziyu.net
 127.0.0.1 rss-loader.com
 127.0.0.1 rss.pazudora-friend.com
+127.0.0.1 rss.solty.biz
 127.0.0.1 rt.gsspat.jp
 127.0.0.1 rt.rtoaster.jp
 127.0.0.1 rvrpushserv.com
@@ -876,6 +899,7 @@
 127.0.0.1 sh.adingo.jp
 127.0.0.1 sh.i2i.jp
 127.0.0.1 sh.zucks.net
+127.0.0.1 shirpitscutula.top
 127.0.0.1 shopapi.ranking.rakuten.co.jp
 127.0.0.1 smaad.jp
 127.0.0.1 smart-c.jp
@@ -967,6 +991,7 @@
 127.0.0.1 trw12.com
 127.0.0.1 tsyndicate.com
 127.0.0.1 twinrdsyn.com
+127.0.0.1 twinrdsyte.com
 127.0.0.1 uac.advertising.com
 127.0.0.1 umamistreet.analytics.qlook.net
 127.0.0.1 usrattr.ameba.jp
@@ -1016,6 +1041,7 @@
 127.0.0.1 www.gamefeat.net
 127.0.0.1 www.girlz-high.com
 127.0.0.1 www.googletagservices.com
+127.0.0.1 www.gravatar.com
 127.0.0.1 www.idol-dvd.com
 127.0.0.1 www.image-rentracks.com
 127.0.0.1 www.infotop.jp
