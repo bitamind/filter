@@ -1,10 +1,10 @@
 # Title: hosts2h
 # Blocks Japanese regional advertisements
 # Homepage: note.com/hosts2ch
-# License: CC0 1.0 Universal (CC0 1.0) 
+# License: CC0 1.0 Universal (CC0 1.0)
 # File size: 32 KB
-# Number of unique hosts: 1126
-# =========== Last modified: 2024-06-17 ===========
+# Number of unique hosts: 1130
+# =========== Last modified: 2024-06-26 ===========
  
 127.0.0.1  localhost
 ::1  localhost
@@ -65,6 +65,7 @@
 127.0.0.1 ad-sell.com
 127.0.0.1 ad-shot.com
 127.0.0.1 ad-wisteria.excite.co.jp
+127.0.0.1 ad.a-ads.com
 127.0.0.1 ad.ad-arata.com
 127.0.0.1 ad.ad-arrow.com
 127.0.0.1 ad.ad-stir.com
@@ -188,6 +189,7 @@
 127.0.0.1 adsp.i2idata.com
 127.0.0.1 adsp1.i2i.jp
 127.0.0.1 adspaces.ero-advertising.com
+127.0.0.1 adt.ad-spire.net
 127.0.0.1 adticker.net
 127.0.0.1 adultsuns.net
 127.0.0.1 adv.addeluxe.jp
@@ -331,6 +333,7 @@
 127.0.0.1 blog.livedooor.info
 127.0.0.1 blog.livelog.biz
 127.0.0.1 blog.with2.net
+127.0.0.1 blogparts.blogmura.com
 127.0.0.1 blogroll.livedoor.net
 127.0.0.1 bn.dxlive.com
 127.0.0.1 bnr.coremagazine.co.jp
@@ -464,6 +467,7 @@
 127.0.0.1 d.socdm.com
 127.0.0.1 d2p8taqyjofgrq.cloudfront.net
 127.0.0.1 damaya.shop
+127.0.0.1 dameparts.com
 127.0.0.1 deliver.ads2.iid.jp
 127.0.0.1 deliver.ads3.iid.jp
 127.0.0.1 deliver.ptgncdn.com
@@ -869,6 +873,7 @@
 127.0.0.1 s.gravatar.com
 127.0.0.1 s.liveads.jp
 127.0.0.1 s.net-public.com
+127.0.0.1 s.orbsrv.com
 127.0.0.1 s.pagoda56.com
 127.0.0.1 s.pubmine.com
 127.0.0.1 s.sh.adingo.jp
@@ -1009,7 +1014,6 @@
 127.0.0.1 webtrackerplus.com
 127.0.0.1 webtrendslive.com
 127.0.0.1 whos.amung.us
-127.0.0.1 widget-view.dmm.co.jp
 127.0.0.1 widget-view.dmm.com
 127.0.0.1 widget.iid-network.jp
 127.0.0.1 widget.zenback.jp
