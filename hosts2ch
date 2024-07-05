@@ -3,11 +3,12 @@
 # Homepage: note.com/hosts2ch
 # License: CC0 1.0 Universal (CC0 1.0)
 # File size: 32 KB
-# Number of unique hosts: 1130
-# =========== Last modified: 2024-06-26 ===========
+# Number of unique hosts: 1137
+# =========== Last modified: 2024-07-05 ===========
  
 127.0.0.1  localhost
 ::1  localhost
+
 
 127.0.0.1 100234.advision-adnw.jp
 127.0.0.1 100291.adnico.jp
@@ -140,6 +141,7 @@
 127.0.0.1 adf.send.microad.jp
 127.0.0.1 adf.shinobi.jp
 127.0.0.1 adfp.send.microad.jp
+127.0.0.1 adframe.kohsoku.info
 127.0.0.1 adfurikun.jp
 127.0.0.1 adg.d2c.ne.jp
 127.0.0.1 adimg.i2i.jp
@@ -316,6 +318,7 @@
 127.0.0.1 awaitcola.com
 127.0.0.1 awasete.nakanohito.jp
 127.0.0.1 axia-hakusan.com
+127.0.0.1 b.blogmura.com
 127.0.0.1 b.pornomixfree.com
 127.0.0.1 b.resad.mediaid.click
 127.0.0.1 ba.afl.rakuten.co.jp
@@ -438,6 +441,7 @@
 127.0.0.1 cpt.geniee.jp
 127.0.0.1 creative.myavlive.com
 127.0.0.1 creative.prf.hn
+127.0.0.1 creative.xlirdr.com
 127.0.0.1 creative.xlivrdr.com
 127.0.0.1 creativecarrer.com
 127.0.0.1 creatives.gunosy.com
@@ -490,6 +494,7 @@
 127.0.0.1 edayo.boost-next.co.jp
 127.0.0.1 edayo.waqool.com
 127.0.0.1 effulgent-stroopwafel-efb9ce.netlify.app
+127.0.0.1 endowmentoverhangutmost.com
 127.0.0.1 engine.spotscenered.info
 127.0.0.1 enhance.genieesspv.jp
 127.0.0.1 ero-advertising.com
@@ -640,6 +645,7 @@
 127.0.0.1 js.medi-8.net
 127.0.0.1 js.mediad2.jp
 127.0.0.1 js.mediams.mb.softbank.jp
+127.0.0.1 js.miyuki-web.net
 127.0.0.1 js.mtburn.com
 127.0.0.1 js.mulan.cloud
 127.0.0.1 js.nordot-connect.jp
@@ -906,6 +912,7 @@
 127.0.0.1 sh.zucks.net
 127.0.0.1 shirpitscutula.top
 127.0.0.1 shopapi.ranking.rakuten.co.jp
+127.0.0.1 sm1.selectmedia.asia
 127.0.0.1 smaad.jp
 127.0.0.1 smart-c.jp
 127.0.0.1 smartaccess.biz
@@ -1137,5 +1144,6 @@
 127.0.0.1 y.one.impact-ad.jp
 127.0.0.1 yads.c.yimg.jp
 127.0.0.1 yads.yahoo.co.jp
+127.0.0.1 yd.alchimybegins.com
 127.0.0.1 z.moatads.com
 127.0.0.1 z8.cnzz.com
