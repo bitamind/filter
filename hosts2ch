@@ -3,8 +3,8 @@
 # Homepage: note.com/hosts2ch
 # License: CC0 1.0 Universal (CC0 1.0)
 # File size: 32 KB
-# Number of unique hosts: 1137
-# =========== Last modified: 2024-07-05 ===========
+# Number of unique hosts: 1139
+# =========== Last modified: 2024-07-12 ===========
  
 127.0.0.1  localhost
 ::1  localhost
@@ -429,6 +429,7 @@
 127.0.0.1 cnt.fout.jp
 127.0.0.1 commen.club
 127.0.0.1 conf.smartnews-ads.com
+127.0.0.1 configv2.unityads.unity3d.com
 127.0.0.1 connect.newzia.jp
 127.0.0.1 contents.7gogo.jp
 127.0.0.1 contents.adingo.jp.eimg.jp
@@ -730,7 +731,6 @@
 127.0.0.1 n.afnet.jp
 127.0.0.1 n4061ad.jp.doubleclick.net
 127.0.0.1 natural-nine.jp
-127.0.0.1 nend.net
 127.0.0.1 netdreamersad.durasite.net
 127.0.0.1 nkis.nikkei.com
 127.0.0.1 nspt.unitag.jp
@@ -1021,6 +1021,7 @@
 127.0.0.1 webtrackerplus.com
 127.0.0.1 webtrendslive.com
 127.0.0.1 whos.amung.us
+127.0.0.1 widget-view.dmm.co.jp
 127.0.0.1 widget-view.dmm.com
 127.0.0.1 widget.iid-network.jp
 127.0.0.1 widget.zenback.jp
@@ -1145,5 +1146,6 @@
 127.0.0.1 yads.c.yimg.jp
 127.0.0.1 yads.yahoo.co.jp
 127.0.0.1 yd.alchimybegins.com
+127.0.0.1 yield-manager.browsiprod.com
 127.0.0.1 z.moatads.com
 127.0.0.1 z8.cnzz.com
