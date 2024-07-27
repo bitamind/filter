@@ -3,8 +3,8 @@
 # Homepage: note.com/hosts2ch
 # License: CC0 1.0 Universal (CC0 1.0)
 # File size: 32 KB
-# Number of unique hosts: 1139
-# =========== Last modified: 2024-07-12 ===========
+# Number of unique hosts: 1151
+# =========== Last modified: 2024-07-23 ===========
  
 127.0.0.1  localhost
 ::1  localhost
@@ -29,6 +29,7 @@
 127.0.0.1 a.bestcontentfood.top
 127.0.0.1 a.blogroll.click
 127.0.0.1 a.gree.jp
+127.0.0.1 a.magsrv.com
 127.0.0.1 a.o333o.com
 127.0.0.1 a.one.impact-ad.jp
 127.0.0.1 a.overlay.top
@@ -223,6 +224,7 @@
 127.0.0.1 aimg.fc2.com
 127.0.0.1 aio.lp.mydas.mobi
 127.0.0.1 ak.aungudie.com
+127.0.0.1 ak.shaugacakro.net
 127.0.0.1 ak.wheceelt.net
 127.0.0.1 ak.whookroo.com
 127.0.0.1 ak.zougreek.com
@@ -271,6 +273,7 @@
 127.0.0.1 api.unthem.com
 127.0.0.1 app-adforce.jp
 127.0.0.1 app.adjust.com
+127.0.0.1 appollo-plus.com
 127.0.0.1 appsdt.com
 127.0.0.1 apserver.net
 127.0.0.1 aqua.dmm.co.jp
@@ -537,12 +540,14 @@
 127.0.0.1 glssp.jp
 127.0.0.1 glssp.net
 127.0.0.1 glutenmuttsensuous.com
+127.0.0.1 go.bbrdbr.com
 127.0.0.1 go.hentaigold.net
 127.0.0.1 go.ktkjmp.com
 127.0.0.1 go.mnaspm.com
 127.0.0.1 go.oclasrv.com
 127.0.0.1 go.onclasrv.com
 127.0.0.1 go.pushnative.com
+127.0.0.1 go.tklivechat.com
 127.0.0.1 go.tmrjmp.com
 127.0.0.1 go.trvdp.com
 127.0.0.1 golds.lp.mydas.mobi
@@ -569,6 +574,7 @@
 127.0.0.1 i2ad.jp
 127.0.0.1 ib.adnxs.com
 127.0.0.1 ib.affil.jp
+127.0.0.1 iloptrex.com
 127.0.0.1 im.ov.yahoo.co.jp
 127.0.0.1 image-vsc.microad.jp
 127.0.0.1 image.bypass.jp
@@ -628,6 +634,7 @@
 127.0.0.1 js-ssl.aaddcount.com
 127.0.0.1 js.aaddcount.com
 127.0.0.1 js.ad-optima.com
+127.0.0.1 js.ad-spire.net
 127.0.0.1 js.ad-stir.com
 127.0.0.1 js.adflare.jp
 127.0.0.1 js.adnico.jp
@@ -712,6 +719,7 @@
 127.0.0.1 media.og-affiliate.com
 127.0.0.1 mediad.co.jp
 127.0.0.1 mediad2.jp
+127.0.0.1 metricswpsh.com
 127.0.0.1 mintj.com
 127.0.0.1 mk.ca-conv.amoad.com
 127.0.0.1 mmaaxx.com
@@ -796,6 +804,7 @@
 127.0.0.1 prscripts.com
 127.0.0.1 ps-jp.amazon-adsystem.com
 127.0.0.1 ps-us.amazon-adsystem.com
+127.0.0.1 pttn.m3pd.com
 127.0.0.1 pubads.g.doubleclick.net
 127.0.0.1 public.adgger.jp
 127.0.0.1 public.astrsk.net
@@ -878,6 +887,7 @@
 127.0.0.1 s.f1.impact-ad.jp
 127.0.0.1 s.gravatar.com
 127.0.0.1 s.liveads.jp
+127.0.0.1 s.magsrv.com
 127.0.0.1 s.net-public.com
 127.0.0.1 s.orbsrv.com
 127.0.0.1 s.pagoda56.com
@@ -969,6 +979,7 @@
 127.0.0.1 stunninglover.com
 127.0.0.1 sub2.avgle.com
 127.0.0.1 suo.lp.mydas.mobi
+127.0.0.1 sw.cowtpvi.com
 127.0.0.1 switch-app.net
 127.0.0.1 sync-dsp.ad-m.asia
 127.0.0.1 sync-tapi.admatrix.jp
@@ -991,6 +1002,7 @@
 127.0.0.1 tg.socdm.com
 127.0.0.1 tillatingmer.fun
 127.0.0.1 tm1.hoiplay.com
+127.0.0.1 tn.vxxx.com
 127.0.0.1 tools.clicktx.jp
 127.0.0.1 tools.gikotena.net
 127.0.0.1 tracer.a-cast.jp

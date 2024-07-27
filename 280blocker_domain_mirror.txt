@@ -10,7 +10,7 @@
 # Please use it in a system that can block subdomains.
 #
 #
-# Lastupdate: 2024-07-11
+# Lastupdate: 2024-07-25
 #
 
 domain.dummy280280.net
@@ -2803,6 +2803,37 @@ shrimpgenerator.com
 organiccopiedtranquilizer.com
 successcuff.com
 0127c96640.com
+js.blozoo.info
+jqdfehrixzyb.com
+beginningstock.com
+opsozouphy.com
+d1f05vr3sjsuy7.cloudfront.net
+d11enq2rymy0yl.cloudfront.net
+unnaturalstring.com
+teemingweekend.com
+admissiondemeanourusage.com
+relatumrorid.com
+jap.cookingsboss.com
+jap.cookinggenuine.com
+pitshopsat.com
+sj.classisclawers.com
+wideaplentyinsurance.com
+stoawugluce.net
+ptatexiwhe.com
+masakeku.com
+evergreenfan.pro
+imperturbableappearance.pro
+satisfied-tour.pro
+simplistic-king.pro
+sugaryambition.pro
+earlyfortune.pro
+dull-egg.pro
+mading-calipprox.com
+theagencyone.com
+selymer-sperts.com
+gizmoads.online
+bobgames-prolister.com
+gaming-adult.com
 
 
 
