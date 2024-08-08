@@ -10,7 +10,7 @@
 # Please use it in a system that can block subdomains.
 #
 #
-# Lastupdate: 2024-07-25
+# Lastupdate: 2024-08-08
 #
 
 domain.dummy280280.net
@@ -2834,6 +2834,17 @@ selymer-sperts.com
 gizmoads.online
 bobgames-prolister.com
 gaming-adult.com
+tracker.shanon-services.com
+webwidget.shanon-services.com
+pteegostie.com
+pxpagprttoluu.com
+whouvoart.com
+hjheelgx.com
+hw.panaceoutlash.com
+diskaa.com
+fractionfridgejudiciary.com
+ak.shaugacakro.net
+vraqzoffifza.com
 
 
 
