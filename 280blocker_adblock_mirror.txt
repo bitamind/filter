@@ -6,8 +6,24 @@
 ! This file is only permitted for personal use under copyright law.
 ! Commercial use or  redistribution are prohibited except as permitted by copyright law.
 !
-! Last updated: 2024-08-08
-##.blocker280-20240808
+! Last updated: 2024-08-19
+##.blocker280-20240819
+
+! 2024-08-19
+
+||js.bigcomics.win^
+||agerun.jp^
+||iads.unity3d.com^
+||mediation.unity3d.com^
+||isx.unity3d.com^
+||clobberprocurertightwad.com^
+||getrunkhomuto.info^
+||earringsatisfiedsplice.com^
+||astonishlandmassnervy.com^
+||trafficbass.com^
+||dukirliaon.com^
+||atmtaoda.com^
+||ugroocuw.net^
 
 ! 2024-08-08
 
