@@ -2,12 +2,13 @@
 # Blocks Japanese regional advertisements
 # Homepage: note.com/hosts2ch
 # License: CC0 1.0 Universal (CC0 1.0)
-# File size: 29 KB
-# Number of unique hosts: 1030
-# =========== Last modified: 2024-07-31 ===========
+# File size: 31 KB
+# Number of unique hosts: 1044
+# =========== Last modified: 2024-08-21 ===========
  
 127.0.0.1  localhost
 ::1  localhost
+
 
 
 127.0.0.1 100234.advision-adnw.jp
@@ -118,7 +119,6 @@
 127.0.0.1 adc01.media-rep.com
 127.0.0.1 adc02.media-rep.com
 127.0.0.1 adc03.media-rep.com
-127.0.0.1 adcdn.goo.ne.jp
 127.0.0.1 adck.crooz.jp
 127.0.0.1 adclr.jp
 127.0.0.1 addeluxe.jp
@@ -195,6 +195,7 @@
 127.0.0.1 aimg.fc2.com
 127.0.0.1 ak.aungudie.com
 127.0.0.1 ak.hetapus.com
+127.0.0.1 ak.phaunaitsi.net
 127.0.0.1 ak.shaugacakro.net
 127.0.0.1 ak.wheceelt.net
 127.0.0.1 ak.whookroo.com
@@ -315,6 +316,7 @@
 127.0.0.1 c.adsco.re
 127.0.0.1 c.af.moshimo.com
 127.0.0.1 c.m-a-d.jp
+127.0.0.1 c.srvpcn.com
 127.0.0.1 c.w.inmobi.com
 127.0.0.1 c1.popads.net
 127.0.0.1 cache.blozoo.info
@@ -322,6 +324,7 @@
 127.0.0.1 cache.ssend.microad.jp
 127.0.0.1 cache1.value-domain.com
 127.0.0.1 cas.criteo.com
+127.0.0.1 cavernousangle.com
 127.0.0.1 cc.i2i.jp
 127.0.0.1 cc2.i2i.jp
 127.0.0.1 cd.connatix.com
@@ -411,6 +414,7 @@
 127.0.0.1 ct2.momijioroshi.com
 127.0.0.1 ct2.wakatono.jp
 127.0.0.1 ctfile.ziyu.net
+127.0.0.1 cu.tanagersavor.click
 127.0.0.1 customize.dtiserv.com
 127.0.0.1 d-cache.microad.jp
 127.0.0.1 d-markets.net
@@ -422,6 +426,7 @@
 127.0.0.1 d2p8taqyjofgrq.cloudfront.net
 127.0.0.1 damaya.shop
 127.0.0.1 dameparts.com
+127.0.0.1 dc.bubbiesxylaria.top
 127.0.0.1 deliver.ads2.iid.jp
 127.0.0.1 deliver.ads3.iid.jp
 127.0.0.1 deliver.ptgncdn.com
@@ -461,8 +466,10 @@
 127.0.0.1 file.ziyu.net
 127.0.0.1 fls-fe.amazon-adsystem.com
 127.0.0.1 forshrd.com
+127.0.0.1 fractionfridgejudiciary.com
 127.0.0.1 free-video-movie.com
 127.0.0.1 fresh-tv.biz
+127.0.0.1 fusstergal.shop
 127.0.0.1 g.adimg.net
 127.0.0.1 g2.072m.com
 127.0.0.1 g2.gumgum.com
@@ -476,6 +483,7 @@
 127.0.0.1 get.mobu.jp.eimg.jp
 127.0.0.1 get.optad360.io
 127.0.0.1 ggsfq.com
+127.0.0.1 gi.cgmdarrein.top
 127.0.0.1 gigazine.asia
 127.0.0.1 ginf.adfurikun.jp
 127.0.0.1 girls-chat.tv
@@ -618,6 +626,7 @@
 127.0.0.1 linker.adsee.jp
 127.0.0.1 loading-delivery2.com
 127.0.0.1 lockingadmitted.com
+127.0.0.1 locksmithachievehostility.com
 127.0.0.1 lodeo-adnw.adtdp.com
 127.0.0.1 lois.nend.net
 127.0.0.1 lona.nend.net
@@ -686,6 +695,7 @@
 127.0.0.1 pc.clickmedias.info
 127.0.0.1 pcmax.jp
 127.0.0.1 penta.a.one.impact-ad.jp
+127.0.0.1 phgotof1.com
 127.0.0.1 pink.clicktx.jp
 127.0.0.1 pixel.adsafeprotected.com
 127.0.0.1 pixel.mathtag.com
@@ -713,6 +723,7 @@
 127.0.0.1 pranking8.ziyu.net
 127.0.0.1 pranking9.ziyu.net
 127.0.0.1 prestoris.com
+127.0.0.1 primesubstance.com
 127.0.0.1 prism.pandora.tv
 127.0.0.1 product.adingo.jp.eimg.jp
 127.0.0.1 promotionalads.yahoo.co.jp
@@ -805,6 +816,7 @@
 127.0.0.1 s.pubmine.com
 127.0.0.1 s.sh.adingo.jp
 127.0.0.1 s.storage-ad.com
+127.0.0.1 s.viidrbuk.com
 127.0.0.1 s.yjtag.jp
 127.0.0.1 s01.nowvisitors.com
 127.0.0.1 s1.aspservice.jp
@@ -878,6 +890,7 @@
 127.0.0.1 statsp.fpop.net
 127.0.0.1 stimg.iand2ch.net
 127.0.0.1 stimgc.iand2ch.net
+127.0.0.1 stoicsstright.top
 127.0.0.1 streamjs.investing.com
 127.0.0.1 stunninglover.com
 127.0.0.1 sub2.avgle.com
@@ -939,6 +952,7 @@
 127.0.0.1 widgets.outbrain.com
 127.0.0.1 wmedia.adk2x.com
 127.0.0.1 wms.assoc-amazon.jp
+127.0.0.1 worriedsafe.com
 127.0.0.1 wpc.32DF9.rhocdn.net
 127.0.0.1 ws-fe.amazon-adsystem.com
 127.0.0.1 ws.amazon.co.jp
@@ -961,6 +975,7 @@
 127.0.0.1 www.g-af.com
 127.0.0.1 www.gamefeat.net
 127.0.0.1 www.girlz-high.com
+127.0.0.1 www.googletagmanager.com
 127.0.0.1 www.googletagservices.com
 127.0.0.1 www.gravatar.com
 127.0.0.1 www.idol-dvd.com
