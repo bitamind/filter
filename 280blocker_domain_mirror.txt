@@ -10,7 +10,7 @@
 # Please use it in a system that can block subdomains.
 #
 #
-# Lastupdate: 2024-08-19
+# Lastupdate: 2024-08-29
 #
 
 domain.dummy280280.net
@@ -2858,6 +2858,19 @@ trafficbass.com
 dukirliaon.com
 atmtaoda.com
 ugroocuw.net
+wayfarerfiddle.com
+abmbmuzpymru.com
+fathomcleft.com
+hintgroin.com
+ey.dramshaplite.com
+ptoupisso.net
+ak.phaunaitsi.net
+readsubsequentlyspecimen.com
+aftrk1.com
+aftrk3.com
+sunriseholler.com
+jt.whunpainty.com
+realisticwindow.com
 
 
 
