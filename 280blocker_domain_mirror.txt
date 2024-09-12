@@ -10,7 +10,7 @@
 # Please use it in a system that can block subdomains.
 #
 #
-# Lastupdate: 2024-08-29
+# Lastupdate: 2024-09-12
 #
 
 domain.dummy280280.net
@@ -2871,6 +2871,25 @@ aftrk3.com
 sunriseholler.com
 jt.whunpainty.com
 realisticwindow.com
+tuckedmajor.com
+whinemalnutrition.com
+toprevenuegate.com
+unfortunatelydroopinglying.com
+highcpmgate.com
+urgerrebasis.com
+st.zarebasdezaley.com
+ps.fungidcolder.com
+offshuppetchan.com
+js.onclckmn.com
+mcizas.com
+highcpmcreativeformat.com
+bogusnervousskier.com
+trustedgatetocontent.com
+discretionpollclassroom.com
+feelsjet.com
+deniedsolesummer.com
+highrevenuenetwork.com
+
 
 
 
