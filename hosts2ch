@@ -3,12 +3,11 @@
 # Homepage: note.com/hosts2ch
 # License: CC0 1.0 Universal (CC0 1.0)
 # File size: 31 KB
-# Number of unique hosts: 1044
-# =========== Last modified: 2024-08-21 ===========
+# Number of unique hosts: 1045
+# =========== Last modified: 2024-09-18 ===========
  
 127.0.0.1  localhost
 ::1  localhost
-
 
 
 127.0.0.1 100234.advision-adnw.jp
@@ -281,6 +280,7 @@
 127.0.0.1 attenuatenovelty.com
 127.0.0.1 auc.ca-conv.jp
 127.0.0.1 av-mov.com
+127.0.0.1 avod.ad.abema.io
 127.0.0.1 avplayer.com
 127.0.0.1 aw.dw.impact-ad.jp
 127.0.0.1 awasete.nakanohito.jp
