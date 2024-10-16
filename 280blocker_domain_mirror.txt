@@ -10,7 +10,7 @@
 # Please use it in a system that can block subdomains.
 #
 #
-# Lastupdate: 2024-10-10
+# Lastupdate: 2024-10-16
 #
 
 domain.dummy280280.net
