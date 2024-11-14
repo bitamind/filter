@@ -10,7 +10,7 @@
 # Please use it in a system that can block subdomains.
 #
 #
-# Lastupdate: 2024-10-31
+# Lastupdate: 2024-11-14
 #
 
 domain.dummy280280.net
@@ -2894,6 +2894,10 @@ jl.withnimmunger.com
 hitchprivilege.com
 prvc.io
 itweepinbelltor.com
+graitaulrocm.net
+bankingbloatedcaptive.com
+loadingscripts.com
+bottledchagrinfry.com
 
 
 
