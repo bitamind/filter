@@ -10,7 +10,7 @@
 # Please use it in a system that can block subdomains.
 #
 #
-# Lastupdate: 2024-11-28
+# Lastupdate: 2024-12-12
 #
 
 domain.dummy280280.net
@@ -2901,6 +2901,10 @@ bottledchagrinfry.com
 diffusedpassionquaking.com
 vlkev368.com
 xl.glanderdisjoin.com
+shakingtacklingunpeeled.com
+nw.capesunlocks.com
+ripheeksirg.net
+cdn.jp1media.com
 
 
 
