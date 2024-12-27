@@ -10,7 +10,7 @@
 # Please use it in a system that can block subdomains.
 #
 #
-# Lastupdate: 2024-12-12
+# Lastupdate: 2024-12-26
 #
 
 domain.dummy280280.net
@@ -2905,6 +2905,13 @@ shakingtacklingunpeeled.com
 nw.capesunlocks.com
 ripheeksirg.net
 cdn.jp1media.com
+ptoorauptoud.net
+c.j8jp.com
+blaring-chocolate.com
+gw.rickywhence.com
+buzzonclick.com
+childhoodstudioconversation.com
+carrier202205.tokyo
 
 
 
