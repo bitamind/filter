@@ -10,7 +10,7 @@
 # Please use it in a system that can block subdomains.
 #
 #
-# Lastupdate: 2024-12-26
+# Lastupdate: 2025-01-16
 #
 
 domain.dummy280280.net
@@ -2327,7 +2327,6 @@ bbrdbr.com
 taryardtugged.com
 profitablecreativeformat.com
 wigfulchiack.com
-storage.ko-fi.com
 coignsunrent.com
 npkzqlhtecxx.com
 6f752f73ce.com
@@ -2912,6 +2911,12 @@ gw.rickywhence.com
 buzzonclick.com
 childhoodstudioconversation.com
 carrier202205.tokyo
+gggpht.com
+baccarat212.com
+go.ero-vtuber.com
+diagramjawlineunhappy.com
+besmeargleor.com
+creative.tklivechat.com
 
 
 
