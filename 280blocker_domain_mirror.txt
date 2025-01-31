@@ -10,7 +10,7 @@
 # Please use it in a system that can block subdomains.
 #
 #
-# Lastupdate: 2025-01-16
+# Lastupdate: 2025-01-31
 #
 
 domain.dummy280280.net
@@ -2917,6 +2917,12 @@ go.ero-vtuber.com
 diagramjawlineunhappy.com
 besmeargleor.com
 creative.tklivechat.com
+zs.bemiresunlevel.com
+creative.rmishe.com
+ay.lalledwited.com
+eu-central-1.cdn-cloud.net
+hhklc.com
+rh.unactkiosk.com
 
 
 
