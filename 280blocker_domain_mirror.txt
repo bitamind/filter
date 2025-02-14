@@ -10,7 +10,7 @@
 # Please use it in a system that can block subdomains.
 #
 #
-# Lastupdate: 2025-01-31
+# Lastupdate: 2025-02-13
 #
 
 domain.dummy280280.net
@@ -1093,7 +1093,6 @@ herepackagine.info
 highsecurecn.com
 highsecureus.com
 hyperpromote.com
-img.gs-ad.jp
 impression-east.liftoff.io
 infolinks.com
 inpagepush.com
@@ -2923,6 +2922,10 @@ ay.lalledwited.com
 eu-central-1.cdn-cloud.net
 hhklc.com
 rh.unactkiosk.com
+new.plus-eromanga.com
+level.18huhu.com
+adpushup.com
+gs-ad.jp
 
 
 
