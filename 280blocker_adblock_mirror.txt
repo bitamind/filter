@@ -6,8 +6,11 @@
 ! This file is only permitted for personal use under copyright law.
 ! Commercial use or  redistribution are prohibited except as permitted by copyright law.
 !
-! Last updated: 2025-02-13
-##.blocker280-20250213
+! Last updated: 2025-02-20
+##.blocker280-20250220
+
+! 2025-02-20
+select.mamastar.jp##[class^="topRecommend"]
 
 ! 2025-02-13
 
@@ -343,7 +346,7 @@ gamers-labo.com,gamers-luck.com##[aria-label*="_ad"]
 ||deniedsolesummer.com^
 ||highrevenuenetwork.com^
 ||mcm.justbaat.org^$domain=gamingdeputy.com
-/[0-9,a-f]{32}\.js/$domain=thefantazy.com|player.javboys.cam|rawhentaibear.com|nnyy.in|sexiezpix.com|myxxgirl.com|jmanga.to|jmanga.is|rawkuma.biz|yanmaga.net|kl-manga.com|klmanga.biz|rawotaku.com|xiaoxintv.cc|camchickscaps.com|dood.li|jmanga.ac|syosetu.gs|sotwe.com|otaku-raw.com|jmanga.so|rawkuro.biz|jmanga.sh|jav-fun.cc|nukibooks.com|japan-whores.com|tiqu.cc|katfile.com|jmanga.mx|85po.com|fikper.com|spankbang-dl.com|pp39.cn|123av.com
+/[0-9,a-f]{32}\.js/$domain=thefantazy.com|player.javboys.cam|rawhentaibear.com|nnyy.in|sexiezpix.com|myxxgirl.com|jmanga.to|jmanga.is|rawkuma.biz|yanmaga.net|kl-manga.com|klmanga.biz|rawotaku.com|xiaoxintv.cc|camchickscaps.com|dood.li|jmanga.ac|syosetu.gs|sotwe.com|otaku-raw.com|jmanga.so|rawkuro.biz|jmanga.sh|jav-fun.cc|nukibooks.com|japan-whores.com|tiqu.cc|katfile.com|jmanga.mx|85po.com|fikper.com|spankbang-dl.com|pp39.cn|123av.com|jmanga.la
 /[0-9,a-z]{10}/[0-9,a-z]{10}\.js/$domain=transtxxx.com
 /||.^/$popup,third-party,domain=hitomi.la|jav-fun.cc|noni-jav.cc|supjav.com|javmix.tv|missav.com|thefantazy.com|jav-noni.cc|javboys.com|player.javboys.cam|poapan.xyz|y2mate.com|javideo.net|watchadsontape.com|savefrom.net|lcheaven.com|av01.tv|weloma.art|9animetv.to|asmroger.top|thegay.com|jav-nonik.cc|japan-whores.com|gogoanime2.org|jmanga.sh|katfile.com|jmanga.mx|fikper.com|gogoanimes.fi|spankbang-dl.com|netfuck.net|mexa.sh|pp39.cn|gogoanime.co.at|rawkuma.com|jmanga.li|123av.com
 
