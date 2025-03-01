@@ -6,8 +6,8 @@
 ! This file is only permitted for personal use under copyright law.
 ! Commercial use or  redistribution are prohibited except as permitted by copyright law.
 !
-! Last updated: 2025-02-27
-##.blocker280-20250227
+! Last updated: 2025-02-28
+##.blocker280-20250228
 
 ! 2025-02-27
 
@@ -249,7 +249,7 @@ PopupBuilder.js$domain=syundoku.jp
 ||dameparts.com^$domain=lovelive-petitsoku.com
 ||ipromcloud.com^$third-party
 ||netpub.media^$third-party
-/[0-9]{8}\.xyz/$script,domain=lovelive-petitsoku.com|jmty.jp
+/[0-9]{8}\.xyz/$script,domain=lovelive-petitsoku.com|jmty.jp|animanch.com
 ||itweepinbelltor.com^
 
 ! 2024-10-10
