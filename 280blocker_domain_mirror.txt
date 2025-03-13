@@ -10,7 +10,7 @@
 # Please use it in a system that can block subdomains.
 #
 #
-# Lastupdate: 2025-02-13
+# Lastupdate: 2025-03-13
 #
 
 domain.dummy280280.net
@@ -2926,6 +2926,10 @@ new.plus-eromanga.com
 level.18huhu.com
 adpushup.com
 gs-ad.jp
+adsmarch.online
+imkirh.com
+trigs-sockets.com
+inherentdecide.com
 
 
 
