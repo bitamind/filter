@@ -10,7 +10,7 @@
 # Please use it in a system that can block subdomains.
 #
 #
-# Lastupdate: 2025-03-13
+# Lastupdate: 2025-03-27
 #
 
 domain.dummy280280.net
@@ -2930,6 +2930,9 @@ adsmarch.online
 imkirh.com
 trigs-sockets.com
 inherentdecide.com
+unmectappic.com
+fs-loader.com
+lt.camassmastic.com
 
 
 
