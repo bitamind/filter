@@ -10,7 +10,7 @@
 # Please use it in a system that can block subdomains.
 #
 #
-# Lastupdate: 2025-03-27
+# Lastupdate: 2025-04-10
 #
 
 domain.dummy280280.net
@@ -2933,6 +2933,11 @@ inherentdecide.com
 unmectappic.com
 fs-loader.com
 lt.camassmastic.com
+creative.live.javdock.com
+scratchyhook.com
+aj2532.bid
+yjo.youjizz.com
+getallmedia.com
 
 
 
