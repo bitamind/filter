@@ -10,7 +10,7 @@
 # Please use it in a system that can block subdomains.
 #
 #
-# Lastupdate: 2025-04-25
+# Lastupdate: 2025-05-08
 #
 
 domain.dummy280280.net
@@ -2939,6 +2939,14 @@ aj2532.bid
 yjo.youjizz.com
 getallmedia.com
 ads-lite2.net
+unibotscdn.com
+unibots.in
+d-markets.net
+kzuocxorfo.com
+ivmxckqpfddky.com
+tcrzhmdjeswj.com
+pubadx.one
+yn.algiersreests.com
 
 
 
