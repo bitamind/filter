@@ -3,12 +3,11 @@
 # Homepage: note.com/hosts2ch
 # License: CC0 1.0 Universal (CC0 1.0)
 # File size: 31 KB
-# Number of unique hosts: 1045
-# =========== Last modified: 2024-09-18 ===========
+# Number of unique hosts: 1046
+# =========== Last modified: 2025-05-13 ===========
  
 127.0.0.1  localhost
 ::1  localhost
-
 
 127.0.0.1 100234.advision-adnw.jp
 127.0.0.1 100291.adnico.jp
@@ -274,6 +273,7 @@
 127.0.0.1 asset.fwcdn3.com
 127.0.0.1 asset.fwpub1.com
 127.0.0.1 asset.torimochi-ad.net
+127.0.0.1 assets.eisa.mercari.com
 127.0.0.1 assets.gunosy.com
 127.0.0.1 assets.wfp.plugapp.jp
 127.0.0.1 asumi.shinobi.jp
