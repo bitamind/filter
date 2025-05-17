@@ -2,19 +2,15 @@
 # Blocks Japanese regional advertisements
 # Homepage: note.com/hosts2ch
 # License: CC0 1.0 Universal (CC0 1.0)
-# File size: 31 KB
-# Number of unique hosts: 1046
-# =========== Last modified: 2025-05-13 ===========
- 
-127.0.0.1  localhost
-::1  localhost
+# File size: 27 KB
+# Number of unique hosts: 954
+# =========== Last modified: 2025-05-16 ===========
 
 127.0.0.1 100234.advision-adnw.jp
 127.0.0.1 100291.adnico.jp
 127.0.0.1 100602.advision-adnw.jp
 127.0.0.1 100651.advision-adnw.jp
 127.0.0.1 100800.advision-adnw.jp
-127.0.0.1 101623.sprout-ad.com
 127.0.0.1 1ude.com
 127.0.0.1 2.chmato.me
 127.0.0.1 29730396.ranking.fc2.com
@@ -27,7 +23,6 @@
 127.0.0.1 a.magsrv.com
 127.0.0.1 a.o333o.com
 127.0.0.1 a.one.impact-ad.jp
-127.0.0.1 a.overlay.top
 127.0.0.1 a.pornomixfree.com
 127.0.0.1 a.realsrv.com
 127.0.0.1 a.shopserve.jp
@@ -57,7 +52,6 @@
 127.0.0.1 ad-info.val.jp
 127.0.0.1 ad-move.jp
 127.0.0.1 ad-nex.com
-127.0.0.1 ad-shot.com
 127.0.0.1 ad.a-ads.com
 127.0.0.1 ad.ad-arrow.com
 127.0.0.1 ad.ad-stir.com
@@ -70,7 +64,6 @@
 127.0.0.1 ad.angel-live.com
 127.0.0.1 ad.aspm.jp
 127.0.0.1 ad.cosp.jp
-127.0.0.1 ad.dmm.com
 127.0.0.1 ad.doubleclick.net
 127.0.0.1 ad.douga-kan.com
 127.0.0.1 ad.duga.jp
@@ -79,7 +72,6 @@
 127.0.0.1 ad.gunosy.com
 127.0.0.1 ad.hatena.ne.jp
 127.0.0.1 ad.heypo.com
-127.0.0.1 ad.insight.a-i-ad.com
 127.0.0.1 ad.inter-edu.com
 127.0.0.1 ad.jorudan.co.jp
 127.0.0.1 ad.jp.ap.valuecommerce.com
@@ -102,12 +94,9 @@
 127.0.0.1 ad.val.jp
 127.0.0.1 ad.webdice.jp
 127.0.0.1 ad.xdomain.ne.jp
-127.0.0.1 ad1.nend.net
 127.0.0.1 ad2.candy-network.com
 127.0.0.1 ad2.fivecdm.com
 127.0.0.1 ad2.fm-p.jp
-127.0.0.1 ad2.nend.net
-127.0.0.1 ad3.nend.net
 127.0.0.1 ad4.candy-network.com
 127.0.0.1 ad4.i2i.jp
 127.0.0.1 ad999.biz
@@ -120,9 +109,7 @@
 127.0.0.1 adck.crooz.jp
 127.0.0.1 adclr.jp
 127.0.0.1 addeluxe.jp
-127.0.0.1 adf.send.microad.jp
 127.0.0.1 adf.shinobi.jp
-127.0.0.1 adfp.send.microad.jp
 127.0.0.1 adframe.kohsoku.info
 127.0.0.1 adfurikun.jp
 127.0.0.1 adg.d2c.ne.jp
@@ -134,7 +121,6 @@
 127.0.0.1 admob.com
 127.0.0.1 adnico.genieesspv.jp
 127.0.0.1 adone.yicha.jp
-127.0.0.1 adp-pubd-static.adtdp.com
 127.0.0.1 adpimg.yicha.jp
 127.0.0.1 adrcf.com
 127.0.0.1 adrunnr.com
@@ -147,20 +133,14 @@
 127.0.0.1 ads.exoclick.com
 127.0.0.1 ads.leovegas.com
 127.0.0.1 ads.mopub.com
-127.0.0.1 ads.nexage.com
 127.0.0.1 ads.nicovideo.jp
 127.0.0.1 ads.realsrv.com
 127.0.0.1 ads.rubiconproject.com
-127.0.0.1 ads.shorte.st
-127.0.0.1 ads.sprout-ad.com
 127.0.0.1 ads.themoneytizer.com
 127.0.0.1 ads.trafficjunky.net
 127.0.0.1 ads.uuuu.link
-127.0.0.1 ads.yap.yahoo.com
 127.0.0.1 ads1.msads.net
 127.0.0.1 ads2.contentabc.com
-127.0.0.1 adserver.adtech.advertising.com
-127.0.0.1 adserver.adtechjp.com
 127.0.0.1 adserver.juicyads.com
 127.0.0.1 adsp.i2idata.com
 127.0.0.1 adsp1.i2i.jp
@@ -201,12 +181,10 @@
 127.0.0.1 ala.durasite.net
 127.0.0.1 aladdin.genieesspv.jp
 127.0.0.1 alist.unitedblades.co.jp
-127.0.0.1 alxsite.com
 127.0.0.1 amaprop.net
 127.0.0.1 amiami.jp
 127.0.0.1 aml.valuecommerce.com
 127.0.0.1 ams.exad.jp
-127.0.0.1 amz-ad.a8.net
 127.0.0.1 analyzer5.fc2cn.com
 127.0.0.1 analyzer51.fc2.com
 127.0.0.1 analyzer52.fc2.com
@@ -218,7 +196,6 @@
 127.0.0.1 animate.adobe.com
 127.0.0.1 antennasync.me
 127.0.0.1 anz.rd.rakuten.co.jp
-127.0.0.1 aoe.aacdn.jp
 127.0.0.1 aos-creative.prf.hn
 127.0.0.1 ap.ad-feed.com
 127.0.0.1 ap.lijit.com
@@ -242,27 +219,18 @@
 127.0.0.1 apserver.net
 127.0.0.1 ard.yahoo.co.jp
 127.0.0.1 as.a.bypass.jp
-127.0.0.1 as.ad.impact-ad.jp
 127.0.0.1 as.ao.impact-ad.jp
 127.0.0.1 as.bi.impact-ad.jp
-127.0.0.1 as.cd.impact-ad.jp
 127.0.0.1 as.ch.impact-ad.jp
 127.0.0.1 as.cw.impact-ad.jp
 127.0.0.1 as.dc.impact-ad.jp
 127.0.0.1 as.ebis.ne.jp
-127.0.0.1 as.hc.impact-ad.jp
-127.0.0.1 as.ik.impact-ad.jp
 127.0.0.1 as.in.impact-ad.jp
-127.0.0.1 as.it.impact-ad.jp
 127.0.0.1 as.iy.impact-ad.jp
-127.0.0.1 as.kd.impact-ad.jp
-127.0.0.1 as.ko.impact-ad.jp
 127.0.0.1 as.mc.impact-ad.jp
-127.0.0.1 as.mv.impact-ad.jp
 127.0.0.1 as.oe.impact-ad.jp
 127.0.0.1 as.se.impact-ad.jp
 127.0.0.1 as.sp.impact-ad.jp
-127.0.0.1 as.ve.impact-ad.jp
 127.0.0.1 as.xxxapp.net
 127.0.0.1 as.yl.impact-ad.jp
 127.0.0.1 ashot.txxx.com
@@ -303,11 +271,9 @@
 127.0.0.1 blogparts.blogmura.com
 127.0.0.1 blogroll.livedoor.net
 127.0.0.1 bn.dxlive.com
-127.0.0.1 bnr.coremagazine.co.jp
 127.0.0.1 bongacams.com
 127.0.0.1 bpm.eroterest.net
 127.0.0.1 broadstreetads.com
-127.0.0.1 bs.serving-sys.com
 127.0.0.1 btstatic.com
 127.0.0.1 burning-phoenix.kir.jp
 127.0.0.1 bypass.ad-stir.com
@@ -321,12 +287,8 @@
 127.0.0.1 c1.popads.net
 127.0.0.1 cache.blozoo.info
 127.0.0.1 cache.send.microad.jp
-127.0.0.1 cache.ssend.microad.jp
 127.0.0.1 cache1.value-domain.com
 127.0.0.1 cas.criteo.com
-127.0.0.1 cavernousangle.com
-127.0.0.1 cc.i2i.jp
-127.0.0.1 cc2.i2i.jp
 127.0.0.1 cd.connatix.com
 127.0.0.1 cd.ladsp.com
 127.0.0.1 cdn-fluct.sh.adingo.jp
@@ -370,19 +332,16 @@
 127.0.0.1 click.j-a-net.jp
 127.0.0.1 click.speee-ad.jp
 127.0.0.1 clickadu.com
-127.0.0.1 clicklink.jp
 127.0.0.1 clickserve.dartsearch.net
 127.0.0.1 clicktrack.ziyu.net
 127.0.0.1 clicktrack2.ziyu.net
 127.0.0.1 clicktrack3.ziyu.net
 127.0.0.1 clicktrack4.ziyu.net
 127.0.0.1 clicktrack5.ziyu.net
-127.0.0.1 client.contents-search-windows.com
 127.0.0.1 cm.g.doubleclick.net
 127.0.0.1 cnt.fout.jp
 127.0.0.1 conf.smartnews-ads.com
 127.0.0.1 configv2.unityads.unity3d.com
-127.0.0.1 connect.newzia.jp
 127.0.0.1 contents.7gogo.jp
 127.0.0.1 contents.adingo.jp.eimg.jp
 127.0.0.1 contents.purelovers.com
@@ -404,7 +363,6 @@
 127.0.0.1 crs.adapf.com
 127.0.0.1 cs.adingo.jp
 127.0.0.1 cs.adxpansion.com
-127.0.0.1 cs.r-ad.ne.jp
 127.0.0.1 csync.loopme.me
 127.0.0.1 ct1.ojaru.jp
 127.0.0.1 ct1.xrea.com
@@ -426,7 +384,6 @@
 127.0.0.1 d2p8taqyjofgrq.cloudfront.net
 127.0.0.1 damaya.shop
 127.0.0.1 dameparts.com
-127.0.0.1 dc.bubbiesxylaria.top
 127.0.0.1 deliver.ads2.iid.jp
 127.0.0.1 deliver.ads3.iid.jp
 127.0.0.1 deliver.ptgncdn.com
@@ -435,7 +392,6 @@
 127.0.0.1 dis.hogei.info
 127.0.0.1 discoveryplus.popin.cc
 127.0.0.1 dist.bpc.ad-stir.com
-127.0.0.1 dlero.net
 127.0.0.1 dlv.itmedia.jp
 127.0.0.1 doubleclick.ne.jp
 127.0.0.1 doublepimpads.com
@@ -468,7 +424,6 @@
 127.0.0.1 forshrd.com
 127.0.0.1 fractionfridgejudiciary.com
 127.0.0.1 free-video-movie.com
-127.0.0.1 fresh-tv.biz
 127.0.0.1 fusstergal.shop
 127.0.0.1 g.adimg.net
 127.0.0.1 g2.072m.com
@@ -483,7 +438,6 @@
 127.0.0.1 get.mobu.jp.eimg.jp
 127.0.0.1 get.optad360.io
 127.0.0.1 ggsfq.com
-127.0.0.1 gi.cgmdarrein.top
 127.0.0.1 gigazine.asia
 127.0.0.1 ginf.adfurikun.jp
 127.0.0.1 girls-chat.tv
@@ -497,7 +451,6 @@
 127.0.0.1 go.mnaspm.com
 127.0.0.1 go.oclasrv.com
 127.0.0.1 go.onclasrv.com
-127.0.0.1 go.pushnative.com
 127.0.0.1 go.tklivechat.com
 127.0.0.1 go.tmrjmp.com
 127.0.0.1 go.trvdp.com
@@ -527,12 +480,10 @@
 127.0.0.1 im.ov.yahoo.co.jp
 127.0.0.1 image.bypass.jp
 127.0.0.1 image.d-064.com
-127.0.0.1 image.g-deai.net
 127.0.0.1 image.garss.tv
 127.0.0.1 image.j-a-net.jp
 127.0.0.1 image.moshimo.com
 127.0.0.1 image.smart-c.jp
-127.0.0.1 images.xmax.jp
 127.0.0.1 img-c.net
 127.0.0.1 img.4clvr.jp
 127.0.0.1 img.ad-nex.com
@@ -556,9 +507,7 @@
 127.0.0.1 imgdisp.infocart.jp
 127.0.0.1 imp-adedge.i-mobile.co.jp
 127.0.0.1 imp.aiasahi.jp
-127.0.0.1 imp.xmax.jp
 127.0.0.1 impression-asia.liftoff.io
-127.0.0.1 impression.nend.net
 127.0.0.1 indeliblestill.com
 127.0.0.1 infohimatalk77.net
 127.0.0.1 inmobisdk-a.akamaihd.net
@@ -568,12 +517,10 @@
 127.0.0.1 j.amoad.com
 127.0.0.1 j.gmodmp.jp
 127.0.0.1 j.microad.net
-127.0.0.1 j.sprout-ad.com
 127.0.0.1 j.zucks.net.zimg.jp
 127.0.0.1 ja.myavlive.com
 127.0.0.1 jill.fc.yahoo.com
 127.0.0.1 jp.admob.com
-127.0.0.1 jp.at.atwola.com
 127.0.0.1 jpinject.comicless.com
 127.0.0.1 js-ssl.aaddcount.com
 127.0.0.1 js.aaddcount.com
@@ -605,7 +552,6 @@
 127.0.0.1 js.rfp.fout.jp
 127.0.0.1 js.smac-ad.com
 127.0.0.1 js.spacenine.biz
-127.0.0.1 js.sprout-ad.com
 127.0.0.1 js.ssp.bance.jp
 127.0.0.1 js.toki-aiad.com
 127.0.0.1 js.w.inmobi.com
@@ -625,28 +571,21 @@
 127.0.0.1 linkage.kakaku.com
 127.0.0.1 linker.adsee.jp
 127.0.0.1 loading-delivery2.com
-127.0.0.1 lockingadmitted.com
 127.0.0.1 locksmithachievehostility.com
-127.0.0.1 lodeo-adnw.adtdp.com
-127.0.0.1 lois.nend.net
-127.0.0.1 lona.nend.net
 127.0.0.1 m.one.impact-ad.jp
 127.0.0.1 m.sancdn.net
 127.0.0.1 m1.nsimg.net
 127.0.0.1 m2.nsimg.net
 127.0.0.1 maad.maru.jp
-127.0.0.1 macart.site
 127.0.0.1 mahimeta.com
 127.0.0.1 maleotoffish.click
 127.0.0.1 match.adsrvr.org
-127.0.0.1 match.seesaa.jp
 127.0.0.1 mcgm.sakura.ne.jp
 127.0.0.1 md.m-space.jp
 127.0.0.1 mdhub.work
 127.0.0.1 media.admob.com
 127.0.0.1 media.assistads.net
 127.0.0.1 media.fc2.com
-127.0.0.1 media.og-affiliate.com
 127.0.0.1 mediad.co.jp
 127.0.0.1 mediad2.jp
 127.0.0.1 metricswpsh.com
@@ -659,7 +598,6 @@
 127.0.0.1 movie-wiki.net
 127.0.0.1 moviegate1.net
 127.0.0.1 moviegate4.net
-127.0.0.1 msend.microad.jp
 127.0.0.1 msg.simeji.baidu.jp
 127.0.0.1 mttag.com
 127.0.0.1 mxmkitchen.com
@@ -672,7 +610,6 @@
 127.0.0.1 nkis.nikkei.com
 127.0.0.1 o.aolcdn.com
 127.0.0.1 okbp.xyz
-127.0.0.1 olmsoneenh.info
 127.0.0.1 omt.shinobi.jp
 127.0.0.1 onclickads.net
 127.0.0.1 op.searchteria.co.jp
@@ -691,7 +628,6 @@
 127.0.0.1 partner.become.co.jp
 127.0.0.1 partner.googleadservices.com
 127.0.0.1 partwithner.com
-127.0.0.1 patched.karshacheney.click
 127.0.0.1 pc.clickmedias.info
 127.0.0.1 pcmax.jp
 127.0.0.1 penta.a.one.impact-ad.jp
@@ -730,7 +666,6 @@
 127.0.0.1 prscripts.com
 127.0.0.1 ps-jp.amazon-adsystem.com
 127.0.0.1 ps-us.amazon-adsystem.com
-127.0.0.1 pshtop.com
 127.0.0.1 pttn.m3pd.com
 127.0.0.1 pubads.g.doubleclick.net
 127.0.0.1 public.adgger.jp
@@ -748,15 +683,6 @@
 127.0.0.1 ranking.infocart.jp
 127.0.0.1 ranking.kuruten.jp
 127.0.0.1 ranklet.come.cc
-127.0.0.1 rc.i2i.jp
-127.0.0.1 rc2.i2i.jp
-127.0.0.1 rc3.i2i.jp
-127.0.0.1 rc4.i2i.jp
-127.0.0.1 rc5.i2i.jp
-127.0.0.1 rc6.i2i.jp
-127.0.0.1 rc7.i2i.jp
-127.0.0.1 rc8.i2i.jp
-127.0.0.1 rc9.i2i.jp
 127.0.0.1 rcm-fe.amazon-adsystem.com
 127.0.0.1 rcm-jp.amazon.co.jp
 127.0.0.1 rcm.shinobi.jp
@@ -802,8 +728,6 @@
 127.0.0.1 rt.gsspat.jp
 127.0.0.1 rt.rtoaster.jp
 127.0.0.1 rvrpushserv.com
-127.0.0.1 rws.a8.net
-127.0.0.1 s-cm.send.microad.jp
 127.0.0.1 s-cs.send.microad.jp
 127.0.0.1 s-rtb-pb.send.microad.jp
 127.0.0.1 s.gravatar.com
@@ -811,21 +735,18 @@
 127.0.0.1 s.net-public.com
 127.0.0.1 s.optnx.com
 127.0.0.1 s.orbsrv.com
-127.0.0.1 s.pagoda56.com
 127.0.0.1 s.pemsrv.com
 127.0.0.1 s.pubmine.com
 127.0.0.1 s.sh.adingo.jp
 127.0.0.1 s.storage-ad.com
 127.0.0.1 s.viidrbuk.com
 127.0.0.1 s.yjtag.jp
-127.0.0.1 s01.nowvisitors.com
 127.0.0.1 s1.aspservice.jp
 127.0.0.1 s1.yicha.jp
 127.0.0.1 s10.histats.com
 127.0.0.1 s11.j-a-net.jp
 127.0.0.1 s13.j-a-net.jp
 127.0.0.1 s3.mobile.val.jp
-127.0.0.1 s7.addthis.com
 127.0.0.1 sankei2ad.durasite.net
 127.0.0.1 scdn.cxense.com
 127.0.0.1 scripts.kiosked.com
@@ -835,12 +756,9 @@
 127.0.0.1 sem.searchteria.co.jp
 127.0.0.1 send.microad.jp
 127.0.0.1 serve.popads.net
-127.0.0.1 sg.i2i.jp
 127.0.0.1 sgpmnk.com
 127.0.0.1 sh.adingo.jp
-127.0.0.1 sh.i2i.jp
 127.0.0.1 sh.zucks.net
-127.0.0.1 shirpitscutula.top
 127.0.0.1 shopapi.ranking.rakuten.co.jp
 127.0.0.1 sm1.selectmedia.asia
 127.0.0.1 smaad.jp
@@ -869,16 +787,12 @@
 127.0.0.1 spot-01.trackingpro.pro
 127.0.0.1 sprout-ad.genieesspv.jp
 127.0.0.1 spsvc5.i-mobile.co.jp
-127.0.0.1 spvsc.send.microad.jp
-127.0.0.1 sr.i2i.jp
 127.0.0.1 srv1.aaacompany.net
 127.0.0.1 srv2.trafficgate.net
-127.0.0.1 ssend.microad.jp
 127.0.0.1 ssl.socdm.com
 127.0.0.1 ssp-sync.i-mobile.co.jp
 127.0.0.1 static.a-ads.com
 127.0.0.1 static.adgger.jp
-127.0.0.1 static.adroute.focas.jp
 127.0.0.1 static.adzerk.net
 127.0.0.1 static.affiliate.rakuten.co.jp
 127.0.0.1 static.criteo.net
@@ -887,12 +801,10 @@
 127.0.0.1 static.trafficjunky.com
 127.0.0.1 statics.a8.net
 127.0.0.1 stats.g.doubleclick.net
-127.0.0.1 statsp.fpop.net
 127.0.0.1 stimg.iand2ch.net
 127.0.0.1 stimgc.iand2ch.net
 127.0.0.1 stoicsstright.top
 127.0.0.1 streamjs.investing.com
-127.0.0.1 stunninglover.com
 127.0.0.1 sub2.avgle.com
 127.0.0.1 sw.cowtpvi.com
 127.0.0.1 switch-app.net
@@ -928,7 +840,6 @@
 127.0.0.1 tsyndicate.com
 127.0.0.1 twinrdsyn.com
 127.0.0.1 twinrdsyte.com
-127.0.0.1 uac.advertising.com
 127.0.0.1 usrattr.ameba.jp
 127.0.0.1 v.pornomixfree.com
 127.0.0.1 v2st.shinobi.jp
@@ -936,7 +847,6 @@
 127.0.0.1 vebadu.com
 127.0.0.1 video.unrulymedia.com
 127.0.0.1 vinushka.xsrv.jp
-127.0.0.1 vsc.send.microad.jp
 127.0.0.1 w.inmobi.com
 127.0.0.1 w.zenback.jp
 127.0.0.1 web.adblade.com
@@ -952,8 +862,6 @@
 127.0.0.1 widgets.outbrain.com
 127.0.0.1 wmedia.adk2x.com
 127.0.0.1 wms.assoc-amazon.jp
-127.0.0.1 worriedsafe.com
-127.0.0.1 wpc.32DF9.rhocdn.net
 127.0.0.1 ws-fe.amazon-adsystem.com
 127.0.0.1 ws.amazon.co.jp
 127.0.0.1 ws.assoc-amazon.jp
@@ -966,7 +874,6 @@
 127.0.0.1 www.afi-b.com
 127.0.0.1 www.assoc-amazon.jp
 127.0.0.1 www.bcloudhost.com
-127.0.0.1 www.buzzimpress.jp
 127.0.0.1 www.clicksgear.com
 127.0.0.1 www.clicktx.jp
 127.0.0.1 www.digitalpimpnetwork.com
@@ -987,7 +894,6 @@
 127.0.0.1 www.online-dn.com
 127.0.0.1 www.papy.co.jp
 127.0.0.1 www.ppc-direct.com
-127.0.0.1 www.queen-casino.info
 127.0.0.1 www.rentracks.jp
 127.0.0.1 www.rihoworld.com
 127.0.0.1 www.rss141.com
@@ -1053,5 +959,4 @@
 127.0.0.1 yads.yahoo.co.jp
 127.0.0.1 yd.alchimybegins.com
 127.0.0.1 yield-manager.browsiprod.com
-127.0.0.1 z.moatads.com
 127.0.0.1 z8.cnzz.com
