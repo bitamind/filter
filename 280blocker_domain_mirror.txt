@@ -10,7 +10,7 @@
 # Please use it in a system that can block subdomains.
 #
 #
-# Lastupdate: 2025-05-08
+# Lastupdate: 2025-06-05
 #
 
 domain.dummy280280.net
@@ -2947,6 +2947,8 @@ ivmxckqpfddky.com
 tcrzhmdjeswj.com
 pubadx.one
 yn.algiersreests.com
+bngrol.com
+clickadu.net
 
 
 
