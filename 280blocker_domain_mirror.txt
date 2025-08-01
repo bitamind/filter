@@ -10,7 +10,7 @@
 # Please use it in a system that can block subdomains.
 #
 #
-# Lastupdate: 2025-07-03
+# Lastupdate: 2025-07-31
 #
 
 domain.dummy280280.net
@@ -2956,6 +2956,7 @@ godkc.com
 wary-prior.com
 ds6n6c.com
 ib.semaisetything.com
+xr.staxisclivias.com
 
 
 
