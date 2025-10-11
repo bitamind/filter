@@ -10,7 +10,7 @@
 # Please use it in a system that can block subdomains.
 #
 #
-# Lastupdate: 2025-09-11
+# Lastupdate: 2025-10-09
 #
 
 domain.dummy280280.net
@@ -2959,6 +2959,10 @@ ib.semaisetything.com
 xr.staxisclivias.com
 gusion.space
 twads.gg
+snaptrckr.fun
+obqj2.com
+adexchangeclear.com
+videocdnmetrika.com
 
 
 
