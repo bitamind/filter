@@ -10,7 +10,7 @@
 # Please use it in a system that can block subdomains.
 #
 #
-# Lastupdate: 2025-12-04
+# Lastupdate: 2025-12-18
 #
 
 domain.dummy280280.net
@@ -2966,6 +2966,7 @@ videocdnmetrika.com
 creative.homejavlive.com
 wellworn-lead.com
 girls-escort.tokyo
+ads.bakusai.com
 
 
 
