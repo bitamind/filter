@@ -6,8 +6,18 @@
 ! This file is only permitted for personal use under copyright law.
 ! Commercial use or  redistribution are prohibited except as permitted by copyright law.
 !
-! Last updated: 2026-01-15
-##.blocker280-20260115
+! Last updated: 2026-01-29
+##.blocker280-20260129
+
+! 2026-01-29
+theckb.com##.bottom-form-box
+walica.jp##[href^="https://r10.to"]
+spaceshipearth.jp##[class*="sticky-banner"]
+kuruma-news.jp##.js-job-offer-placeholder
+fo76db.com##amazon-carousel
+/[0-9,a-f]{12}\.js/$domain=aninavi.blog|manhwa68.com
+||tsumanne.net/inoue.php
+||soonpubplatform.online^
 
 ! 2026-01-15
 daily.co.jp##.kyuujinbox_recurit
@@ -160,7 +170,7 @@ gamewith.jp##.is-pr
 ||twads.gg^
 
 ! 2025-08-28
-pinterest.com##div[data-test-pin-id]:has(div[title="ÃƒÆ’Ã‚Â¥Ãƒâ€šÃ‚ÂºÃƒâ€ Ã¢â‚¬â„¢ÃƒÆ’Ã‚Â¥ÃƒÂ¢Ã¢â€šÂ¬Ã‹Å“Ãƒâ€¦ "])
+pinterest.com##div[data-test-pin-id]:has(div[title="ÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â¥ÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚ÂºÃƒÆ’Ã¢â‚¬ ÃƒÂ¢Ã¢â€šÂ¬Ã¢â€žÂ¢ÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â¥ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â‚¬Å¡Ã‚Â¬Ãƒâ€¹Ã…â€œÃƒÆ’Ã¢â‚¬Â¦ "])
 mangaplus.shueisha.tv###ads_mobile
 ooiotakara.com###footer-fixed
 ooiotakara.com##.entry_list2
@@ -373,7 +383,7 @@ nazunasokuhou.jp,moudamepo.com,otakomu.jp##a[href*="dlaf.jp"]
 otakomu.jp##iframe[src*="chobit.cc"]
 ||forbes.com/zephr/feature-decisions^
 ||vip-chps-api.2nt.com/apis/footer/
-.js$script,third-party,domain=jgvdata.com|everia.club
+.js$script,third-party,domain=jgvdata.com
 ad_star_jpn.php$domain=monsnode.com
 ||ads-lite2.net^
 
@@ -395,7 +405,7 @@ vipleague.im##.btn-warning
 vipleague.im##body>a[href]:not(a[href*="vipleague.im"])
 accuweather.com##.glacier-ad
 accuweather.com##.adhesion-header
-/||.^/$script,third-party,domain=nukibooks.com|everiaclub.com
+/||.^/$script,third-party,domain=nukibooks.com|everiaclub.com|paipancon.com
 ||vercel.app/_next/static/chunks/pages/_app-
 ||pushub.net^$domain=vipleague.im|viprow.nu
 ||creative.live.javdock.com^
@@ -494,7 +504,6 @@ btag.min.js$domain=klto9.com|jestful.net|rawkuma.com|mangagun.net|rawkuma.net|ni
 /\/[0-9]\/[0-9]{7}/$script,domain=jmanga.sh|jmanga.mx|9animetv.to|rawkuma.com
 ||zs.bemiresunlevel.com^
 ||creative.rmishe.com^
-||eu-central-1.cdn-cloud.net^
 ||hhklc.com^
 ||rh.unactkiosk.com^
 
@@ -781,7 +790,7 @@ gamers-labo.com,gamers-luck.com##[aria-label*="_ad"]
 ||mcm.justbaat.org^$domain=gamingdeputy.com
 /[0-9,a-f]{32}\.js/$domain=thefantazy.com|player.javboys.cam|rawhentaibear.com|nnyy.in|sexiezpix.com|myxxgirl.com|jmanga.to|jmanga.is|rawkuma.biz|yanmaga.net|kl-manga.com|klmanga.biz|rawotaku.com|xiaoxintv.cc|camchickscaps.com|dood.li|jmanga.ac|syosetu.gs|sotwe.com|otaku-raw.com|jmanga.so|rawkuro.biz|jmanga.sh|jav-fun.cc|nukibooks.com|japan-whores.com|tiqu.cc|katfile.com|jmanga.mx|85po.com|fikper.com|spankbang-dl.com|pp39.cn|123av.com|jmanga.la|hentaigo.net|jmanga.se|hentai-one.com|xfantazy.com|asmroger.top|akuma.moe|aniwave.se|photos18.com|jmanga.io|hianime.to|javdock.com|pinayflix.me|9animetv.to|spoilerraw.net|jmanga.im|monsnode.com|jgvdata.com|2conv.com|jmanga.my|colamanga.com|fetchfile.me|jav.com.se|japangaysex.com|jmanga.nl|jav.re|gogoanime.by|mexa.sh|jmanga.cv
 /[0-9,a-z]{10}/[0-9,a-z]{10}\.js/$domain=transtxxx.com
-/||.^/$popup,third-party,domain=hitomi.la|jav-fun.cc|noni-jav.cc|supjav.com|javmix.tv|missav.com|thefantazy.com|jav-noni.cc|javboys.com|player.javboys.cam|poapan.xyz|y2mate.com|javideo.net|watchadsontape.com|savefrom.net|lcheaven.com|av01.tv|9animetv.to|asmroger.top|thegay.com|jav-nonik.cc|japan-whores.com|gogoanime2.org|jmanga.sh|katfile.com|jmanga.mx|fikper.com|gogoanimes.fi|spankbang-dl.com|netfuck.net|mexa.sh|pp39.cn|gogoanime.co.at|rawkuma.com|jmanga.li|123av.com|openloadpro.com|xfantazy.com|movies2watch.tv|mangajikan.com|anitube.biz|allappinc.com|javdock.com|pwetan.gg|9tsu.tv|vipleague.im|animember.net|luluvdo.com|lulu.st|xpinay.biz|javneon.tv|javboys.cam|fetchfile.me|archivebate.cc|mixdrop.my|archivebate.com|kissanime.com.ru|camchickscaps.com|85po.com|noni-jav.com|japangaysex.com|savefiles.com|mixixxx000000.cyou|savetube.me|noni-av.com|bigwarp.cc|hentaianimezone.com|mangajikan.cc|b-hentai.com|aniwave.se|gayvidsclub.com|vvide0.com|onscreens.me|dailyuploads.net|javgg.net|mangaplus.shueisha.tv|rule34.world|rule34.xyz|hentaiasmr.moe|qmh.sex|mangareader.to|jav-coco.com|bigwarp.pro|ansuko.net|asmroger.com|viprow.nu|mixiporn.fun|mangaraw.ac|hentaitk.net|popjav.in|jp.xmorex.com|hentaipaw.com|b9good.org|noni-xxx.cc|kissjav.com|9anime.vip|fun800.click|ddd-smart.net|twstalker.com|nonixxx.cc|tk2dl.com|klmanga.fm|isekaitube.com|mn4u.net
+/||.^/$popup,third-party,domain=hitomi.la|jav-fun.cc|noni-jav.cc|supjav.com|javmix.tv|missav.com|thefantazy.com|jav-noni.cc|javboys.com|player.javboys.cam|poapan.xyz|y2mate.com|javideo.net|watchadsontape.com|savefrom.net|lcheaven.com|av01.tv|9animetv.to|asmroger.top|thegay.com|jav-nonik.cc|japan-whores.com|gogoanime2.org|jmanga.sh|katfile.com|jmanga.mx|fikper.com|gogoanimes.fi|spankbang-dl.com|netfuck.net|mexa.sh|pp39.cn|gogoanime.co.at|rawkuma.com|jmanga.li|123av.com|openloadpro.com|xfantazy.com|movies2watch.tv|mangajikan.com|anitube.biz|allappinc.com|javdock.com|pwetan.gg|9tsu.tv|vipleague.im|animember.net|luluvdo.com|lulu.st|xpinay.biz|javneon.tv|javboys.cam|fetchfile.me|archivebate.cc|mixdrop.my|archivebate.com|kissanime.com.ru|camchickscaps.com|85po.com|noni-jav.com|japangaysex.com|savefiles.com|mixixxx000000.cyou|savetube.me|noni-av.com|bigwarp.cc|hentaianimezone.com|mangajikan.cc|b-hentai.com|aniwave.se|gayvidsclub.com|vvide0.com|onscreens.me|dailyuploads.net|javgg.net|mangaplus.shueisha.tv|rule34.world|rule34.xyz|hentaiasmr.moe|qmh.sex|mangareader.to|jav-coco.com|bigwarp.pro|ansuko.net|asmroger.com|viprow.nu|mixiporn.fun|mangaraw.ac|hentaitk.net|popjav.in|jp.xmorex.com|hentaipaw.com|b9good.org|noni-xxx.cc|kissjav.com|9anime.vip|fun800.click|ddd-smart.net|twstalker.com|nonixxx.cc|tk2dl.com|klmanga.fm|isekaitube.com|mn4u.net|syosetu.lv|advertape.net|everia.club|jav-noni.org|manhwa68.com
 
 ! 2024-08-29
 
@@ -815,9 +824,7 @@ bluetti.jp###modal-center-toast
 tsumanne.net##object[data*="ad"]
 hamusoku.com##span[style]:has([href*="amzn.to"])
 ||wayfarerfiddle.com^
-||fathomcleft.com^
 ||hintgroin.com^
-||ey.dramshaplite.com^
 ||ptoupisso.net^
 ||ak.phaunaitsi.net^
 ||readsubsequentlyspecimen.com^
@@ -834,7 +841,7 @@ ad/ad.js$domain=bakufu.jp
 ~x.com##a[href*="x.com/intent/tweet"]
 yahoo.co.jp##a[href*="line.me/R"]
 ||t.co^$popup,domain=dodz.pro|indobokepin.com
-/[0-9,a-f]{10}\.[0-9,a-f]{10}\.com/$domain=hitomi.la|indobokepin.com|dodz.pro|dood.li|y2tube.pro|bunkr-albums.io|bunkr.cr|paipancon.com|savefiles.com|tapepops.com|javgg.net|highporn.net
+/[0-9,a-f]{10}\.[0-9,a-f]{10}\.com/$domain=hitomi.la|indobokepin.com|dodz.pro|dood.li|y2tube.pro|bunkr-albums.io|bunkr.cr|paipancon.com|savefiles.com|tapepops.com|javgg.net|highporn.net|mangakoma01.net|rawjx.net
 
 ! 2024-08-19
 
@@ -922,7 +929,6 @@ web.archive.org###donate_banner
 ||stoawugluce.net^
 ||ptatexiwhe.com^
 ||masakeku.com^
-||evergreenfan.pro^
 ||imperturbableappearance.pro^
 ||satisfied-tour.pro^
 ||simplistic-king.pro^
@@ -1050,14 +1056,12 @@ hanzam.net##.footer_area
 ||cuttlefly.com^
 ||zmonei.com^
 ||realsrvcdn.com^
-||eu.peliastitters.com^
 ||rgsiuevpupqz.com^
 ||leezeept.com^
 ||constructpreachystopper.com^
 ||nsgyedmpxy.com^
 ||troubledcontradiction.com^
 ||zoovagoo.com^
-||fadcuhanbd.com^
 ||qs.planxtyroaring.com^
 ||papmeatidigbo.com^
 ||pleatpipe.com^
@@ -1165,8 +1169,6 @@ kotobank.jp##.sp-word-ad
 ||nrs6ffl9w.com^
 ||ratel-ad.com^$domain=~twidouga.net|~zozovideo.com
 ||footprintsfurnish.com^
-||enclosedswoopbarnacle.com^
-||fb5ab8a79a.com^
 ||lyze.jp/img/banner
 ||m-pe.tv/img/banner
 headroom.min.js$domain=klmanga.app
@@ -1192,7 +1194,6 @@ adimages$domain=wap.jmwu.xyz
 ||themediaplanets.com^
 ||junmediadirect1.com^
 ||ezmob.com^
-||expoclknw.com^
 ||webmedrtb.com^
 ||kunvertads.com^
 ||newbluetrue.xyz^
@@ -1232,7 +1233,6 @@ adjust$domain=zexy.net
 ||lmadps.jp^$domain=~koe-koe.com
 ||bestadsforyou.com^
 ||professorrevealingoctopus.com^
-||faulterdeplume.com^
 ||static.cloudflareinsights.com^
 ||puffingtiffs.com^
 ||5ivy3ikkt.com^
@@ -1353,14 +1353,11 @@ seldarion-ajax.min.js$domain=newmangaraw.com
 cp-popup.min.js$domain=pikoaloha.jp
 ||lalqyyxorytp.com^
 ||qs.longestsundays.com^
-||foolishjunction.com^
 ||superiorityfriction.com^
 ||mgxqqtrdse.com^
 ||terabigyellowmotha.info^
 ||gossipinvest.com^
 ||proftrafficcounter.com^
-||emixgfqy.com^
-||exeyawberg.com^
 ||pbstck.com^
 ||hbagency.it^
 ||kauraishojy.com^
@@ -1422,8 +1419,6 @@ floating-ads.js$domain=1rankup.jp
 ad-full-page-enter-fly.min.js$domain=pixnet.net
 ||raglanyakking.com^
 ||manrootarbota.com^
-||fpalarezuxj.com^
-||fbroxaiityhkz.com^
 ||bardicjazzed.com^
 ||otdfunahndpu.com^
 ||kagnejule.xyz^ 
@@ -1518,7 +1513,7 @@ upornia.com##section:has(iframe[src*="poloptrex.com"])
 ||liondolularhene.info^
 ||jfjle4g5l.com^
 ||bestresulttostart.com^
-||delivery.satr.jp^$domain=shinku-glass.jp|deech.co.jp|y-skt.co.jp
+||delivery.satr.jp^$domain=shinku-glass.jp|deech.co.jp|y-skt.co.jp|smd-am.co.jp
 ||popupsmart.com^$domain=eleminist.com|trinity-tech.co.jp
 ||yandex.ru^$domain=livejournal.com|top-guides.ru
 
@@ -1569,8 +1564,6 @@ worldsextrip.com##div[class^="add"]
 ||js.manga1001.win^
 ||shootereosins.com^
 ||assets.bounceexchange.com^
-||f092680893.com^
-||fadrovoo.xyz^
 ||s0cool.net^
 ||welltodoresource.com^
 ||stunning-lift.com^
@@ -1643,7 +1636,6 @@ oyakudachi.js$domain=yayoi-kk.co.jp
 ||scalpelvengeance.com^
 ||topcreativeformat.com^
 ||kiaughsviner.com^
-||fadraiph.xyz^
 ||d11hjbdxxtogg5.cloudfront.net^
 ||mutcheng.net^
 ||h74v6kerf.com^
@@ -1791,13 +1783,11 @@ nbblog.jp,napbizblog.jp##div[class^="napbiz_ad"]
 ||rodrergi.com^
 ||smasheswamefou.com^
 ||stealcurtainsdeeprooted.com^
-||firewoodpeerlessuphill.com^
 ||adsfcdn.com^
 ||overpetleersia.com^
 ||12ezo5v60.com^
 ||homeycommemorate.com^
 ||ku42hjr2e.com^
-||fatotdaqsb.com^
 ||data.adult-storage.net^$domain=elog-ch.net
 ||vidstat.taboola.com^$domain=infoseek.co.jp
 
@@ -2004,7 +1994,6 @@ app_guidance_modal-$domain=oishi-kenko.com
 ||evzhzppj5kel.com^
 ||tanksfright.com^
 ||spheredkapas.com^
-||elegant-feedback.com^
 ||okkzimcaxw.com^
 ||otwxafgajg.com^
 ||hantlesberith.com^
@@ -2040,14 +2029,12 @@ bl-milk.com,kotonoha-dictionary.com,micro-wavlog.com,aoimori-norin.jp,automaton-
 gamenv.net##aside[id^="media_image"]
 gamenv.net##.aicp
 javmix.tv##div[style*="max-width: 1000px;"][style*="width:"][style*="height:"][style*="auto;"]
-hentaianimezone.com,manga-mate.org##div[class*="__push"][class*="_started"]
+everia.club,hentaianimezone.com,manga-mate.org##div[class*="__push"][class*="_started"]
 !##.afs_ads
 api/ipv4check?mark=$domain=xasiat.com
 s-new.js?$domain=sankakucomplex.com
 popup_clickadu.js$domain=javideo.net
 ads/ad.js$domain=doods.pro
-||fc0a58af2e.com^
-||f8e36bb73c.com^
 ||track.wg-aff.com^
 ||js.advortex.cloud^
 ||twinrdsyte.com^
@@ -2055,7 +2042,6 @@ ads/ad.js$domain=doods.pro
 ||goesdeedinsensitive.com^
 ||ak.psaltauw.net^
 ||eggsiswensa.com^
-||erereauksofthe.info^
 ||professionalswebcheck.com^
 ||necessaryinborn.com^
 ||hlyrecomemum.info^
@@ -2081,10 +2067,8 @@ ads/ad.js$domain=doods.pro
 ||acacdn.com^$domain=~japaneseasmr.top
 ||sslph.com^
 ||goeticviola.com^
-||erlgzcrw.com^
 ||messymeter.com^
 ||secondquaver.com^
-||forfeitsubscribe.com^
 ||gleaminsist.com^
 ||hunkbother.com^
 
@@ -2196,7 +2180,6 @@ granim.min.js$domain=hitomi.la
 ||js.capndr.com^
 ||veepteero.com^
 ||adskeeper.com^
-||fewmaypick.live^
 ||circle7-bd.com^
 ||qxycdoexyj.com^
 ||zzialtlewmzqki.com^
@@ -2313,11 +2296,9 @@ javmix.tv##.nonGT
 ||desgolurkom.com^
 ||qenrbylyjbzza.top^
 ||toddernovas.digital^
-||enkvmrkwrnleb.top^
 ||myliveforyoudreder.com^
 ||zv.7vid.net^
 ||westats.dev^
-||esrpkd.com^
 ||x7r3mk6ldr.com^
 ||almstda.tv^
 ||hesoorda.com^
@@ -2356,10 +2337,10 @@ msn.com##div[id*="nativeAd"]
 kuruma-news.jp##.ob-smartfeed-wrapper
 ~cuddle-jp.com##a[href*="cuddle-jp.com"]
 js/jquery-modalLayerBoard.js$domain=manababy.jp
-code.js$domain=ja.javfor.tv|javmix.tv|zv.7vid.net|tktube.com|hitomi.la|ksk.moe|mangarawjp.one|klmanga.vip|hentaipaw.com|streamtape.com|tapenoads.com|mangaraw.vip|mangaraw.do|manga1001.se|mangarawjp.io|syosetu.me|rawxz.com|eromanga-show.com|ddd-smart.net|rawkuma.com|newmangaraw.com|cin.guru|tokyomotion.net|mangaraw.ac|doujinnomori.com|jav-fun.cc|tapeadvertisement.com|supjav.com|b-para.co|bl-yaoiclub.com|fujokomi.com|blcollection.co|801books.com|cp-comi.com|boys-books.com|cp-library.com|ero-anime.website|spoilerplus.tv|nukibooks.com|mangaraw.best|asianporn.li|kuncomic.com|mangaraw.ma|rawkuma.biz|yanmaga.net|kl-manga.com|klmanga.biz|rule34video.com|mangajikan.com|kemono.su|bunkr-albums.io|bunkr.cr|rawkuma.net|archivebate.cc|archivebate.com|japangaysex.com|kurocore.com|shinshi-manga.net|vvide0.com|onscreens.me|hentaiasmr.moe|hentaianimezone.com|ansuko.net|mitaku.net
+code.js$domain=ja.javfor.tv|javmix.tv|zv.7vid.net|tktube.com|hitomi.la|ksk.moe|mangarawjp.one|klmanga.vip|hentaipaw.com|streamtape.com|tapenoads.com|mangaraw.vip|mangaraw.do|manga1001.se|mangarawjp.io|syosetu.me|rawxz.com|eromanga-show.com|ddd-smart.net|rawkuma.com|newmangaraw.com|cin.guru|tokyomotion.net|mangaraw.ac|doujinnomori.com|jav-fun.cc|tapeadvertisement.com|supjav.com|b-para.co|bl-yaoiclub.com|fujokomi.com|blcollection.co|801books.com|cp-comi.com|boys-books.com|cp-library.com|ero-anime.website|spoilerplus.tv|nukibooks.com|mangaraw.best|asianporn.li|kuncomic.com|mangaraw.ma|rawkuma.biz|yanmaga.net|kl-manga.com|klmanga.biz|rule34video.com|mangajikan.com|kemono.su|bunkr-albums.io|bunkr.cr|rawkuma.net|archivebate.cc|archivebate.com|japangaysex.com|kurocore.com|shinshi-manga.net|vvide0.com|onscreens.me|hentaiasmr.moe|hentaianimezone.com|ansuko.net|mitaku.net|manhwa68.com
 api/senddata$domain=ja.javfor.tv
 ?id=$third-party,script,domain=mangarawjp.io|manga1001.se|mangaraw.to|syosetu.me|mangarawjp.so|javmix.tv|klmanga.io|doods.pro|mangaraw.so|hitomi.la|klmanga.so|klmanga.vip|mangarawjp.one|javideo.net|mangaraw.vip|streamtape.com|mangaraw.do|klmanga.org|leaktape.com|tokyomotion.net|d0000d.com|ddd-smart.net|yaoimangaonline.com|luluvdo.com|klmanga.app|ds2play.com|d000d.com|dood.li|indobokepin.com|dodz.pro|y2tube.pro|jav-fun.cc|rawkuma.com|bunkr-albums.io|bunkr.cr|rawkuma.net|japangaysex.com|kurocore.com|b-hentai.com|doujinnomori.com|asmr18.fans|vvide0.com|onscreens.me|eromanga-show.com|highporn.net|hentaiasmr.moe|qmh.sex|hentaianimezone.com|ansuko.net|oreno3d.com|twihub.net|hotgirlpix.com|popjav.in|kissjav.com|advertape.net|weloma.art
-invoke.js$domain=nikaraw.com|hentai-cosplays.com|weloma.art|kuncomic.com|kimetsujbn.blogspot.com|cin.guru|rawhentaibear.com|nukibooks.com|tiqu.cc|katfile.com|fikper.com|spankbang-dl.com|pp39.cn|akuma.moe|hentai-one.com|spoilerraw.net|monsnode.com|jgvdata.com|2conv.com|javboys.com|fetchfile.me|85po.com|hentaipaw.com|eromanga-show.com|poapan.xyz|fun800.click|towheree.com|mangarawjapan.blog.fc2.com|isekaitube.com
+invoke.js$domain=nikaraw.com|hentai-cosplays.com|weloma.art|kuncomic.com|kimetsujbn.blogspot.com|cin.guru|rawhentaibear.com|nukibooks.com|tiqu.cc|katfile.com|fikper.com|spankbang-dl.com|pp39.cn|akuma.moe|hentai-one.com|spoilerraw.net|monsnode.com|jgvdata.com|2conv.com|javboys.com|fetchfile.me|85po.com|hentaipaw.com|eromanga-show.com|poapan.xyz|fun800.click|towheree.com|mangarawjapan.blog.fc2.com|isekaitube.com|manhwa68.com|everia.club
 ||nazolncubha.com^
 ||phyfzaothmfy.com^
 ||stihruojvag.com^
@@ -2372,7 +2353,6 @@ invoke.js$domain=nikaraw.com|hentai-cosplays.com|weloma.art|kuncomic.com|kimetsu
 ||wpushsdk.com^
 ||nereserv.com^
 ||neverthelessdamagingmakes.com^
-||fitting-population.com^
 ||jnkstff.com^
 ||awpya.com^
 ||wrathful-alternative.com^
@@ -2395,7 +2375,6 @@ invoke.js$domain=nikaraw.com|hentai-cosplays.com|weloma.art|kuncomic.com|kimetsu
 ||partwithner.com^
 ||hartattenuate.com^
 ||lookinews.com^
-||errorpalpatesake.com^
 ||tzugumojfm.com^
 ||fdorxsat.com^
 ||amntx1.net^
@@ -2440,7 +2419,6 @@ build/client/main.js$domain=luscious.net
 adult100.js$domain=filelions.to|streamwish.to|streamhide.to|javibe.net|vidhide.com
 adgpt.js$domain=kissasian.pe|tapewithadblock.org|streamtape.com|antiadtape.com|tapeblocker.com|tapenoads.com|j8jp.com
 aq?id=$domain=mangaraw.to
-||equabilityassortshrubs.com^
 ||instantshingle.com^
 ||hoogajee.net^
 ||tapioni.com^
@@ -2524,16 +2502,13 @@ d4armory.io##[id^="eventsboard"]
 d4armory.io##[id^="armoryboard"]
 news.denfaminicogamer.jp##[id*="sp_jack_overlay"]
 ###player-advertising-mobile
-||fluttermotorway.com^
 ||sewersneaky.com^
 ||wcvyyacmnoamt.com^
 ||wyfsddsucblzu.com^
 ||sjtbhdeakgsgr.com^
-||fgxfnkiojgs.com^
 ||vipbuy-jp.com^
 ||dd8-jp.com^
 ||tendycdn.online^
-||eewhocmi.com^
 ||laxativepermissiblesensation.com^
 ||dalyai.com^
 ||ookroush.com^
@@ -2548,11 +2523,9 @@ news.denfaminicogamer.jp##[id*="sp_jack_overlay"]
 ||kgfjrb711.com^
 ||best-vpn-app.com^
 ||ti.spicy-fire.xyz^
-||enzoo-mall.com^
 ||csservicesp.com^
 ||sufficedetentionhols.com^
 ||cvastico.com^
-||f9b09a512c.b44794baad.com^
 ||ads2ads.net^
 ||online.shopedar.xyz^
 ||resigt.com^$domain=kissasian.pe
@@ -2614,8 +2587,6 @@ nlab.itmedia.co.jp##[class*="logly-lift-ad"][rel^="nofollow noopener"]
 ||suctionautomobile.com^
 ||thumpdrownthreat.com^
 ||slashcynical.com^
-||f857d2a912.c69aa01528.com^
-||f7133dada2.3500e6a1bc.com^
 ||ntvpwpush.com^
 ||weaponsnondescriptperceive.com^
 ||wateryzapsandwich.com^
@@ -2629,7 +2600,6 @@ nlab.itmedia.co.jp##[class*="logly-lift-ad"][rel^="nofollow noopener"]
 ||cdn.adschill.com^
 ||se.unpinsfucoids.com^
 ||js.wpshsdk.com^
-||fb8265a483.a3595ccd38.com^
 ||media.assistads.net^
 ||presentationbishop.com^
 ||a.jhfhdkhkh.site^
@@ -2787,7 +2757,6 @@ orenoraresne.com##div[class^="widget"]
 sns-sakiyomi.com###popupBanner_single
 sns-sakiyomi.com###scrollfix
 sns-sakiyomi.com##a[href="https://lstep.app/TWrtCI5"]
-||fbf1dd651b.com^
 ||gs.profrebecca.com^
 ||l1yjsn8.zrrnqq.com^
 ||ly3whx8.mxknqq.com^
@@ -2971,7 +2940,7 @@ request_ab2=0$domain=manga1001.su
 jump_pv=1$domain=112w.cc|677w
 frm_adv.aspx?gid=$domain=112w.cc|677w.cc
 ?token=$domain=112w.cc|677w.cc|vidmoly.to
-zoneid=$domain=hitomi.la|manga1001.su|mangaraw.io|mangarawjp.io|mangarawjp.vip|mangarow.org|mangaraw.ru|klmanga.su|syosetu.me|sexcelebrity.net|javmix.tv|mangaraw.to|mangaraw.vip|mangaraw.so|mangarawjp.so|manga1001.se|twiigle.com|manga1000.io|tokyomotion.com|kissjav.com|streamtape.com|tapewithadblock.org|j8jp.com|hachiraw.com|syosetu.top|ja.javfor.tv|rawkuma.com|tktube.com|fc2stream.tv|spankbang.mov|ksk.moe|klmanga.so|mangarawjp.one|av-cdn.xyz|klmanga.vip|streamnoads.com|hentaipaw.com|niraw.com|tapenoads.com|mangaraw.do|klmanga.org|jav.direct|awish.pro|dood.wf|rawxz.com|netflav5.com|mmfl04.com|eromanga-show.com|ddd-smart.net|newmangaraw.com|football-ranking.com|klz9.com|toonily.com|weloma.art|cin.guru|tokyomotion.net|mangaraw.ac|klmanga.app|doujinnomori.com|tapeadvertisement.com|jav-fun.cc|luluvdo.com|ds2play.com|javideo.net|supjav.com|b-para.co|bl-yaoiclub.com|fujokomi.com|blcollection.co|801books.com|cp-comi.com|boys-books.com|cp-library.com|ero-anime.website|spoilerplus.tv|xiaoxintv.com|javboys.com|korewaeroi.com|poapan.xyz|nukibooks.com|mangaraw.best|asianporn.li|kuncomic.com|mangaraw.ma|dood.li|rule34video.com|welovemanga.one|rawinu.com|mangajikan.com|kemono.su|japan-whores.com|jmanga.li|bunkr-albums.io|bunkr.cr|mangakoma01.com|rawkuma.net|rawkuro.net|2conv.com|yande.re|javboys.cam|xpinay.biz|archivebate.cc|archivebate.com|japangaysex.com|savefiles.com|nudogram.com|kanav.info|kurocore.com|shinshi-manga.net|onscreens.me|hentaiasmr.moe|qmh.sex|hentaianimezone.com|ansuko.net|hentaitk.net|mitaku.net
+zoneid=$domain=hitomi.la|manga1001.su|mangaraw.io|mangarawjp.io|mangarawjp.vip|mangarow.org|mangaraw.ru|klmanga.su|syosetu.me|sexcelebrity.net|javmix.tv|mangaraw.to|mangaraw.vip|mangaraw.so|mangarawjp.so|manga1001.se|twiigle.com|manga1000.io|tokyomotion.com|kissjav.com|streamtape.com|tapewithadblock.org|j8jp.com|hachiraw.com|syosetu.top|ja.javfor.tv|rawkuma.com|tktube.com|fc2stream.tv|spankbang.mov|ksk.moe|klmanga.so|mangarawjp.one|av-cdn.xyz|klmanga.vip|streamnoads.com|hentaipaw.com|niraw.com|tapenoads.com|mangaraw.do|klmanga.org|jav.direct|awish.pro|dood.wf|rawxz.com|netflav5.com|mmfl04.com|eromanga-show.com|ddd-smart.net|newmangaraw.com|football-ranking.com|klz9.com|toonily.com|weloma.art|cin.guru|tokyomotion.net|mangaraw.ac|klmanga.app|doujinnomori.com|tapeadvertisement.com|jav-fun.cc|luluvdo.com|ds2play.com|javideo.net|supjav.com|b-para.co|bl-yaoiclub.com|fujokomi.com|blcollection.co|801books.com|cp-comi.com|boys-books.com|cp-library.com|ero-anime.website|spoilerplus.tv|xiaoxintv.com|javboys.com|korewaeroi.com|poapan.xyz|nukibooks.com|mangaraw.best|asianporn.li|kuncomic.com|mangaraw.ma|dood.li|rule34video.com|welovemanga.one|rawinu.com|mangajikan.com|kemono.su|japan-whores.com|jmanga.li|bunkr-albums.io|bunkr.cr|mangakoma01.com|rawkuma.net|rawkuro.net|2conv.com|yande.re|javboys.cam|xpinay.biz|archivebate.cc|archivebate.com|japangaysex.com|savefiles.com|nudogram.com|kanav.info|kurocore.com|shinshi-manga.net|onscreens.me|hentaiasmr.moe|qmh.sex|hentaianimezone.com|ansuko.net|hentaitk.net|mitaku.net|manhwa68.com
 
 ##.padPreload
 ##[href^="http://defenseneckpresent.com"]
@@ -2993,7 +2962,6 @@ zoneid=$domain=hitomi.la|manga1001.su|mangaraw.io|mangarawjp.io|mangarawjp.vip|m
 ||wwimwuohrrab.com^
 ||ombwzonwupu.com^
 ||hermichermicbroadcastinglifting.com^
-||feroaptu.xyz^
 ||tvwgstakdhkot.com^
 ||lazypeacefullyutterly.com^
 ||maxcdn.dmm-video.online^
@@ -3015,7 +2983,6 @@ zoneid=$domain=hitomi.la|manga1001.su|mangaraw.io|mangarawjp.io|mangarawjp.vip|m
 ||retiringmartialaunt.com^
 ||beforeignunlig.com^
 ||hylicfrothi.uno^
-||fembedta.com^
 ||xxx4you.co^
 ||creative-bars1.com^
 ||razzedwhimsic.website^
@@ -3064,7 +3031,6 @@ nknews.jp###im_panel_b
 ||maniconclavis.com^
 ||renomeeguze.com^
 ||dyj8pbcnat4xv.cloudfront.net^
-||entailresponded.com^
 ||illuminatedharrowpartnership.com^
 ||hampersolarwings.com^
 ||wheftouw.xyz^
@@ -3126,7 +3092,6 @@ farfetch.com##[id^="App banner"]
 ||inconceivableascertained.com^
 ||venetrigni.com^
 ||dismantlepenantiterrorist.com^
-||endowverb.com^
 ||522.wavebogoh.live^
 ||jubhahsfurzier.digital^
 ||nanouwho.com^
@@ -3234,12 +3199,9 @@ sbbit.jp##.non-login-banner
 ##.kaerebalink-box
 ||heelseparateddistinguished.com^
 ||hideyourmobdata.com^
-||f1bb4e5049.com^
-||favorable-lady.pro^
 ||subserecajones.com^
 ||xvideostream.net/assets/jquery^
 ||restartburgerremembrance.com^
-||excretekings.com^
 ||sighsuspectshaped.com^
 ||nudgeworry.com^
 ||roudoduor.com^
@@ -3249,7 +3211,6 @@ sbbit.jp##.non-login-banner
 ||e67repidwnfu7gcha.com^
 !||static.javhd.com^
 ||skiingsettling.com^
-||exploredefinitely.com^
 ||naturalhealthsource.club^
 ||sexcelebrity.net/contents/oth/player
 ||addtoany.com^$domain=manga-mate.org
@@ -3363,8 +3324,6 @@ anitube.biz##.crw>.conteudoBox >div[align="center"]
 ||sapoaix.com^
 ||qs.nodouslover.com^
 ||anahitagirted.uno^
-||fixespreoccupation.com^
-||facilitycompetition.com^
 ||qgxbluhsgad.com^
 
 ||ultrasoundrottenreluctant.com^$domain=tokyomotion.net
@@ -3374,7 +3333,6 @@ anitube.biz##.crw>.conteudoBox >div[align="center"]
 ||bmcdn4.com^$domain=anitube.biz
 ||lngtd.com^$domain=goal.com
 ||stapadblockuser.xyz^$domain=supjav.com
-||firmlychurchyard.com^$domain=zippyshare.com
 
 
 ! 2022-12-26
@@ -3478,7 +3436,6 @@ gamepedia.jp##.ad-carousel
 ||tractlife.com^
 ||prolatecyclus.com^
 ||shukriya90.com^
-||fewhowsit.live^
 ||urimnugocfr.com^
 ||widgets.amung.us^
 ||grunoaph.net^
@@ -3693,8 +3650,6 @@ o-uccino.jp##.sns_link-wrapper
 ||vidoza.net^$script
 ||terciogouge.com^
 ||dsoodbye.xyz^
-||enodiarahnthedon.com^
-||entriflingw.xyz^
 ||getherefwu.xyz^
 ||interstitial-08.com^
 ||onclickperformance.com^
@@ -3726,7 +3681,6 @@ ctier=L$domain=youtube.com|googlevideo.com|google.com|asahi.com
 /_xa/ads_batch?ads=$domain=jp.pornhub.com
 /_xa/ads?zone_id=$domain=pornhub.com
 ||mscoldness.com^
-||ezyenrwcmo.com^
 ||bg4nxu2u5t.com^
 ||oblongseller.com^
 ||ludicroussignify.com^
@@ -3821,7 +3775,6 @@ kidsna.com##.line-share-button
 ||godpvqnszo.com^
 ||cwqljsecvr.com^
 ||tractekytyh.xyz^
-||ef7ca99696.1731d04ba1.com^
 
 
 !2022-09-15
@@ -3876,7 +3829,6 @@ w.atwiki.jp##.atwiki-ads-margin
 fpcafe.jp###bnrBott
 ||adblockplustape.com^
 ||v6rxv5coo5.com^
-||ejcet5y9ag.com^
 ||doruffletr.com^
 ||gelclinchfranz.com^
 ||forgerylimit.com^
@@ -3888,7 +3840,6 @@ fpcafe.jp###bnrBott
 ||vz.7vid.net^
 ||perryvolleyball.com^
 ||unwillingsnick.com^
-||ewoutosh.com^
 ||psapsiph.net^
 ||goomaphy.com^
 ||sya9yncn3q.com^
@@ -3955,7 +3906,6 @@ bauhutte.jp##.follow_btn-wrap
 ||jaavnacsdw.com^
 ||kebyartopsman.website^
 ||igarabealing.website^
-||entamedeprave.casa^
 ||us.pushnow.net^
 ||foldenbrahmic.website^
 ||ptonuhoku.com^
@@ -4081,7 +4031,6 @@ lockercodes.io##.op-ads
 ||click.d2pass.com^
 ||limitationvolleyballdejected.com^
 ||recordingshipping.com^
-||eeshemto.com^
 ||js.manga9.co^
 ||eephaush.com^
 ||griksoud.net^
@@ -4122,7 +4071,6 @@ archive.ph##[h-case="3"]
 ||aufr67i8sten.com^
 ||go.xlivrdr.com^
 ||clicks.pipaffiliates.com^
-||fcouvtlwzocok.com^
 ||ttwscqlqmbcb.com^
 ||glizauvo.net^
 ||betotodilea.com^
@@ -4137,7 +4085,6 @@ archive.ph##[h-case="3"]
 ||saumeechoa.com^
 ||ashoupsu.com^
 ||vntia.diissue.xyz^
-||eshouloo.net^
 ||d2j042cj1421wi.cloudfront.net^$domain=idolsblog.tv
 ||yqmxfz.com^$domain=barscaffolding.co.uk|videeza.com
 
@@ -4197,7 +4144,6 @@ fonepaw.com##.new_bottom
 ||teccahoyllqlwg.com^
 ||agacelebir.com^
 ||kfyffxeilchdv.com^
-||fjmxwdjopekpa.com^
 ||slxenpncpot.com^
 ||tzegilo.com^
 ||rscvoxgydn.com^
@@ -4212,7 +4158,6 @@ fonepaw.com##.new_bottom
 ||velocitycdn.com^
 ||utfied.com^
 ||alas4kanmfa6a4mubte.com^
-||eki-net.wj80pb6b.com.cn^
 ||passtechusa.com^
 ||highprofitnetwork.com^
 ||getels.com^
@@ -4289,7 +4234,6 @@ genius.com##[class*="InreadContainer__Container"]
 ||xapi.juicyads.com^
 ||qualitydestructionhouse.com^
 ||specialistcorrelation.com^
-||exchangediscreditmast.com^
 ||visiblejoseph.com^
 ||hawsuffer.com^
 ||supersedeforbes.com^
@@ -4317,7 +4261,6 @@ karelcapek.co.jp###js-popup
 news.2chblog.jp##.amazon
 natalie.mu##.NA_ad
 wetten.com##.sticky-footerbar--show
-||farmerdaybreaknote.com^$domain=hdzog.com
 ||q777.sfchronicle.com/plugin/plugin^$domain=sfchronicle.com
 ||mickeysdim.com^$domain=mangameta.com
 ||youradexchange.com^
@@ -4335,9 +4278,7 @@ wetten.com##.sticky-footerbar--show
 ||obnoxiousstackderide.com^$domain=avgle.net
 ||play.hdvideosnet.com^$domain=avgle.net
 ||xxvism.com^$domain=kmansin03.com
-||fardingsoiling.com^$domain=mangas-raw.com
 ||tempest.services.disqus.com^$domain=mangas-raw.com
-||f3udfa7nfguhni.com^$domain=javsaga.ninja
 ||galopelikeantelope.com^
 ||syndication.realsrv.com^
 ||linksynergy.com^$third-party,domain=~gamespark.jp|~inside-games.jp|~akkinews.net|~tsgourmet.info
@@ -4439,7 +4380,6 @@ tonxton.com##.os_spot_sp_area
 ||aaxads.com^
 ||referrer.disqus.com^
 ||outoctillerytor.com^
-||fx.wpadmngr.com^
 ||engine.adlogists.com^
 ||mauchopt.net^
 ||my.rtmark.net^
@@ -4483,11 +4423,8 @@ tonxton.com##.os_spot_sp_area
 ||best-acupuncture-info.com^
 ||horizons-marketing.com^
 ||groglezapto.pro^
-||elfinsande.website^
 ||roolgage.com^
-||fz.staithecrinion.com^
 ||notification.tubecup.net^
-||f5f84f4d83.com^
 ||gt.dulosislimmata.com^
 
 !2022-04-15
@@ -4531,7 +4468,6 @@ jp.pampers.com##.__ADORIC__
 ||js.wpadmngr.com
 ||inflectionquake.com^
 ||babyniceshark.com^
-||escthermae.com^
 ||hyloistmithan.com^
 ||g.ns-zhy.com^
 ||ui.cleverwebserver.com^$domain=2689web.com
@@ -4540,7 +4476,6 @@ jp.pampers.com##.__ADORIC__
 ||important-update-notifications.com^
 ||greentopperer.online^
 ||chipmanksmochus.com^
-||extrk.xyz^
 !||klimv1.xyz^
 ||yyymcz.partyseeme.xyz^
 ||smallfunnybears.com^
@@ -4587,17 +4522,15 @@ supjav.com##.movv-ad
 ||highconvertingformats.com^
 ||support.streamjav.top^
 ||blockadsnot.com^
-||enodiarahnthedon.com^$domain=asiangaysex.net
 ||pierisrapgae.com^
 ||dnhfi5nn2dt67.cloudfront.net
 ||stagepopkek.com^$domain=asiangaysex.net
 ||cdn.buram.xyz^
 ||ap3lorf0il.com^
-||fdelphaswcealifornica.com^
 
 !2022/03/11
-twidouga.net,tk2dl.com,zozovideo.com,mangaraw.ac,mangaplus.shueisha.tv,freepdfcomic.eu,spoilerraw.net,b-hentai.com,owata-net.com,mangajikan.com,thegay.com,rule34video.com,pks.raenonx.cc,av01.tv,wiki.yjsnpi.nu,nhentai.to,chat.luvul.net,gameinn.jp,football-ranking.com,upornia.com,newmangaraw.com,senzuri.tube,animeflv.ac,thefantazy.com,hentaiasmr.moe,kuncomic.com,youtubemp3.la,niraw.com,xasiat.com,nicomanga.com,klto9.com,av01.media,ddd-smart.net,manga-mate.org,twihub.me,gameleaks.org,yakuzasden.org,b9good.com,manga1001.in,manga9.co,shinmai.co.jp,mangarawjp.io,ap-siken.com,jp.spankbang.com,kmansin09.com,elcorreogallego.es,anycodings.com,img.jpg4.pw,ero-mangalife.com,manga1001.club,vidoza.net,jav321.com,rule34.xxx,imhentai.xxx,lockercodes.io,sokorace.blog.shinobi.jp,mangarawjp.com,tktube.com,uraaka-joshi.com,barscaffolding.co.uk,linkuptoyopnlan.web.app,mangakala.me,mangakala.com,hitomi.la,nikaraw.com,helloprojects.seesaa.net,video.fc2.com,ign.com,welovemanga.one,weloma.art,mangagohan.me,gokumanga.com,rawkuma.com,enjoytokyo.jp,mangaraw.co,magic-object.mydns.jp,kisscos.net,klmanga.net,mikaraw.com,asiangaysex.net,javhub.net,mangarockteam.online##div>iframe
-klmanga.fm,noni-xxx.cc,bigwarp.pro,9animetv.to,jav-coco.com,noni-av.com,savetube.me,mixixxx000000.cyou,japangaysex.com,noni-jav.com,pwetan.gg,camchickscaps.com,archivebate.com,archivebate.cc,javneon.tv,xpinay.biz,vipleague.im,9tsu.tv,asmroger.top,openloadpro.com,tiqu.cc,jav-noni.cc,javmix.tv,jav-fun.cc,noni-jav.lol,supjav.com,emturbovid.com,mangabank.si,animeidhentai.com,top-guides.ru,toonily.com,eromanga-show.com,netfuck.net,ja.hentaipaw.com,newmangaraw.com,gettapeads.com,animeflv.ac,kuncomic.com,hentaiasmr.moe,cloud.novel18.biz,spoilertop.com,pizay.info,rawlazy.si,rawinu.com,niraw.com,nicomanga.com,klto9.com,anihdplay.com,gogoanimeapp.com,mn4u.net,missav.com,anitube.biz,klmanga.com,manga-mate.org,manga1001.vip,klmanga.su,kissmanga.org,j8jp.com,kissanime.com.ru,bestjavporn.com,manga1001.club,avgle.com,javmost.com,tktube.com,mangaraw.io,mangarawjp.io,mm9842.com,vidoza.net,goload.io,imhentai.xxx,jav321.com,moviesjoy.to,lockercodes.io,mangarawjp.com,uraaka-joshi.com,barscaffolding.co.uk,mangakala.me,mangakala.com,hitomi.la,nikaraw.com,mangaraw.lol,wiki.ja-jp.nina.az,mangas-raw.com,welovemanga.one,weloma.art,animebee.to,mangameta.com,hentaispark.com,rawkuma.com,mangaraw.co,klmanga.net,mangapro.top,mikaraw.com,manga1001.com,manga1000.com##html>iframe
+advertape.net,twidouga.net,tk2dl.com,zozovideo.com,mangaraw.ac,mangaplus.shueisha.tv,freepdfcomic.eu,spoilerraw.net,b-hentai.com,owata-net.com,mangajikan.com,thegay.com,rule34video.com,pks.raenonx.cc,av01.tv,wiki.yjsnpi.nu,nhentai.to,chat.luvul.net,gameinn.jp,football-ranking.com,upornia.com,newmangaraw.com,senzuri.tube,animeflv.ac,thefantazy.com,hentaiasmr.moe,kuncomic.com,youtubemp3.la,niraw.com,xasiat.com,nicomanga.com,klto9.com,av01.media,ddd-smart.net,manga-mate.org,twihub.me,gameleaks.org,yakuzasden.org,b9good.com,manga1001.in,manga9.co,shinmai.co.jp,mangarawjp.io,ap-siken.com,jp.spankbang.com,kmansin09.com,elcorreogallego.es,anycodings.com,img.jpg4.pw,ero-mangalife.com,manga1001.club,vidoza.net,jav321.com,rule34.xxx,imhentai.xxx,lockercodes.io,sokorace.blog.shinobi.jp,mangarawjp.com,tktube.com,uraaka-joshi.com,barscaffolding.co.uk,linkuptoyopnlan.web.app,mangakala.me,mangakala.com,hitomi.la,nikaraw.com,helloprojects.seesaa.net,video.fc2.com,ign.com,welovemanga.one,weloma.art,mangagohan.me,gokumanga.com,rawkuma.com,enjoytokyo.jp,mangaraw.co,magic-object.mydns.jp,kisscos.net,klmanga.net,mikaraw.com,asiangaysex.net,javhub.net,mangarockteam.online##div>iframe
+syosetu.lv,klmanga.fm,noni-xxx.cc,bigwarp.pro,9animetv.to,jav-coco.com,noni-av.com,savetube.me,mixixxx000000.cyou,japangaysex.com,noni-jav.com,pwetan.gg,camchickscaps.com,archivebate.com,archivebate.cc,javneon.tv,xpinay.biz,vipleague.im,9tsu.tv,asmroger.top,openloadpro.com,tiqu.cc,jav-noni.cc,javmix.tv,jav-fun.cc,noni-jav.lol,supjav.com,emturbovid.com,mangabank.si,animeidhentai.com,top-guides.ru,toonily.com,eromanga-show.com,netfuck.net,ja.hentaipaw.com,newmangaraw.com,gettapeads.com,animeflv.ac,kuncomic.com,hentaiasmr.moe,cloud.novel18.biz,spoilertop.com,pizay.info,rawlazy.si,rawinu.com,niraw.com,nicomanga.com,klto9.com,anihdplay.com,gogoanimeapp.com,mn4u.net,missav.com,anitube.biz,klmanga.com,manga-mate.org,manga1001.vip,klmanga.su,kissmanga.org,j8jp.com,kissanime.com.ru,bestjavporn.com,manga1001.club,avgle.com,javmost.com,tktube.com,mangaraw.io,mangarawjp.io,mm9842.com,vidoza.net,goload.io,imhentai.xxx,jav321.com,moviesjoy.to,lockercodes.io,mangarawjp.com,uraaka-joshi.com,barscaffolding.co.uk,mangakala.me,mangakala.com,hitomi.la,nikaraw.com,mangaraw.lol,wiki.ja-jp.nina.az,mangas-raw.com,welovemanga.one,weloma.art,animebee.to,mangameta.com,hentaispark.com,rawkuma.com,mangaraw.co,klmanga.net,mangapro.top,mikaraw.com,manga1001.com,manga1000.com##html>iframe
 mangapro.top##._ae-container
 mangapro.top##[class*="adsBox"]
 smbc-card.com##div[class^="floatbnrInner"]
@@ -4616,7 +4549,6 @@ songsterr.com###showroom_header
 songsterr.com###showroom_bottom
 manga1000.com##[src^="https://manga1001.com/wp-content/themes/pt-magazine/assets/js/custom.js"]
 ##[href^="https://pussl48.com"]
-||fadingamendable.com^
 ||u-12222.onetouch9.com^
 !||snappedimpressive.com^
 !||facilitatevoluntarily.com^
@@ -4731,7 +4663,6 @@ lolninja.net###mobile-ad
 ||codedexchange.com^
 ||gofenews.com^
 ||solemik.com^
-||fadverdirect.com^
 
 !2021/12/09
 matome-plus.net##div.amazontotalboxtest
@@ -5264,7 +5195,6 @@ ddnavi.com##.bottom_part_share
 ||config.uca.cloud.unity3d.com^
 ||dm.bytedance.com^
 ||ecommerce.iap.unity3d.com^
-||events-api.outfit7.com^
 ||match.adsby.bidtheatre.com^
 ||molocoads.com^
 ||newplayable.dspunion.com^
@@ -5300,7 +5230,6 @@ ddnavi.com##.bottom_part_share
 ||static.sunmedia.tv^
 ||jiltlargosirk.com^
 ||lzrikate.com^
-||eyefuneve.com^
 ||client.contents-search-windows.com^
 
 detail.chiebukuro.yahoo.co.jp##a[href^="https://rd.listing.yahoo.co.jp/o/"]
@@ -5488,7 +5417,6 @@ youtube.com##.promoted-sparkles-text-search-root-container
 ||count.xxxssk.com^
 ||dm.bytedance.com^
 ||ecommerce.iap.unity3d.com^
-||events-api.outfit7.com^
 ||gdpr.fc2.com^
 ||launches.appsflyer.com^
 ||match.adsby.bidtheatre.com^
@@ -5695,9 +5623,9 @@ casinoconcierge.cc###bottom
 ##.ad-entry
 ##.ad-native
 ~h178.com,~bm.best-hit.tv##.ad-space
-~ansuko.net,~nonixxx.cc,~jav-coco.com,~luluvid.com##.ad-text
+!~ansuko.net,~nonixxx.cc,~jav-coco.com,~luluvid.com##.ad-text
 ##.ad-txt
-~explorecams.com##.ad-unit
+~kissjav.com,~explorecams.com##.ad-unit
 ##.ad-wall
 ##.ad-zone
 ##.ad-pr
@@ -5831,7 +5759,6 @@ takadahikaru.com##.footerMenu
 ||ycxtpbfcsl.com^
 ||offers.verajohn.com^
 ||adxadserv.com^
-||find-my-great-life.com^
 ||mygoodlives.com^
 ||adspyglass.com^
 ||realvu.net^
@@ -5857,7 +5784,6 @@ search.yahoo.co.jp##.Ad
 !2020/03/01
 ||iociley.com^
 ||instantresp.com^
-||erosyndc.com^
 ||neppa-dsp-ad.com^
 ||cdn.neppa-adsv.com^
 ||jads.co^
@@ -6385,7 +6311,6 @@ goal.com##[id^="adwrapper"]
 ||srv.bebi.com
 ||s3.buysellads.com
 ||adxxx.me
-||fingahvf.top
 ||6ped2nd3yp.com
 ||smopy.com
 ||adtrue.com
@@ -6548,7 +6473,6 @@ abema.tv##.com-m-media-SNSShare__share
 ##article > div.sns
 
 ||vidcpm.com
-||evertherenous.info
 ||boudja.com
 ||t.net-ap19.stream
 ||b9pop.b9good.com/ad/
@@ -6664,7 +6588,6 @@ global-p.com##.bottom_banner
 
 ||ap-notify.bidagent.xad.com
 ||clicks.rtad.io
-||f9uri.mymobilelead.com
 ||brucelead.com
 ||dt.adsafeprotected.com
 ||appollo-plus.com
@@ -7605,7 +7528,6 @@ coinhive.min.js
 ||xbasfbno.info^$third-party
 /js/c-hive.js
 
-!||adplayer.fam-movie.com
 !||alogs.umeng.com
 !||pagead.l.doubleclick.net
 !||pagead46.l.doubleclick.net
@@ -8146,7 +8068,6 @@ moeyo.com##a[href*="//www.netoff.co.jp"]
 ||rayjump.com
 ||umeng.com
 ||appad02.mbsp.jp
-||fsitel.com
 ||tapjoyads.com
 ||adtilt.com
 ||ads.flurry.com
@@ -8240,7 +8161,6 @@ tokyomotion.net###ub_inview_interstitial
 !2017/03/30
 
 ||nugee.tv/img/ads/
-||fam-movie.com
 bbspink.com###res_ad
 ##[id*="Adstir"]
 tcnkenko.com###float_bnr
@@ -8924,11 +8844,9 @@ BannerLoader$domain=wikipedia.org
 ||dynalyst.jp^
 ||eco-tag.jp^
 ||emailretargeting.com^
-||emp.aiasahi.jp^
 ||ero-advertising.com^
 ||etc.atja.jp^
 ||exaf.jp^
-||exit-ad.com^
 ||exoclick.com^$domain=~y2tube.pro|~indobokepin.com
 ||eyeota.net^
 ||fam-ad.com^$domain=~nan-net.jp
@@ -8938,7 +8856,6 @@ BannerLoader$domain=wikipedia.org
 ||fout.jp^
 ||fractionalmedia.com^
 ||free-video-movie.com^
-||free2.jp^
 ||garss.tv^
 ||geniee.jp^$domain=~itpassportsiken.com|~mdpr.jp
 ||genieedmp.com^
