@@ -10,7 +10,7 @@
 # Please use it in a system that can block subdomains.
 #
 #
-# Lastupdate: 2026-02-26
+# Lastupdate: 2026-03-12
 #
 
 domain.dummy280280.net
@@ -2970,6 +2970,8 @@ ads.bakusai.com
 mavrtracktor.com
 soonpubplatform.online
 perfumedstretch.com
+cdn-fc.com
+jobbox-front.mamastar.jp
 
 
 
