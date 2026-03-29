@@ -10,7 +10,7 @@
 # Please use it in a system that can block subdomains.
 #
 #
-# Lastupdate: 2026-03-12
+# Lastupdate: 2026-03-26
 #
 
 domain.dummy280280.net
@@ -2972,6 +2972,7 @@ soonpubplatform.online
 perfumedstretch.com
 cdn-fc.com
 jobbox-front.mamastar.jp
+adsboosters.xyz
 
 
 
