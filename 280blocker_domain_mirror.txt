@@ -10,7 +10,7 @@
 # Please use it in a system that can block subdomains.
 #
 #
-# Lastupdate: 2026-05-21
+# Lastupdate: 2026-06-04
 #
 
 domain.dummy280280.net
@@ -2975,6 +2975,7 @@ jobbox-front.mamastar.jp
 adsboosters.xyz
 n6wxm.com
 fin.ovh
+creative.5ch.fun
 
 
 
