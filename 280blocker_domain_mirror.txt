@@ -10,7 +10,7 @@
 # Please use it in a system that can block subdomains.
 #
 #
-# Lastupdate: 2026-06-18
+# Lastupdate: 2026-07-16
 #
 
 domain.dummy280280.net
@@ -2977,6 +2977,7 @@ n6wxm.com
 fin.ovh
 creative.5ch.fun
 gallerieshub.com
+whitetrafsa.com
 
 
 
