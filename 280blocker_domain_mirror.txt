@@ -10,7 +10,7 @@
 # Please use it in a system that can block subdomains.
 #
 #
-# Lastupdate: 2026-07-30
+# Lastupdate: 2026-08-13
 #
 
 domain.dummy280280.net
@@ -2980,6 +2980,10 @@ gallerieshub.com
 whitetrafsa.com
 scrollpop.online
 ad.zetacx.net
+adhub.porcino-kinoko.workers.dev
+browsiprod.com
+rise.enhance.co.jp
+
 
 
 
