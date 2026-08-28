@@ -10,7 +10,7 @@
 # Please use it in a system that can block subdomains.
 #
 #
-# Lastupdate: 2026-08-13
+# Lastupdate: 2026-08-27
 #
 
 domain.dummy280280.net
@@ -2983,6 +2983,9 @@ ad.zetacx.net
 adhub.porcino-kinoko.workers.dev
 browsiprod.com
 rise.enhance.co.jp
+adbpage.com
+adsgateway.net
+api.tblcontent.com
 
 
 
