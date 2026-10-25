@@ -10,7 +10,7 @@
 # Please use it in a system that can block subdomains.
 #
 #
-# Lastupdate: 2026-09-10
+# Lastupdate: 2026-10-22
 #
 
 domain.dummy280280.net
@@ -2993,6 +2993,7 @@ display.digitalclickstime.com
 traffic-media.co.uk
 attacheatableoverlabor.com
 prefecturesuggestions.com
+traffmovie.com
 
 
 
